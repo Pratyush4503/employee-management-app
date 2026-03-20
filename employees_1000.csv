@@ -1,0 +1,1001 @@
+emp_id,first_name,last_name,full_name,email,phone,department,designation,employment_type,city,date_of_joining,basic_salary,hra,allowances,deductions,net_pay,attendance_pct,performance,is_active
+1,Mahesh,Menon,Mahesh Menon,mahesh.menon627@company.com,+91 8924278597,Sales,Sales Executive,full_time,Gurugram,2022-01-14,102800,41120,15420,12336,147004,99.2,Good,Yes
+2,Nisha,Mishra,Nisha Mishra,nisha.mishra659@company.com,+91 9476328216,Marketing,Digital Marketer,full_time,Bangalore,2021-04-05,55000,22000,8250,6600,78650,99.9,Average,Yes
+3,Rajesh,Prasad,Rajesh Prasad,rajesh.prasad503@company.com,+91 8887710027,Sales,Sales Executive,part_time,Ahmedabad,2016-07-18,107000,42800,16050,12840,153010,98.2,Below Average,Yes
+4,Deepak,Agarwal,Deepak Agarwal,deepak.agarwal22@company.com,+91 8687144281,Human Resources,HR Manager,full_time,Kolkata,2020-05-01,77500,31000,11625,9300,110825,74.5,Below Average,Yes
+5,Arjun,Shukla,Arjun Shukla,arjun.shukla203@company.com,+91 7976928107,Legal,Paralegal,full_time,Chennai,2015-12-18,152200,60880,22830,18264,217646,84.3,Good,No
+6,Kabir,Yadav,Kabir Yadav,kabir.yadav884@company.com,+91 9101707826,Operations,Logistics Coordinator,full_time,Ahmedabad,2017-10-24,70900,28360,10635,8508,101387,81.3,Good,Yes
+7,Advait,Reddy,Advait Reddy,advait.reddy419@company.com,+91 8227457373,Human Resources,HR Executive,full_time,Bangalore,2016-10-31,81000,32400,12150,9720,115830,98.2,Good,Yes
+8,Krishna,Mishra,Krishna Mishra,krishna.mishra889@company.com,+91 8034699859,Sales,Sales Analyst,full_time,Ahmedabad,2021-05-23,99200,39680,14880,11904,141856,95.9,Excellent,Yes
+9,Pranav,Roy,Pranav Roy,pranav.roy613@company.com,+91 7718066337,Sales,Business Development,contract,Hyderabad,2019-10-04,73000,29200,10950,8760,104390,74.5,Good,Yes
+10,Kunal,Nair,Kunal Nair,kunal.nair717@company.com,+91 9993478898,Sales,Sales Analyst,full_time,Hyderabad,2018-05-31,93400,37360,14010,11208,133562,75.5,Good,Yes
+11,Kunal,Nair,Kunal Nair,kunal.nair443@company.com,+91 7135899091,Operations,Supply Chain Analyst,full_time,Noida,2024-06-04,107200,42880,16080,12864,153296,88.0,Below Average,Yes
+12,Vivaan,Khanna,Vivaan Khanna,vivaan.khanna126@company.com,+91 8775193370,Sales,Account Manager,part_time,Ahmedabad,2020-07-29,114600,45840,17190,13752,163878,88.0,Excellent,Yes
+13,Sachin,Bajpai,Sachin Bajpai,sachin.bajpai462@company.com,+91 7487791532,Marketing,Brand Manager,full_time,Chennai,2015-08-28,46300,18520,6945,5556,66209,99.6,Below Average,Yes
+14,Riya,Pandey,Riya Pandey,riya.pandey766@company.com,+91 7888219924,Operations,Supply Chain Analyst,part_time,Gurugram,2021-11-10,120700,48280,18105,14484,172601,78.6,Good,Yes
+15,Dhruv,Chauhan,Dhruv Chauhan,dhruv.chauhan983@company.com,+91 9030684762,Human Resources,HR Manager,full_time,Pune,2015-04-12,64300,25720,9645,7716,91949,99.1,Average,Yes
+16,Pooja,Tripathi,Pooja Tripathi,pooja.tripathi587@company.com,+91 8480502969,Marketing,Content Writer,full_time,Bangalore,2018-01-27,64700,25880,9705,7764,92521,82.4,Average,Yes
+17,Deepak,Reddy,Deepak Reddy,deepak.reddy957@company.com,+91 9086953033,Legal,Legal Advisor,part_time,Mumbai,2016-09-01,68300,27320,10245,8196,97669,82.6,Excellent,Yes
+18,Suresh,Mehta,Suresh Mehta,suresh.mehta642@company.com,+91 8112656484,Legal,Legal Analyst,part_time,Ahmedabad,2024-07-22,142700,57080,21405,17124,204061,98.2,Average,Yes
+19,Kunal,Patel,Kunal Patel,kunal.patel286@company.com,+91 7787230325,Sales,Sales Analyst,full_time,Hyderabad,2016-02-05,83400,33360,12510,10008,119262,82.5,Excellent,Yes
+20,Kunal,Roy,Kunal Roy,kunal.roy750@company.com,+91 8081425995,Sales,Sales Manager,full_time,Noida,2021-03-09,35100,14040,5265,4212,50193,79.1,Below Average,Yes
+21,Pari,Mehta,Pari Mehta,pari.mehta924@company.com,+91 8289796596,Engineering,Software Engineer,full_time,Pune,2021-01-08,137800,55120,20670,16536,197054,84.8,Excellent,Yes
+22,Arun,Agarwal,Arun Agarwal,arun.agarwal716@company.com,+91 7340976697,Sales,Business Development,contract,Kolkata,2022-03-02,111100,44440,16665,13332,158873,80.8,Below Average,Yes
+23,Varun,Garg,Varun Garg,varun.garg407@company.com,+91 8925844077,Engineering,Tech Lead,full_time,Bangalore,2023-12-12,53200,21280,7980,6384,76076,81.6,Average,Yes
+24,Deepak,Yadav,Deepak Yadav,deepak.yadav557@company.com,+91 8670367154,Finance,Senior Accountant,contract,Kolkata,2018-12-02,79000,31600,11850,9480,112970,84.1,Average,Yes
+25,Saurabh,Mishra,Saurabh Mishra,saurabh.mishra61@company.com,+91 9361084775,Human Resources,HR Executive,full_time,Chennai,2019-07-03,56900,22760,8535,6828,81367,87.5,Average,Yes
+26,Sneha,Pillai,Sneha Pillai,sneha.pillai347@company.com,+91 9463391770,Legal,Compliance Officer,contract,Chennai,2018-02-13,59800,23920,8970,7176,85514,77.7,Good,Yes
+27,Aarav,Mishra,Aarav Mishra,aarav.mishra633@company.com,+91 8960654319,IT Support,System Admin,contract,Gurugram,2019-07-18,47400,18960,7110,5688,67782,83.0,Below Average,Yes
+28,Priya,Chauhan,Priya Chauhan,priya.chauhan366@company.com,+91 8932559657,Human Resources,Recruiter,part_time,Ahmedabad,2023-07-07,89000,35600,13350,10680,127270,82.3,Average,Yes
+29,Krishna,Mehta,Krishna Mehta,krishna.mehta389@company.com,+91 8205943458,Sales,Sales Analyst,contract,Gurugram,2022-10-25,103000,41200,15450,12360,147290,85.5,Good,Yes
+30,Vivaan,Pandey,Vivaan Pandey,vivaan.pandey233@company.com,+91 9615627200,IT Support,IT Manager,part_time,Ahmedabad,2024-05-10,107000,42800,16050,12840,153010,99.0,Average,Yes
+31,Pooja,Malhotra,Pooja Malhotra,pooja.malhotra274@company.com,+91 8257319492,Marketing,Content Writer,full_time,Noida,2018-04-08,103900,41560,15585,12468,148577,75.7,Average,Yes
+32,Tarun,Nair,Tarun Nair,tarun.nair43@company.com,+91 7615988435,Finance,Financial Analyst,full_time,Mumbai,2024-04-05,138600,55440,20790,16632,198198,91.1,Average,Yes
+33,Meera,Mehta,Meera Mehta,meera.mehta847@company.com,+91 8574427619,IT Support,System Admin,part_time,Gurugram,2022-08-01,89100,35640,13365,10692,127413,73.2,Good,Yes
+34,Amit,Bhatt,Amit Bhatt,amit.bhatt421@company.com,+91 9446460937,Legal,Legal Analyst,full_time,Kolkata,2017-07-19,53300,21320,7995,6396,76219,84.9,Average,Yes
+35,Varun,Jain,Varun Jain,varun.jain698@company.com,+91 7227456268,Legal,Compliance Officer,full_time,Pune,2023-02-23,85800,34320,12870,10296,122694,92.3,Good,Yes
+36,Nisha,Chauhan,Nisha Chauhan,nisha.chauhan780@company.com,+91 8402992162,Sales,Sales Manager,contract,Ahmedabad,2016-04-26,107800,43120,16170,12936,154154,72.5,Below Average,Yes
+37,Raj,Menon,Raj Menon,raj.menon256@company.com,+91 7922224848,Engineering,DevOps Engineer,part_time,Chennai,2019-08-17,86500,34600,12975,10380,123695,77.6,Excellent,Yes
+38,Ramesh,Prasad,Ramesh Prasad,ramesh.prasad831@company.com,+91 7518402599,Marketing,Brand Manager,full_time,Ahmedabad,2020-06-18,74600,29840,11190,8952,106678,93.9,Average,Yes
+39,Krishna,Mittal,Krishna Mittal,krishna.mittal777@company.com,+91 9162770823,Sales,Sales Manager,full_time,Ahmedabad,2019-02-18,90300,36120,13545,10836,129129,93.7,Average,Yes
+40,Advik,Tripathi,Advik Tripathi,advik.tripathi142@company.com,+91 9625701379,Engineering,Tech Lead,part_time,Gurugram,2016-11-23,151000,60400,22650,18120,215930,96.9,Excellent,Yes
+41,Gaurav,Agarwal,Gaurav Agarwal,gaurav.agarwal908@company.com,+91 9868475276,Sales,Sales Executive,full_time,Hyderabad,2020-11-26,97300,38920,14595,11676,139139,92.0,Good,Yes
+42,Rahul,Reddy,Rahul Reddy,rahul.reddy77@company.com,+91 8131773515,Finance,Finance Manager,full_time,Mumbai,2018-03-24,79300,31720,11895,9516,113399,87.9,Below Average,Yes
+43,Amit,Joshi,Amit Joshi,amit.joshi797@company.com,+91 9020014856,Legal,Legal Advisor,full_time,Hyderabad,2017-08-10,154100,61640,23115,18492,220363,80.7,Below Average,Yes
+44,Mahesh,Singh,Mahesh Singh,mahesh.singh951@company.com,+91 9053369209,Marketing,Marketing Executive,full_time,Delhi,2019-08-13,69000,27600,10350,8280,98670,77.1,Below Average,Yes
+45,Rahul,Bhatt,Rahul Bhatt,rahul.bhatt593@company.com,+91 7551099495,Human Resources,Training Specialist,full_time,Hyderabad,2016-09-01,71000,28400,10650,8520,101530,88.5,Excellent,Yes
+46,Ishaan,Bhatt,Ishaan Bhatt,ishaan.bhatt231@company.com,+91 8145718344,Finance,Senior Accountant,full_time,Gurugram,2019-03-28,120000,48000,18000,14400,171600,89.1,Excellent,Yes
+47,Priya,Mehta,Priya Mehta,priya.mehta544@company.com,+91 9515860268,IT Support,Network Admin,full_time,Hyderabad,2023-08-16,82800,33120,12420,9936,118404,73.6,Average,Yes
+48,Darsh,Dubey,Darsh Dubey,darsh.dubey716@company.com,+91 8377256937,Human Resources,Recruiter,part_time,Noida,2018-02-07,75500,30200,11325,9060,107965,77.7,Excellent,Yes
+49,Krishna,Khanna,Krishna Khanna,krishna.khanna32@company.com,+91 8702005774,Sales,Business Development,full_time,Kolkata,2018-10-09,88200,35280,13230,10584,126126,86.7,Below Average,Yes
+50,Anika,Chopra,Anika Chopra,anika.chopra984@company.com,+91 8586532989,IT Support,IT Manager,part_time,Kolkata,2016-01-16,97000,38800,14550,11640,138710,75.7,Below Average,Yes
+51,Tarun,Roy,Tarun Roy,tarun.roy177@company.com,+91 7531110017,Marketing,Brand Manager,contract,Mumbai,2024-09-07,60000,24000,9000,7200,85800,75.6,Average,Yes
+52,Advait,Pillai,Advait Pillai,advait.pillai12@company.com,+91 7396352040,Legal,Contract Manager,full_time,Chennai,2020-09-18,120600,48240,18090,14472,172458,90.4,Excellent,Yes
+53,Divya,Prasad,Divya Prasad,divya.prasad562@company.com,+91 7908078139,IT Support,IT Support Engineer,full_time,Noida,2022-11-28,43700,17480,6555,5244,62491,97.7,Average,No
+54,Aadhya,Singh,Aadhya Singh,aadhya.singh137@company.com,+91 9527621066,IT Support,IT Manager,full_time,Hyderabad,2021-02-03,37600,15040,5640,4512,53768,99.3,Below Average,Yes
+55,Neha,Garg,Neha Garg,neha.garg722@company.com,+91 9721274606,IT Support,Help Desk Analyst,full_time,Delhi,2019-07-23,88500,35400,13275,10620,126555,73.0,Good,Yes
+56,Mahesh,Prasad,Mahesh Prasad,mahesh.prasad988@company.com,+91 9739599861,Engineering,Senior Engineer,part_time,Hyderabad,2023-01-19,124800,49920,18720,14976,178464,73.6,Good,Yes
+57,Rahul,Jain,Rahul Jain,rahul.jain85@company.com,+91 8698866943,Sales,Sales Manager,contract,Gurugram,2017-08-03,47900,19160,7185,5748,68497,90.5,Average,Yes
+58,Tarun,Dixit,Tarun Dixit,tarun.dixit468@company.com,+91 9133039891,Finance,Auditor,contract,Chennai,2019-01-12,122700,49080,18405,14724,175461,89.3,Excellent,Yes
+59,Anika,Shah,Anika Shah,anika.shah294@company.com,+91 9459773701,Human Resources,HR Manager,contract,Ahmedabad,2022-10-17,83100,33240,12465,9972,118833,94.6,Below Average,Yes
+60,Aarav,Dixit,Aarav Dixit,aarav.dixit908@company.com,+91 9813814593,Legal,Legal Advisor,contract,Gurugram,2020-03-18,120100,48040,18015,14412,171743,98.1,Good,Yes
+61,Amit,Shah,Amit Shah,amit.shah108@company.com,+91 8408261592,Engineering,Senior Engineer,full_time,Bangalore,2019-08-15,177700,71080,26655,21324,254111,78.5,Excellent,Yes
+62,Vivaan,Saxena,Vivaan Saxena,vivaan.saxena552@company.com,+91 8932398451,Finance,Auditor,part_time,Mumbai,2018-09-30,87400,34960,13110,10488,124982,88.1,Excellent,Yes
+63,Krishna,Mehta,Krishna Mehta,krishna.mehta334@company.com,+91 8714126975,Human Resources,Training Specialist,part_time,Delhi,2021-01-20,116900,46760,17535,14028,167167,80.7,Below Average,Yes
+64,Arun,Singh,Arun Singh,arun.singh452@company.com,+91 9046243539,Marketing,SEO Analyst,part_time,Gurugram,2023-03-10,83500,33400,12525,10020,119405,88.5,Below Average,Yes
+65,Priya,Agarwal,Priya Agarwal,priya.agarwal620@company.com,+91 8737564614,Sales,Sales Manager,full_time,Gurugram,2022-11-13,39000,15600,5850,4680,55770,77.8,Good,Yes
+66,Pankaj,Verma,Pankaj Verma,pankaj.verma113@company.com,+91 7593909174,Operations,Supply Chain Analyst,full_time,Chennai,2015-09-01,89200,35680,13380,10704,127556,80.5,Below Average,Yes
+67,Krishna,Joshi,Krishna Joshi,krishna.joshi94@company.com,+91 9033452358,Operations,Supply Chain Analyst,contract,Chennai,2021-11-17,103700,41480,15555,12444,148291,82.7,Good,Yes
+68,Sachin,Mittal,Sachin Mittal,sachin.mittal70@company.com,+91 8472365398,Marketing,Content Writer,full_time,Bangalore,2016-04-13,90700,36280,13605,10884,129701,95.8,Excellent,Yes
+69,Tarun,Kapoor,Tarun Kapoor,tarun.kapoor476@company.com,+91 9477991261,Engineering,Tech Lead,full_time,Mumbai,2015-06-05,103100,41240,15465,12372,147433,83.6,Below Average,Yes
+70,Varun,Tripathi,Varun Tripathi,varun.tripathi947@company.com,+91 9633044885,Marketing,SEO Analyst,full_time,Noida,2024-08-03,101800,40720,15270,12216,145574,83.2,Excellent,Yes
+71,Pranav,Singh,Pranav Singh,pranav.singh412@company.com,+91 9693229979,Sales,Business Development,full_time,Hyderabad,2016-10-14,83300,33320,12495,9996,119119,73.9,Excellent,Yes
+72,Saanvi,Kapoor,Saanvi Kapoor,saanvi.kapoor476@company.com,+91 7992717901,Finance,Financial Analyst,full_time,Delhi,2023-04-09,80000,32000,12000,9600,114400,89.2,Below Average,Yes
+73,Saurabh,Roy,Saurabh Roy,saurabh.roy258@company.com,+91 9916205919,Legal,Paralegal,full_time,Bangalore,2023-01-12,72900,29160,10935,8748,104247,74.4,Average,Yes
+74,Suresh,Bose,Suresh Bose,suresh.bose532@company.com,+91 9353636013,Marketing,Digital Marketer,full_time,Bangalore,2022-06-14,79000,31600,11850,9480,112970,89.3,Average,Yes
+75,Ayaan,Rao,Ayaan Rao,ayaan.rao149@company.com,+91 9934165479,IT Support,IT Manager,full_time,Chennai,2017-08-21,71400,28560,10710,8568,102102,96.8,Below Average,Yes
+76,Pankaj,Awasthi,Pankaj Awasthi,pankaj.awasthi931@company.com,+91 9514397367,Finance,Senior Accountant,part_time,Bangalore,2024-12-08,101400,40560,15210,12168,145002,85.7,Good,Yes
+77,Rohan,Pandey,Rohan Pandey,rohan.pandey856@company.com,+91 9775001644,Sales,Business Development,full_time,Gurugram,2023-11-19,39500,15800,5925,4740,56485,76.8,Excellent,Yes
+78,Rohan,Mehta,Rohan Mehta,rohan.mehta469@company.com,+91 7040720322,Legal,Legal Analyst,contract,Kolkata,2019-12-14,94300,37720,14145,11316,134849,93.2,Excellent,Yes
+79,Dhruv,Roy,Dhruv Roy,dhruv.roy394@company.com,+91 8789175332,Engineering,Software Engineer,part_time,Gurugram,2015-04-21,78900,31560,11835,9468,112827,90.7,Below Average,Yes
+80,Suresh,Bhatt,Suresh Bhatt,suresh.bhatt288@company.com,+91 9732290725,Sales,Sales Executive,contract,Kolkata,2019-01-24,111500,44600,16725,13380,159445,95.9,Excellent,Yes
+81,Nikhil,Saxena,Nikhil Saxena,nikhil.saxena599@company.com,+91 9611580262,Human Resources,HR Executive,full_time,Pune,2017-02-19,43000,17200,6450,5160,61490,80.6,Good,Yes
+82,Sneha,Prasad,Sneha Prasad,sneha.prasad29@company.com,+91 9881471477,IT Support,IT Manager,contract,Noida,2019-12-06,54400,21760,8160,6528,77792,79.1,Good,Yes
+83,Meera,Das,Meera Das,meera.das495@company.com,+91 9229745808,Legal,Contract Manager,full_time,Hyderabad,2024-10-30,106600,42640,15990,12792,152438,84.1,Excellent,Yes
+84,Aarav,Jain,Aarav Jain,aarav.jain444@company.com,+91 8025280391,Marketing,Brand Manager,full_time,Delhi,2017-09-25,122200,48880,18330,14664,174746,95.7,Below Average,Yes
+85,Varun,Verma,Varun Verma,varun.verma266@company.com,+91 9790482138,Sales,Sales Manager,full_time,Ahmedabad,2020-12-18,43900,17560,6585,5268,62777,76.6,Below Average,Yes
+86,Aditya,Dubey,Aditya Dubey,aditya.dubey122@company.com,+91 9532608897,Marketing,Digital Marketer,part_time,Mumbai,2019-12-17,73000,29200,10950,8760,104390,99.2,Excellent,Yes
+87,Ishaan,Khanna,Ishaan Khanna,ishaan.khanna166@company.com,+91 8957610303,IT Support,IT Support Engineer,part_time,Gurugram,2015-08-17,95200,38080,14280,11424,136136,75.6,Below Average,Yes
+88,Tarun,Dixit,Tarun Dixit,tarun.dixit82@company.com,+91 9134097991,IT Support,System Admin,contract,Gurugram,2023-05-24,50800,20320,7620,6096,72644,76.9,Excellent,Yes
+89,Kunal,Agarwal,Kunal Agarwal,kunal.agarwal500@company.com,+91 7947730596,Marketing,SEO Analyst,full_time,Gurugram,2021-05-04,119900,47960,17985,14388,171457,88.4,Average,Yes
+90,Arjun,Shah,Arjun Shah,arjun.shah592@company.com,+91 7688952601,IT Support,IT Manager,contract,Delhi,2023-01-31,104100,41640,15615,12492,148863,88.4,Excellent,Yes
+91,Saurabh,Chopra,Saurabh Chopra,saurabh.chopra278@company.com,+91 8680439023,Finance,Senior Accountant,contract,Hyderabad,2023-09-30,147000,58800,22050,17640,210210,92.3,Below Average,Yes
+92,Pranav,Garg,Pranav Garg,pranav.garg452@company.com,+91 7028003770,Engineering,DevOps Engineer,contract,Chennai,2015-05-08,54300,21720,8145,6516,77649,86.5,Excellent,Yes
+93,Neha,Chopra,Neha Chopra,neha.chopra942@company.com,+91 7752624767,Marketing,Digital Marketer,full_time,Kolkata,2016-11-17,114700,45880,17205,13764,164021,81.5,Below Average,Yes
+94,Advik,Das,Advik Das,advik.das497@company.com,+91 9591628726,Human Resources,Recruiter,contract,Pune,2023-08-28,105800,42320,15870,12696,151294,76.4,Good,Yes
+95,Saanvi,Patel,Saanvi Patel,saanvi.patel694@company.com,+91 8379950797,Engineering,DevOps Engineer,part_time,Pune,2017-02-02,56100,22440,8415,6732,80223,91.1,Average,Yes
+96,Pankaj,Yadav,Pankaj Yadav,pankaj.yadav310@company.com,+91 8188833662,Human Resources,HR Manager,full_time,Chennai,2021-03-09,98100,39240,14715,11772,140283,97.5,Excellent,No
+97,Rohan,Saxena,Rohan Saxena,rohan.saxena321@company.com,+91 9194570287,Human Resources,HR Manager,part_time,Chennai,2023-09-27,111700,44680,16755,13404,159731,97.8,Below Average,Yes
+98,Gaurav,Yadav,Gaurav Yadav,gaurav.yadav541@company.com,+91 7536152598,Sales,Account Manager,contract,Pune,2018-07-02,74200,29680,11130,8904,106106,85.8,Average,Yes
+99,Ayaan,Tiwari,Ayaan Tiwari,ayaan.tiwari818@company.com,+91 8282534980,Sales,Sales Analyst,contract,Gurugram,2015-04-30,108300,43320,16245,12996,154869,89.6,Good,Yes
+100,Nikhil,Mehta,Nikhil Mehta,nikhil.mehta151@company.com,+91 9458891727,Human Resources,HR Executive,part_time,Noida,2024-09-28,60600,24240,9090,7272,86658,96.0,Average,Yes
+101,Pranav,Khanna,Pranav Khanna,pranav.khanna274@company.com,+91 7519071249,Human Resources,HR Manager,full_time,Noida,2015-11-30,79400,31760,11910,9528,113542,72.8,Excellent,Yes
+102,Ramesh,Chopra,Ramesh Chopra,ramesh.chopra387@company.com,+91 9942255455,IT Support,Help Desk Analyst,contract,Hyderabad,2024-04-28,65700,26280,9855,7884,93951,80.9,Average,Yes
+103,Vikram,Nair,Vikram Nair,vikram.nair726@company.com,+91 8035991927,Human Resources,Training Specialist,full_time,Pune,2019-04-04,81400,32560,12210,9768,116402,86.9,Average,Yes
+104,Anjali,Verma,Anjali Verma,anjali.verma736@company.com,+91 9263481161,Marketing,Brand Manager,full_time,Ahmedabad,2015-06-27,87500,35000,13125,10500,125125,91.2,Excellent,Yes
+105,Neha,Kapoor,Neha Kapoor,neha.kapoor871@company.com,+91 7925006550,Sales,Sales Manager,full_time,Gurugram,2020-07-13,46200,18480,6930,5544,66066,99.0,Below Average,Yes
+106,Kabir,Nair,Kabir Nair,kabir.nair429@company.com,+91 8961542958,Engineering,DevOps Engineer,full_time,Pune,2016-12-24,87100,34840,13065,10452,124553,87.4,Below Average,Yes
+107,Kabir,Nair,Kabir Nair,kabir.nair446@company.com,+91 9848547142,IT Support,Network Admin,full_time,Ahmedabad,2016-01-01,68200,27280,10230,8184,97526,78.3,Excellent,Yes
+108,Gaurav,Das,Gaurav Das,gaurav.das245@company.com,+91 7641685953,Engineering,Software Engineer,full_time,Mumbai,2018-03-13,140500,56200,21075,16860,200915,82.8,Below Average,Yes
+109,Kunal,Bajpai,Kunal Bajpai,kunal.bajpai562@company.com,+91 8230846911,Operations,Process Engineer,part_time,Gurugram,2016-03-27,113000,45200,16950,13560,161590,81.0,Below Average,Yes
+110,Gaurav,Saxena,Gaurav Saxena,gaurav.saxena715@company.com,+91 8536416753,Sales,Account Manager,full_time,Mumbai,2024-06-22,50800,20320,7620,6096,72644,79.0,Good,Yes
+111,Vikram,Mittal,Vikram Mittal,vikram.mittal210@company.com,+91 7977749715,Sales,Sales Manager,full_time,Delhi,2023-03-31,53500,21400,8025,6420,76505,83.7,Excellent,Yes
+112,Rohan,Dubey,Rohan Dubey,rohan.dubey454@company.com,+91 9785694939,Marketing,Marketing Executive,full_time,Delhi,2024-01-13,81000,32400,12150,9720,115830,77.3,Excellent,No
+113,Kavya,Sharma,Kavya Sharma,kavya.sharma466@company.com,+91 8009078667,Finance,Financial Analyst,full_time,Gurugram,2018-04-01,72700,29080,10905,8724,103961,88.3,Below Average,Yes
+114,Vikram,Naidu,Vikram Naidu,vikram.naidu465@company.com,+91 7803840426,IT Support,Help Desk Analyst,full_time,Mumbai,2019-02-01,68400,27360,10260,8208,97812,80.9,Good,Yes
+115,Kabir,Kapoor,Kabir Kapoor,kabir.kapoor446@company.com,+91 9742221367,Engineering,QA Engineer,contract,Gurugram,2015-05-04,136700,54680,20505,16404,195481,74.0,Average,Yes
+116,Ayaan,Kumar,Ayaan Kumar,ayaan.kumar958@company.com,+91 7562413906,Finance,Financial Analyst,contract,Bangalore,2016-12-07,82300,32920,12345,9876,117689,86.0,Excellent,Yes
+117,Varun,Reddy,Varun Reddy,varun.reddy201@company.com,+91 9127843561,IT Support,IT Manager,part_time,Hyderabad,2015-07-12,104000,41600,15600,12480,148720,76.8,Average,Yes
+118,Vihaan,Shah,Vihaan Shah,vihaan.shah93@company.com,+91 7552053095,Marketing,Content Writer,full_time,Delhi,2022-10-15,35400,14160,5310,4248,50622,75.2,Good,Yes
+119,Saurabh,Mehta,Saurabh Mehta,saurabh.mehta520@company.com,+91 7212564200,IT Support,IT Support Engineer,contract,Mumbai,2024-08-15,78300,31320,11745,9396,111969,82.8,Excellent,Yes
+120,Arjun,Chauhan,Arjun Chauhan,arjun.chauhan893@company.com,+91 9178408450,Human Resources,Training Specialist,contract,Pune,2015-09-23,119800,47920,17970,14376,171314,98.6,Good,Yes
+121,Pranav,Mittal,Pranav Mittal,pranav.mittal359@company.com,+91 9462663754,Sales,Business Development,full_time,Hyderabad,2022-05-20,74800,29920,11220,8976,106964,75.6,Excellent,No
+122,Sai,Verma,Sai Verma,sai.verma23@company.com,+91 7355897303,Operations,Logistics Coordinator,full_time,Delhi,2021-12-18,130400,52160,19560,15648,186472,94.1,Average,Yes
+123,Karan,Awasthi,Karan Awasthi,karan.awasthi418@company.com,+91 7630718792,IT Support,System Admin,full_time,Pune,2018-04-11,50800,20320,7620,6096,72644,86.2,Excellent,Yes
+124,Divya,Nair,Divya Nair,divya.nair20@company.com,+91 9803826692,Finance,Finance Manager,contract,Pune,2018-01-03,71200,28480,10680,8544,101816,72.8,Excellent,Yes
+125,Arjun,Saxena,Arjun Saxena,arjun.saxena416@company.com,+91 9821373599,Finance,Senior Accountant,full_time,Hyderabad,2016-09-25,70300,28120,10545,8436,100529,76.2,Average,Yes
+126,Ishaan,Malhotra,Ishaan Malhotra,ishaan.malhotra25@company.com,+91 7055086891,Human Resources,Recruiter,full_time,Delhi,2016-01-17,100200,40080,15030,12024,143286,76.2,Below Average,Yes
+127,Simran,Chaudhary,Simran Chaudhary,simran.chaudhary471@company.com,+91 7503101964,IT Support,Help Desk Analyst,full_time,Chennai,2016-06-28,100100,40040,15015,12012,143143,86.0,Average,No
+128,Raj,Chopra,Raj Chopra,raj.chopra145@company.com,+91 8007849944,Legal,Legal Analyst,part_time,Pune,2024-08-08,130500,52200,19575,15660,186615,93.4,Good,Yes
+129,Pooja,Chopra,Pooja Chopra,pooja.chopra154@company.com,+91 8524843929,IT Support,IT Support Engineer,full_time,Noida,2022-05-17,101700,40680,15255,12204,145431,75.3,Average,Yes
+130,Diya,Dubey,Diya Dubey,diya.dubey493@company.com,+91 9668446957,Finance,Financial Analyst,full_time,Hyderabad,2020-04-14,87800,35120,13170,10536,125554,98.6,Below Average,Yes
+131,Meera,Chopra,Meera Chopra,meera.chopra196@company.com,+91 7719399131,Operations,Logistics Coordinator,full_time,Delhi,2022-11-11,66100,26440,9915,7932,94523,72.4,Below Average,Yes
+132,Shaurya,Malhotra,Shaurya Malhotra,shaurya.malhotra808@company.com,+91 8550479791,Human Resources,Recruiter,part_time,Noida,2018-09-14,81500,32600,12225,9780,116545,96.3,Below Average,Yes
+133,Meera,Mehta,Meera Mehta,meera.mehta270@company.com,+91 8205631078,Engineering,QA Engineer,part_time,Hyderabad,2024-01-21,122900,49160,18435,14748,175747,77.9,Excellent,Yes
+134,Suresh,Chaudhary,Suresh Chaudhary,suresh.chaudhary569@company.com,+91 7156773398,Finance,Senior Accountant,full_time,Kolkata,2023-07-06,57400,22960,8610,6888,82082,93.8,Below Average,Yes
+135,Rahul,Prasad,Rahul Prasad,rahul.prasad640@company.com,+91 9479049441,Human Resources,HR Analyst,contract,Gurugram,2018-09-17,39800,15920,5970,4776,56914,76.5,Average,Yes
+136,Varun,Iyer,Varun Iyer,varun.iyer576@company.com,+91 7714972051,Human Resources,HR Executive,full_time,Gurugram,2024-04-06,88500,35400,13275,10620,126555,88.3,Good,Yes
+137,Kabir,Yadav,Kabir Yadav,kabir.yadav459@company.com,+91 8311668229,Human Resources,Training Specialist,full_time,Hyderabad,2021-03-03,111100,44440,16665,13332,158873,90.0,Below Average,Yes
+138,Arjun,Nair,Arjun Nair,arjun.nair288@company.com,+91 7919027546,Finance,Auditor,full_time,Kolkata,2015-10-07,119900,47960,17985,14388,171457,98.5,Below Average,Yes
+139,Saurabh,Iyer,Saurabh Iyer,saurabh.iyer14@company.com,+91 9481320854,Engineering,Senior Engineer,part_time,Pune,2018-05-16,124200,49680,18630,14904,177606,96.0,Below Average,Yes
+140,Vikram,Kumar,Vikram Kumar,vikram.kumar298@company.com,+91 7833673650,Operations,Operations Analyst,part_time,Kolkata,2022-09-25,79000,31600,11850,9480,112970,75.2,Excellent,Yes
+141,Gaurav,Rao,Gaurav Rao,gaurav.rao277@company.com,+91 9614578800,Sales,Sales Analyst,full_time,Kolkata,2024-04-02,30700,12280,4605,3684,43901,72.2,Good,Yes
+142,Kabir,Shah,Kabir Shah,kabir.shah125@company.com,+91 7265386769,Finance,Finance Manager,contract,Noida,2021-12-14,123300,49320,18495,14796,176319,93.1,Average,No
+143,Advait,Bajpai,Advait Bajpai,advait.bajpai995@company.com,+91 9604530234,Engineering,Senior Engineer,full_time,Hyderabad,2016-06-11,158200,63280,23730,18984,226226,96.6,Average,Yes
+144,Tanvi,Srivastava,Tanvi Srivastava,tanvi.srivastava363@company.com,+91 7341369451,Operations,Logistics Coordinator,full_time,Bangalore,2024-12-24,106800,42720,16020,12816,152724,82.7,Excellent,Yes
+145,Deepak,Prasad,Deepak Prasad,deepak.prasad354@company.com,+91 8712898807,Human Resources,HR Manager,full_time,Delhi,2024-04-10,41900,16760,6285,5028,59917,86.1,Average,Yes
+146,Nisha,Rao,Nisha Rao,nisha.rao368@company.com,+91 7221054583,Human Resources,Recruiter,full_time,Delhi,2015-10-30,108300,43320,16245,12996,154869,81.5,Excellent,Yes
+147,Sai,Menon,Sai Menon,sai.menon481@company.com,+91 7351618068,Marketing,Content Writer,full_time,Ahmedabad,2018-03-14,110600,44240,16590,13272,158158,74.5,Average,Yes
+148,Sai,Kapoor,Sai Kapoor,sai.kapoor850@company.com,+91 9275920176,Operations,Supply Chain Analyst,part_time,Gurugram,2017-06-07,58800,23520,8820,7056,84084,98.4,Below Average,Yes
+149,Ayaan,Dixit,Ayaan Dixit,ayaan.dixit105@company.com,+91 7026047933,Marketing,Digital Marketer,full_time,Ahmedabad,2021-11-27,120400,48160,18060,14448,172172,99.9,Below Average,Yes
+150,Anjali,Menon,Anjali Menon,anjali.menon879@company.com,+91 7471797834,Human Resources,Training Specialist,full_time,Hyderabad,2016-04-18,72800,29120,10920,8736,104104,90.6,Average,Yes
+151,Kabir,Agarwal,Kabir Agarwal,kabir.agarwal702@company.com,+91 9140210317,Finance,Auditor,contract,Pune,2020-08-05,146400,58560,21960,17568,209352,82.3,Good,Yes
+152,Mahesh,Shah,Mahesh Shah,mahesh.shah756@company.com,+91 8506746873,Legal,Contract Manager,part_time,Mumbai,2024-12-24,153900,61560,23085,18468,220077,95.9,Below Average,Yes
+153,Manish,Mishra,Manish Mishra,manish.mishra717@company.com,+91 9842186812,Finance,Finance Manager,full_time,Kolkata,2024-08-03,119000,47600,17850,14280,170170,98.3,Average,Yes
+154,Anjali,Rao,Anjali Rao,anjali.rao693@company.com,+91 7895944993,Finance,Financial Analyst,full_time,Bangalore,2019-06-06,112000,44800,16800,13440,160160,94.6,Good,Yes
+155,Kavya,Srivastava,Kavya Srivastava,kavya.srivastava735@company.com,+91 8277877057,Marketing,Content Writer,full_time,Hyderabad,2017-12-26,98000,39200,14700,11760,140140,87.2,Below Average,Yes
+156,Raj,Pandey,Raj Pandey,raj.pandey461@company.com,+91 9735450703,Marketing,Digital Marketer,part_time,Pune,2017-03-09,39100,15640,5865,4692,55913,80.8,Excellent,Yes
+157,Shaurya,Patel,Shaurya Patel,shaurya.patel47@company.com,+91 8305174288,Finance,Senior Accountant,full_time,Bangalore,2020-11-04,100500,40200,15075,12060,143715,79.5,Average,Yes
+158,Aadhya,Tripathi,Aadhya Tripathi,aadhya.tripathi237@company.com,+91 9885346916,Marketing,Digital Marketer,full_time,Pune,2020-03-09,105300,42120,15795,12636,150579,87.2,Average,Yes
+159,Meera,Bhatt,Meera Bhatt,meera.bhatt785@company.com,+91 9506639533,Operations,Process Engineer,full_time,Pune,2021-02-23,85500,34200,12825,10260,122265,78.2,Below Average,Yes
+160,Divya,Tiwari,Divya Tiwari,divya.tiwari129@company.com,+91 8918742173,IT Support,System Admin,part_time,Delhi,2016-06-19,107200,42880,16080,12864,153296,95.5,Good,Yes
+161,Shaurya,Sharma,Shaurya Sharma,shaurya.sharma223@company.com,+91 9695108549,Legal,Contract Manager,full_time,Chennai,2023-03-18,133400,53360,20010,16008,190762,81.4,Excellent,No
+162,Tarun,Soni,Tarun Soni,tarun.soni562@company.com,+91 9176372935,Sales,Sales Manager,full_time,Mumbai,2021-02-06,66400,26560,9960,7968,94952,72.8,Excellent,Yes
+163,Pari,Awasthi,Pari Awasthi,pari.awasthi698@company.com,+91 9552968545,IT Support,System Admin,full_time,Bangalore,2016-12-08,45600,18240,6840,5472,65208,89.7,Excellent,Yes
+164,Aarav,Reddy,Aarav Reddy,aarav.reddy677@company.com,+91 7609233697,Finance,Financial Analyst,full_time,Ahmedabad,2019-04-22,41100,16440,6165,4932,58773,96.1,Excellent,Yes
+165,Sneha,Tiwari,Sneha Tiwari,sneha.tiwari712@company.com,+91 7265333460,Operations,Operations Manager,contract,Delhi,2021-06-15,123800,49520,18570,14856,177034,99.1,Below Average,Yes
+166,Pranav,Pandey,Pranav Pandey,pranav.pandey254@company.com,+91 9069932036,Operations,Supply Chain Analyst,contract,Delhi,2022-11-30,43500,17400,6525,5220,62205,76.6,Excellent,Yes
+167,Simran,Menon,Simran Menon,simran.menon499@company.com,+91 7192238598,Legal,Legal Advisor,part_time,Pune,2022-11-21,103100,41240,15465,12372,147433,86.6,Average,No
+168,Amit,Iyer,Amit Iyer,amit.iyer313@company.com,+91 8282257075,Operations,Supply Chain Analyst,full_time,Kolkata,2021-09-10,51800,20720,7770,6216,74074,78.0,Average,Yes
+169,Arjun,Goyal,Arjun Goyal,arjun.goyal179@company.com,+91 9948596505,Marketing,Marketing Executive,full_time,Noida,2022-08-24,107100,42840,16065,12852,153153,78.6,Good,Yes
+170,Krishna,Shukla,Krishna Shukla,krishna.shukla107@company.com,+91 9937862837,IT Support,Network Admin,part_time,Hyderabad,2022-03-08,84600,33840,12690,10152,120978,78.2,Good,Yes
+171,Vihaan,Garg,Vihaan Garg,vihaan.garg345@company.com,+91 7904928065,IT Support,IT Manager,contract,Delhi,2023-10-28,61300,24520,9195,7356,87659,85.8,Average,Yes
+172,Shaurya,Bose,Shaurya Bose,shaurya.bose814@company.com,+91 8374111194,Marketing,SEO Analyst,contract,Gurugram,2024-09-06,66300,26520,9945,7956,94809,79.5,Excellent,Yes
+173,Manish,Goyal,Manish Goyal,manish.goyal116@company.com,+91 8681555835,Marketing,Content Writer,full_time,Delhi,2021-08-04,95800,38320,14370,11496,136994,91.9,Good,Yes
+174,Ishaan,Reddy,Ishaan Reddy,ishaan.reddy34@company.com,+91 7164117760,IT Support,System Admin,full_time,Gurugram,2020-11-23,84600,33840,12690,10152,120978,75.5,Average,Yes
+175,Deepak,Iyer,Deepak Iyer,deepak.iyer68@company.com,+91 9508855391,Marketing,Digital Marketer,full_time,Kolkata,2024-01-11,84500,33800,12675,10140,120835,80.4,Below Average,Yes
+176,Tanvi,Khanna,Tanvi Khanna,tanvi.khanna979@company.com,+91 9744863961,Human Resources,HR Manager,full_time,Mumbai,2024-07-04,86800,34720,13020,10416,124124,97.6,Below Average,No
+177,Meera,Rao,Meera Rao,meera.rao516@company.com,+91 7949765426,Legal,Paralegal,contract,Kolkata,2017-01-30,117600,47040,17640,14112,168168,90.8,Average,Yes
+178,Dhruv,Mehta,Dhruv Mehta,dhruv.mehta495@company.com,+91 7251297228,Finance,Auditor,full_time,Mumbai,2015-02-05,124100,49640,18615,14892,177463,86.7,Below Average,Yes
+179,Ananya,Tripathi,Ananya Tripathi,ananya.tripathi272@company.com,+91 9111056741,Human Resources,Recruiter,full_time,Chennai,2023-03-28,82400,32960,12360,9888,117832,76.0,Good,Yes
+180,Simran,Nair,Simran Nair,simran.nair107@company.com,+91 8261679500,Sales,Sales Manager,full_time,Pune,2016-01-30,117300,46920,17595,14076,167739,92.0,Good,Yes
+181,Shreya,Tiwari,Shreya Tiwari,shreya.tiwari422@company.com,+91 7726345429,Legal,Compliance Officer,part_time,Chennai,2019-10-12,105000,42000,15750,12600,150150,73.9,Excellent,Yes
+182,Pankaj,Bajpai,Pankaj Bajpai,pankaj.bajpai226@company.com,+91 9749000402,Marketing,SEO Analyst,contract,Pune,2020-01-24,101500,40600,15225,12180,145145,89.6,Average,Yes
+183,Amit,Malhotra,Amit Malhotra,amit.malhotra878@company.com,+91 9949489709,Operations,Operations Manager,full_time,Delhi,2017-11-22,42700,17080,6405,5124,61061,77.5,Below Average,Yes
+184,Kabir,Chopra,Kabir Chopra,kabir.chopra514@company.com,+91 7076250877,Operations,Supply Chain Analyst,full_time,Ahmedabad,2017-03-09,55000,22000,8250,6600,78650,79.0,Below Average,Yes
+185,Deepak,Roy,Deepak Roy,deepak.roy973@company.com,+91 8316210965,Human Resources,HR Manager,full_time,Pune,2017-06-25,59000,23600,8850,7080,84370,87.7,Average,Yes
+186,Riya,Verma,Riya Verma,riya.verma734@company.com,+91 9379592460,Human Resources,HR Executive,full_time,Hyderabad,2017-08-24,91600,36640,13740,10992,130988,86.5,Average,Yes
+187,Dhruv,Mishra,Dhruv Mishra,dhruv.mishra529@company.com,+91 7551486770,Finance,Senior Accountant,full_time,Chennai,2020-04-16,90900,36360,13635,10908,129987,74.2,Below Average,Yes
+188,Pranav,Patel,Pranav Patel,pranav.patel27@company.com,+91 7566581089,Marketing,Content Writer,part_time,Gurugram,2024-06-06,84000,33600,12600,10080,120120,76.8,Good,Yes
+189,Atharv,Verma,Atharv Verma,atharv.verma827@company.com,+91 9330749242,Legal,Legal Analyst,full_time,Chennai,2021-12-19,136400,54560,20460,16368,195052,90.2,Average,Yes
+190,Diya,Goyal,Diya Goyal,diya.goyal734@company.com,+91 9710041726,Finance,Accountant,full_time,Delhi,2023-03-17,124200,49680,18630,14904,177606,89.3,Excellent,Yes
+191,Rahul,Verma,Rahul Verma,rahul.verma851@company.com,+91 9418167008,Operations,Logistics Coordinator,full_time,Noida,2018-08-14,116500,46600,17475,13980,166595,77.0,Excellent,Yes
+192,Meera,Kumar,Meera Kumar,meera.kumar685@company.com,+91 8433643924,Human Resources,HR Analyst,full_time,Mumbai,2018-03-30,65500,26200,9825,7860,93665,97.0,Below Average,Yes
+193,Aarush,Pillai,Aarush Pillai,aarush.pillai481@company.com,+91 7980608580,Legal,Contract Manager,full_time,Hyderabad,2020-03-20,159200,63680,23880,19104,227656,87.6,Below Average,Yes
+194,Suresh,Das,Suresh Das,suresh.das454@company.com,+91 8664825596,Marketing,Brand Manager,full_time,Hyderabad,2017-09-10,113800,45520,17070,13656,162734,91.6,Below Average,Yes
+195,Sachin,Shukla,Sachin Shukla,sachin.shukla457@company.com,+91 8341723432,Human Resources,Recruiter,full_time,Noida,2017-09-26,65500,26200,9825,7860,93665,91.5,Good,Yes
+196,Varun,Garg,Varun Garg,varun.garg804@company.com,+91 7052634670,Operations,Supply Chain Analyst,full_time,Delhi,2015-02-25,64000,25600,9600,7680,91520,75.2,Average,Yes
+197,Rahul,Soni,Rahul Soni,rahul.soni588@company.com,+91 7596189901,Finance,Senior Accountant,full_time,Kolkata,2019-09-07,144600,57840,21690,17352,206778,87.3,Good,Yes
+198,Pooja,Awasthi,Pooja Awasthi,pooja.awasthi672@company.com,+91 7200648734,Engineering,Software Engineer,part_time,Pune,2023-12-12,45500,18200,6825,5460,65065,73.4,Good,Yes
+199,Riya,Chauhan,Riya Chauhan,riya.chauhan747@company.com,+91 8008563641,Engineering,DevOps Engineer,full_time,Gurugram,2019-03-03,126500,50600,18975,15180,180895,85.7,Excellent,Yes
+200,Nisha,Chopra,Nisha Chopra,nisha.chopra349@company.com,+91 7097140121,Finance,Financial Analyst,full_time,Mumbai,2020-09-25,130200,52080,19530,15624,186186,93.1,Excellent,Yes
+201,Krishna,Verma,Krishna Verma,krishna.verma775@company.com,+91 7426412726,Finance,Senior Accountant,part_time,Bangalore,2017-10-27,83800,33520,12570,10056,119834,99.5,Average,Yes
+202,Nisha,Joshi,Nisha Joshi,nisha.joshi169@company.com,+91 9215086665,Finance,Finance Manager,part_time,Noida,2018-07-13,41900,16760,6285,5028,59917,94.7,Good,Yes
+203,Kavya,Jain,Kavya Jain,kavya.jain98@company.com,+91 9427629357,Finance,Finance Manager,part_time,Hyderabad,2015-04-13,140700,56280,21105,16884,201201,75.7,Average,Yes
+204,Shreya,Bansal,Shreya Bansal,shreya.bansal511@company.com,+91 7845798159,Sales,Sales Manager,contract,Delhi,2016-02-26,35200,14080,5280,4224,50336,93.4,Below Average,Yes
+205,Atharv,Goyal,Atharv Goyal,atharv.goyal365@company.com,+91 8914995075,IT Support,IT Manager,full_time,Bangalore,2024-06-20,39700,15880,5955,4764,56771,89.7,Average,Yes
+206,Shreya,Dubey,Shreya Dubey,shreya.dubey294@company.com,+91 9298823339,Marketing,Marketing Executive,contract,Chennai,2016-07-16,51000,20400,7650,6120,72930,89.9,Average,Yes
+207,Neha,Soni,Neha Soni,neha.soni466@company.com,+91 9355861913,IT Support,IT Support Engineer,contract,Hyderabad,2021-05-06,90900,36360,13635,10908,129987,86.7,Below Average,Yes
+208,Deepak,Pandey,Deepak Pandey,deepak.pandey384@company.com,+91 8022221177,Sales,Sales Executive,full_time,Hyderabad,2018-09-26,93600,37440,14040,11232,133848,92.8,Below Average,Yes
+209,Pranav,Sharma,Pranav Sharma,pranav.sharma82@company.com,+91 8402690870,Sales,Account Manager,full_time,Kolkata,2022-05-03,78900,31560,11835,9468,112827,95.5,Excellent,Yes
+210,Anika,Reddy,Anika Reddy,anika.reddy354@company.com,+91 7594362538,Legal,Legal Advisor,full_time,Ahmedabad,2017-12-03,106300,42520,15945,12756,152009,78.6,Average,Yes
+211,Aarav,Saxena,Aarav Saxena,aarav.saxena325@company.com,+91 8515222657,Sales,Account Manager,full_time,Kolkata,2024-02-16,55500,22200,8325,6660,79365,88.5,Excellent,No
+212,Nisha,Khanna,Nisha Khanna,nisha.khanna981@company.com,+91 7310381659,Sales,Sales Analyst,full_time,Kolkata,2023-05-21,57200,22880,8580,6864,81796,84.0,Excellent,Yes
+213,Arjun,Mehta,Arjun Mehta,arjun.mehta66@company.com,+91 9177924361,Legal,Legal Analyst,full_time,Pune,2021-06-06,112300,44920,16845,13476,160589,85.4,Excellent,Yes
+214,Simran,Garg,Simran Garg,simran.garg446@company.com,+91 8765449943,Engineering,Software Engineer,full_time,Bangalore,2021-12-06,95000,38000,14250,11400,135850,83.6,Good,Yes
+215,Anjali,Dixit,Anjali Dixit,anjali.dixit347@company.com,+91 7185933052,Engineering,QA Engineer,contract,Pune,2018-08-12,139500,55800,20925,16740,199485,92.2,Good,Yes
+216,Arjun,Mehta,Arjun Mehta,arjun.mehta255@company.com,+91 9669666425,Finance,Accountant,full_time,Kolkata,2018-09-01,111400,44560,16710,13368,159302,76.6,Good,Yes
+217,Swati,Bansal,Swati Bansal,swati.bansal671@company.com,+91 8946629685,Marketing,SEO Analyst,contract,Hyderabad,2024-11-11,108000,43200,16200,12960,154440,89.3,Average,Yes
+218,Anika,Chauhan,Anika Chauhan,anika.chauhan836@company.com,+91 8751204537,Operations,Operations Manager,full_time,Pune,2024-01-14,126900,50760,19035,15228,181467,74.4,Excellent,Yes
+219,Pranav,Saxena,Pranav Saxena,pranav.saxena531@company.com,+91 9271891481,Marketing,Digital Marketer,full_time,Bangalore,2023-12-20,63100,25240,9465,7572,90233,97.2,Excellent,Yes
+220,Riya,Iyer,Riya Iyer,riya.iyer558@company.com,+91 7984206992,IT Support,IT Support Engineer,full_time,Pune,2017-03-28,107200,42880,16080,12864,153296,98.1,Average,Yes
+221,Vihaan,Awasthi,Vihaan Awasthi,vihaan.awasthi47@company.com,+91 9703556022,IT Support,Network Admin,contract,Kolkata,2022-01-08,56100,22440,8415,6732,80223,99.1,Average,Yes
+222,Divya,Mittal,Divya Mittal,divya.mittal565@company.com,+91 9829806182,Engineering,Tech Lead,full_time,Hyderabad,2019-02-25,134100,53640,20115,16092,191763,85.7,Average,Yes
+223,Rahul,Mishra,Rahul Mishra,rahul.mishra128@company.com,+91 7548270415,Operations,Logistics Coordinator,contract,Kolkata,2023-03-22,80900,32360,12135,9708,115687,72.6,Below Average,Yes
+224,Shreya,Mehta,Shreya Mehta,shreya.mehta186@company.com,+91 9431644151,Human Resources,Training Specialist,full_time,Chennai,2015-02-06,62100,24840,9315,7452,88803,96.0,Below Average,Yes
+225,Priya,Verma,Priya Verma,priya.verma457@company.com,+91 7473902972,Human Resources,Training Specialist,contract,Bangalore,2017-09-26,86900,34760,13035,10428,124267,98.0,Below Average,Yes
+226,Sachin,Mehta,Sachin Mehta,sachin.mehta969@company.com,+91 8819640399,Operations,Operations Analyst,full_time,Noida,2016-01-06,84300,33720,12645,10116,120549,78.8,Excellent,Yes
+227,Saurabh,Dixit,Saurabh Dixit,saurabh.dixit990@company.com,+91 9427304479,Engineering,QA Engineer,full_time,Pune,2018-02-05,129800,51920,19470,15576,185614,81.9,Excellent,Yes
+228,Pankaj,Chaudhary,Pankaj Chaudhary,pankaj.chaudhary853@company.com,+91 7030227329,Operations,Operations Analyst,contract,Hyderabad,2015-11-02,132900,53160,19935,15948,190047,95.1,Good,Yes
+229,Tanvi,Soni,Tanvi Soni,tanvi.soni580@company.com,+91 7820456670,Legal,Legal Advisor,full_time,Gurugram,2018-03-03,52600,21040,7890,6312,75218,78.5,Excellent,Yes
+230,Sachin,Singh,Sachin Singh,sachin.singh856@company.com,+91 8524739076,Sales,Sales Executive,full_time,Ahmedabad,2019-10-07,119700,47880,17955,14364,171171,89.2,Good,Yes
+231,Pooja,Rao,Pooja Rao,pooja.rao915@company.com,+91 9877527049,IT Support,IT Manager,part_time,Noida,2015-05-20,101800,40720,15270,12216,145574,94.0,Below Average,Yes
+232,Ananya,Srivastava,Ananya Srivastava,ananya.srivastava410@company.com,+91 8810382085,Operations,Operations Manager,part_time,Kolkata,2020-08-13,101000,40400,15150,12120,144430,88.3,Average,Yes
+233,Dhruv,Yadav,Dhruv Yadav,dhruv.yadav519@company.com,+91 7066870218,Legal,Legal Analyst,full_time,Hyderabad,2015-06-22,137400,54960,20610,16488,196482,79.4,Below Average,Yes
+234,Riya,Garg,Riya Garg,riya.garg549@company.com,+91 9960140923,Finance,Financial Analyst,full_time,Bangalore,2015-10-01,40700,16280,6105,4884,58201,99.5,Good,Yes
+235,Krishna,Verma,Krishna Verma,krishna.verma844@company.com,+91 7769521137,IT Support,System Admin,contract,Delhi,2018-08-17,107100,42840,16065,12852,153153,73.2,Below Average,Yes
+236,Pankaj,Shah,Pankaj Shah,pankaj.shah399@company.com,+91 9519143704,Operations,Logistics Coordinator,full_time,Hyderabad,2019-07-25,118100,47240,17715,14172,168883,95.8,Below Average,Yes
+237,Tanvi,Kumar,Tanvi Kumar,tanvi.kumar880@company.com,+91 8694970253,Sales,Sales Manager,full_time,Mumbai,2015-09-18,51200,20480,7680,6144,73216,97.0,Excellent,Yes
+238,Pari,Verma,Pari Verma,pari.verma384@company.com,+91 7007926192,Human Resources,Training Specialist,full_time,Hyderabad,2024-08-10,49000,19600,7350,5880,70070,92.3,Good,Yes
+239,Raj,Bose,Raj Bose,raj.bose385@company.com,+91 7502005058,Human Resources,HR Analyst,part_time,Ahmedabad,2024-03-28,35800,14320,5370,4296,51194,86.0,Below Average,Yes
+240,Diya,Pandey,Diya Pandey,diya.pandey166@company.com,+91 9608118452,Legal,Compliance Officer,full_time,Ahmedabad,2017-05-04,85300,34120,12795,10236,121979,78.2,Below Average,Yes
+241,Raj,Menon,Raj Menon,raj.menon898@company.com,+91 9523777161,Engineering,Senior Engineer,contract,Chennai,2017-01-06,122700,49080,18405,14724,175461,88.6,Excellent,Yes
+242,Riya,Bajpai,Riya Bajpai,riya.bajpai837@company.com,+91 8285847346,Legal,Paralegal,full_time,Chennai,2016-03-09,159200,63680,23880,19104,227656,95.9,Average,Yes
+243,Shreya,Nair,Shreya Nair,shreya.nair6@company.com,+91 8669050444,Finance,Accountant,full_time,Delhi,2021-09-20,83300,33320,12495,9996,119119,86.0,Good,Yes
+244,Amit,Prasad,Amit Prasad,amit.prasad655@company.com,+91 7813181482,Legal,Paralegal,full_time,Ahmedabad,2015-05-21,53900,21560,8085,6468,77077,94.4,Average,Yes
+245,Meera,Iyer,Meera Iyer,meera.iyer353@company.com,+91 9245592267,Operations,Operations Analyst,contract,Kolkata,2018-06-28,38200,15280,5730,4584,54626,76.3,Excellent,Yes
+246,Sneha,Chopra,Sneha Chopra,sneha.chopra743@company.com,+91 7187582527,Legal,Legal Advisor,full_time,Mumbai,2017-05-31,126100,50440,18915,15132,180323,93.0,Average,Yes
+247,Advait,Bansal,Advait Bansal,advait.bansal801@company.com,+91 9185164602,Human Resources,HR Analyst,full_time,Noida,2022-05-23,43900,17560,6585,5268,62777,85.9,Good,Yes
+248,Sachin,Shukla,Sachin Shukla,sachin.shukla347@company.com,+91 8889391762,Legal,Legal Advisor,contract,Hyderabad,2020-02-08,83400,33360,12510,10008,119262,76.1,Below Average,Yes
+249,Gaurav,Sharma,Gaurav Sharma,gaurav.sharma508@company.com,+91 9476016275,Legal,Paralegal,part_time,Kolkata,2016-03-11,112400,44960,16860,13488,160732,90.5,Excellent,Yes
+250,Arun,Pillai,Arun Pillai,arun.pillai414@company.com,+91 7789755516,Operations,Supply Chain Analyst,full_time,Ahmedabad,2019-08-30,118000,47200,17700,14160,168740,91.9,Excellent,Yes
+251,Ishaan,Iyer,Ishaan Iyer,ishaan.iyer949@company.com,+91 9297396140,Finance,Finance Manager,contract,Hyderabad,2019-09-29,83900,33560,12585,10068,119977,74.8,Good,Yes
+252,Advik,Prasad,Advik Prasad,advik.prasad96@company.com,+91 7469321625,Sales,Sales Analyst,full_time,Pune,2017-01-25,56100,22440,8415,6732,80223,92.2,Excellent,Yes
+253,Darsh,Agarwal,Darsh Agarwal,darsh.agarwal353@company.com,+91 9801235456,Human Resources,HR Executive,part_time,Mumbai,2022-05-23,54400,21760,8160,6528,77792,88.5,Below Average,Yes
+254,Shaurya,Kumar,Shaurya Kumar,shaurya.kumar825@company.com,+91 8269616670,Marketing,Digital Marketer,full_time,Pune,2018-06-04,82200,32880,12330,9864,117546,74.9,Good,Yes
+255,Sneha,Mehta,Sneha Mehta,sneha.mehta887@company.com,+91 7278873528,IT Support,Help Desk Analyst,full_time,Gurugram,2024-04-12,44000,17600,6600,5280,62920,86.4,Average,Yes
+256,Anjali,Rao,Anjali Rao,anjali.rao796@company.com,+91 7100689296,Legal,Contract Manager,full_time,Pune,2018-10-28,94100,37640,14115,11292,134563,74.0,Good,Yes
+257,Advik,Kumar,Advik Kumar,advik.kumar642@company.com,+91 8565029928,Engineering,DevOps Engineer,full_time,Gurugram,2023-04-14,153400,61360,23010,18408,219362,72.0,Average,Yes
+258,Advik,Iyer,Advik Iyer,advik.iyer343@company.com,+91 7224436586,Finance,Accountant,full_time,Bangalore,2018-09-18,102500,41000,15375,12300,146575,81.4,Excellent,Yes
+259,Divya,Mishra,Divya Mishra,divya.mishra49@company.com,+91 9536301726,Legal,Compliance Officer,full_time,Chennai,2018-11-20,78100,31240,11715,9372,111683,85.1,Good,Yes
+260,Sachin,Yadav,Sachin Yadav,sachin.yadav408@company.com,+91 8128694570,Marketing,Digital Marketer,part_time,Delhi,2018-02-15,62300,24920,9345,7476,89089,82.5,Good,Yes
+261,Aarav,Iyer,Aarav Iyer,aarav.iyer544@company.com,+91 8521860077,Sales,Sales Manager,full_time,Hyderabad,2020-06-22,111400,44560,16710,13368,159302,74.7,Excellent,Yes
+262,Simran,Shukla,Simran Shukla,simran.shukla292@company.com,+91 9077002372,Marketing,SEO Analyst,full_time,Delhi,2018-05-11,111000,44400,16650,13320,158730,81.6,Good,Yes
+263,Aarav,Shukla,Aarav Shukla,aarav.shukla471@company.com,+91 8737804514,Operations,Supply Chain Analyst,contract,Ahmedabad,2022-11-16,48100,19240,7215,5772,68783,75.7,Good,Yes
+264,Diya,Joshi,Diya Joshi,diya.joshi139@company.com,+91 9593813243,IT Support,System Admin,full_time,Gurugram,2016-07-15,38800,15520,5820,4656,55484,89.5,Average,Yes
+265,Saanvi,Das,Saanvi Das,saanvi.das629@company.com,+91 8723709852,Legal,Legal Analyst,full_time,Chennai,2023-03-23,117100,46840,17565,14052,167453,91.7,Below Average,Yes
+266,Ishaan,Pandey,Ishaan Pandey,ishaan.pandey624@company.com,+91 8532084198,Finance,Finance Manager,contract,Hyderabad,2021-08-24,128100,51240,19215,15372,183183,75.5,Excellent,Yes
+267,Diya,Mittal,Diya Mittal,diya.mittal707@company.com,+91 9183338237,Marketing,SEO Analyst,full_time,Chennai,2020-11-07,77300,30920,11595,9276,110539,80.5,Average,No
+268,Aarav,Reddy,Aarav Reddy,aarav.reddy111@company.com,+91 9982197977,Finance,Accountant,part_time,Delhi,2015-09-12,51300,20520,7695,6156,73359,73.9,Below Average,Yes
+269,Nisha,Yadav,Nisha Yadav,nisha.yadav468@company.com,+91 7516407694,Sales,Sales Analyst,part_time,Mumbai,2016-01-15,117200,46880,17580,14064,167596,80.9,Below Average,Yes
+270,Arun,Pillai,Arun Pillai,arun.pillai940@company.com,+91 7426653347,Engineering,Software Engineer,full_time,Delhi,2018-06-06,47400,18960,7110,5688,67782,86.3,Excellent,Yes
+271,Priya,Tripathi,Priya Tripathi,priya.tripathi292@company.com,+91 7878999381,Engineering,DevOps Engineer,full_time,Gurugram,2016-02-07,118700,47480,17805,14244,169741,73.1,Good,Yes
+272,Rohan,Chopra,Rohan Chopra,rohan.chopra889@company.com,+91 8280347302,Human Resources,HR Manager,full_time,Noida,2016-06-21,109700,43880,16455,13164,156871,76.9,Good,Yes
+273,Shreya,Das,Shreya Das,shreya.das381@company.com,+91 9588249259,Operations,Process Engineer,contract,Delhi,2017-03-12,119300,47720,17895,14316,170599,98.0,Excellent,Yes
+274,Ananya,Dixit,Ananya Dixit,ananya.dixit849@company.com,+91 7412346570,Engineering,Software Engineer,part_time,Pune,2018-10-22,56100,22440,8415,6732,80223,97.6,Good,Yes
+275,Amit,Bansal,Amit Bansal,amit.bansal631@company.com,+91 8493394086,Finance,Finance Manager,full_time,Bangalore,2022-08-27,138100,55240,20715,16572,197483,95.1,Average,Yes
+276,Karan,Goyal,Karan Goyal,karan.goyal183@company.com,+91 9126489829,Sales,Sales Executive,contract,Delhi,2022-02-08,93500,37400,14025,11220,133705,74.4,Average,Yes
+277,Aadhya,Bansal,Aadhya Bansal,aadhya.bansal651@company.com,+91 8820568364,Sales,Sales Analyst,full_time,Hyderabad,2019-05-23,89400,35760,13410,10728,127842,98.1,Below Average,No
+278,Sneha,Soni,Sneha Soni,sneha.soni400@company.com,+91 9018003707,Sales,Sales Executive,full_time,Bangalore,2023-09-10,48800,19520,7320,5856,69784,98.6,Below Average,Yes
+279,Darsh,Rao,Darsh Rao,darsh.rao979@company.com,+91 8967811983,IT Support,System Admin,full_time,Bangalore,2023-06-05,45800,18320,6870,5496,65494,83.9,Excellent,Yes
+280,Kavya,Tripathi,Kavya Tripathi,kavya.tripathi929@company.com,+91 9565763856,Engineering,Tech Lead,contract,Mumbai,2015-02-24,84900,33960,12735,10188,121407,83.9,Good,Yes
+281,Atharv,Roy,Atharv Roy,atharv.roy596@company.com,+91 8324369421,Operations,Logistics Coordinator,part_time,Mumbai,2019-07-07,124500,49800,18675,14940,178035,87.8,Average,Yes
+282,Sai,Goyal,Sai Goyal,sai.goyal129@company.com,+91 9894290191,IT Support,System Admin,full_time,Hyderabad,2023-01-08,73500,29400,11025,8820,105105,98.0,Good,Yes
+283,Riya,Roy,Riya Roy,riya.roy112@company.com,+91 7639008735,Finance,Finance Manager,full_time,Delhi,2020-01-06,112500,45000,16875,13500,160875,77.2,Excellent,Yes
+284,Kabir,Menon,Kabir Menon,kabir.menon383@company.com,+91 9536809007,Legal,Paralegal,part_time,Kolkata,2016-01-06,99500,39800,14925,11940,142285,96.5,Below Average,Yes
+285,Raj,Garg,Raj Garg,raj.garg140@company.com,+91 9810477145,Marketing,Brand Manager,part_time,Ahmedabad,2016-10-12,67700,27080,10155,8124,96811,85.2,Good,Yes
+286,Nisha,Sharma,Nisha Sharma,nisha.sharma603@company.com,+91 9028124057,Finance,Accountant,full_time,Kolkata,2019-12-27,96800,38720,14520,11616,138424,74.5,Excellent,Yes
+287,Kunal,Patel,Kunal Patel,kunal.patel919@company.com,+91 9788341653,Engineering,Software Engineer,part_time,Delhi,2015-05-07,52300,20920,7845,6276,74789,72.1,Below Average,Yes
+288,Ritvik,Mittal,Ritvik Mittal,ritvik.mittal353@company.com,+91 8181554711,Engineering,QA Engineer,full_time,Hyderabad,2021-02-08,105100,42040,15765,12612,150293,99.7,Good,Yes
+289,Rahul,Singh,Rahul Singh,rahul.singh520@company.com,+91 9306085554,Sales,Sales Manager,full_time,Mumbai,2022-12-01,35600,14240,5340,4272,50908,81.1,Average,Yes
+290,Aarush,Kapoor,Aarush Kapoor,aarush.kapoor227@company.com,+91 8211703269,Human Resources,HR Executive,contract,Delhi,2023-10-06,117000,46800,17550,14040,167310,72.2,Excellent,Yes
+291,Dhruv,Jain,Dhruv Jain,dhruv.jain773@company.com,+91 8806792959,Sales,Sales Executive,full_time,Bangalore,2015-01-12,98900,39560,14835,11868,141427,84.2,Average,Yes
+292,Riya,Chauhan,Riya Chauhan,riya.chauhan500@company.com,+91 9529644336,IT Support,Network Admin,part_time,Gurugram,2024-04-23,92300,36920,13845,11076,131989,77.2,Good,Yes
+293,Darsh,Bose,Darsh Bose,darsh.bose150@company.com,+91 9082224805,Legal,Contract Manager,contract,Delhi,2022-12-27,109600,43840,16440,13152,156728,78.9,Good,Yes
+294,Deepak,Mittal,Deepak Mittal,deepak.mittal954@company.com,+91 8678489052,Legal,Paralegal,full_time,Gurugram,2021-12-02,111500,44600,16725,13380,159445,91.6,Below Average,Yes
+295,Simran,Kumar,Simran Kumar,simran.kumar915@company.com,+91 8933565997,Legal,Legal Analyst,full_time,Delhi,2018-05-05,144300,57720,21645,17316,206349,86.9,Good,Yes
+296,Aditya,Sharma,Aditya Sharma,aditya.sharma308@company.com,+91 8930525892,IT Support,Help Desk Analyst,contract,Pune,2015-10-17,95500,38200,14325,11460,136565,81.9,Average,Yes
+297,Arjun,Malhotra,Arjun Malhotra,arjun.malhotra869@company.com,+91 7628033423,Marketing,Digital Marketer,part_time,Hyderabad,2022-02-27,117700,47080,17655,14124,168311,84.3,Average,Yes
+298,Suresh,Chopra,Suresh Chopra,suresh.chopra509@company.com,+91 9311005315,Sales,Sales Executive,part_time,Kolkata,2021-06-22,85800,34320,12870,10296,122694,79.1,Good,Yes
+299,Sai,Tiwari,Sai Tiwari,sai.tiwari979@company.com,+91 7260253214,IT Support,IT Support Engineer,full_time,Mumbai,2024-08-26,68400,27360,10260,8208,97812,91.8,Good,Yes
+300,Karan,Reddy,Karan Reddy,karan.reddy853@company.com,+91 7662328310,IT Support,System Admin,full_time,Delhi,2019-10-02,74500,29800,11175,8940,106535,89.3,Below Average,Yes
+301,Nikhil,Verma,Nikhil Verma,nikhil.verma377@company.com,+91 8432498279,Human Resources,HR Manager,full_time,Gurugram,2022-07-27,97200,38880,14580,11664,138996,88.2,Below Average,Yes
+302,Kunal,Rao,Kunal Rao,kunal.rao210@company.com,+91 7066902455,Finance,Finance Manager,full_time,Hyderabad,2017-03-07,118900,47560,17835,14268,170027,97.2,Excellent,Yes
+303,Aadhya,Saxena,Aadhya Saxena,aadhya.saxena660@company.com,+91 7097700745,Marketing,SEO Analyst,full_time,Mumbai,2024-12-31,71300,28520,10695,8556,101959,74.5,Average,Yes
+304,Arun,Chaudhary,Arun Chaudhary,arun.chaudhary686@company.com,+91 8372593945,Legal,Compliance Officer,part_time,Gurugram,2019-08-10,97800,39120,14670,11736,139854,88.8,Average,Yes
+305,Meera,Bhatt,Meera Bhatt,meera.bhatt956@company.com,+91 9615699992,Finance,Senior Accountant,full_time,Delhi,2017-01-18,54900,21960,8235,6588,78507,77.1,Excellent,Yes
+306,Ishaan,Iyer,Ishaan Iyer,ishaan.iyer109@company.com,+91 8328521482,Engineering,QA Engineer,full_time,Chennai,2021-03-28,117900,47160,17685,14148,168597,81.4,Below Average,Yes
+307,Rahul,Iyer,Rahul Iyer,rahul.iyer824@company.com,+91 8678330807,Sales,Sales Manager,part_time,Ahmedabad,2023-10-04,81600,32640,12240,9792,116688,73.4,Below Average,Yes
+308,Swati,Chaudhary,Swati Chaudhary,swati.chaudhary23@company.com,+91 7936790365,Engineering,DevOps Engineer,contract,Gurugram,2017-12-28,58800,23520,8820,7056,84084,73.1,Good,Yes
+309,Saanvi,Roy,Saanvi Roy,saanvi.roy612@company.com,+91 8879500302,Marketing,Content Writer,full_time,Hyderabad,2015-03-30,67000,26800,10050,8040,95810,90.4,Below Average,Yes
+310,Arun,Khanna,Arun Khanna,arun.khanna545@company.com,+91 8632476220,Finance,Auditor,contract,Bangalore,2015-01-13,66600,26640,9990,7992,95238,74.4,Good,Yes
+311,Reyansh,Malhotra,Reyansh Malhotra,reyansh.malhotra165@company.com,+91 7713793140,Sales,Sales Manager,full_time,Chennai,2022-05-24,88500,35400,13275,10620,126555,99.2,Good,Yes
+312,Sai,Pandey,Sai Pandey,sai.pandey661@company.com,+91 9777865558,Human Resources,HR Manager,part_time,Gurugram,2024-08-01,80000,32000,12000,9600,114400,82.2,Average,Yes
+313,Dhruv,Menon,Dhruv Menon,dhruv.menon374@company.com,+91 8037226290,Legal,Legal Advisor,contract,Hyderabad,2019-01-06,153500,61400,23025,18420,219505,76.0,Excellent,Yes
+314,Arun,Naidu,Arun Naidu,arun.naidu478@company.com,+91 7879876231,Legal,Legal Advisor,full_time,Bangalore,2017-01-10,124900,49960,18735,14988,178607,74.2,Below Average,Yes
+315,Sachin,Goyal,Sachin Goyal,sachin.goyal725@company.com,+91 8614267300,Operations,Supply Chain Analyst,part_time,Hyderabad,2019-08-23,92600,37040,13890,11112,132418,98.7,Below Average,Yes
+316,Raj,Soni,Raj Soni,raj.soni360@company.com,+91 9385607410,Operations,Operations Analyst,part_time,Noida,2019-06-08,115600,46240,17340,13872,165308,83.5,Average,Yes
+317,Aarush,Das,Aarush Das,aarush.das796@company.com,+91 9703971715,Finance,Auditor,contract,Pune,2023-05-27,42500,17000,6375,5100,60775,95.4,Excellent,Yes
+318,Priya,Chauhan,Priya Chauhan,priya.chauhan498@company.com,+91 8624475584,IT Support,Network Admin,contract,Delhi,2020-06-02,72100,28840,10815,8652,103103,76.1,Average,Yes
+319,Nisha,Reddy,Nisha Reddy,nisha.reddy862@company.com,+91 9909871609,Legal,Legal Analyst,part_time,Mumbai,2016-05-19,85500,34200,12825,10260,122265,96.9,Good,Yes
+320,Manish,Shukla,Manish Shukla,manish.shukla7@company.com,+91 8384526153,Engineering,Senior Engineer,full_time,Kolkata,2021-06-01,155800,62320,23370,18696,222794,78.9,Excellent,Yes
+321,Riya,Menon,Riya Menon,riya.menon809@company.com,+91 9148153769,Finance,Finance Manager,full_time,Noida,2017-12-26,42100,16840,6315,5052,60203,79.2,Good,Yes
+322,Anika,Chauhan,Anika Chauhan,anika.chauhan251@company.com,+91 9871900090,Finance,Senior Accountant,full_time,Chennai,2016-09-07,137700,55080,20655,16524,196911,72.6,Average,Yes
+323,Pranav,Shah,Pranav Shah,pranav.shah802@company.com,+91 7267732476,Marketing,Marketing Executive,full_time,Delhi,2016-04-29,79400,31760,11910,9528,113542,98.3,Excellent,Yes
+324,Swati,Nair,Swati Nair,swati.nair646@company.com,+91 9598637303,IT Support,Help Desk Analyst,full_time,Mumbai,2021-12-06,86300,34520,12945,10356,123409,87.2,Good,Yes
+325,Krishna,Gupta,Krishna Gupta,krishna.gupta612@company.com,+91 9497306570,Engineering,Software Engineer,full_time,Chennai,2016-04-19,55100,22040,8265,6612,78793,81.4,Good,Yes
+326,Pranav,Shah,Pranav Shah,pranav.shah503@company.com,+91 8201797394,Sales,Sales Analyst,contract,Noida,2023-12-28,75000,30000,11250,9000,107250,84.0,Good,Yes
+327,Vihaan,Naidu,Vihaan Naidu,vihaan.naidu284@company.com,+91 7647998497,Marketing,Content Writer,contract,Ahmedabad,2017-06-15,92600,37040,13890,11112,132418,93.6,Average,Yes
+328,Nikhil,Kumar,Nikhil Kumar,nikhil.kumar797@company.com,+91 7912270812,Marketing,Content Writer,full_time,Chennai,2016-09-21,130000,52000,19500,15600,185900,93.0,Excellent,Yes
+329,Arun,Roy,Arun Roy,arun.roy989@company.com,+91 9887559636,IT Support,IT Manager,contract,Hyderabad,2017-05-06,59200,23680,8880,7104,84656,91.1,Below Average,Yes
+330,Diya,Chaudhary,Diya Chaudhary,diya.chaudhary771@company.com,+91 7694752392,Legal,Contract Manager,part_time,Bangalore,2017-03-16,124300,49720,18645,14916,177749,89.0,Excellent,Yes
+331,Kavya,Menon,Kavya Menon,kavya.menon619@company.com,+91 9260426443,Sales,Business Development,part_time,Chennai,2019-12-30,82200,32880,12330,9864,117546,89.8,Excellent,Yes
+332,Atharv,Mishra,Atharv Mishra,atharv.mishra867@company.com,+91 8353154491,Sales,Sales Manager,part_time,Pune,2015-07-02,43200,17280,6480,5184,61776,83.4,Below Average,Yes
+333,Kavya,Prasad,Kavya Prasad,kavya.prasad483@company.com,+91 9163704723,Human Resources,HR Analyst,full_time,Gurugram,2020-04-09,76200,30480,11430,9144,108966,74.8,Average,Yes
+334,Vivaan,Pillai,Vivaan Pillai,vivaan.pillai867@company.com,+91 8578769733,Operations,Operations Analyst,full_time,Pune,2019-10-27,112500,45000,16875,13500,160875,75.0,Below Average,Yes
+335,Ramesh,Malhotra,Ramesh Malhotra,ramesh.malhotra19@company.com,+91 8990332317,Engineering,Software Engineer,part_time,Hyderabad,2023-08-10,125600,50240,18840,15072,179608,77.6,Excellent,Yes
+336,Pari,Bajpai,Pari Bajpai,pari.bajpai2@company.com,+91 7566059286,IT Support,System Admin,full_time,Noida,2020-12-06,35500,14200,5325,4260,50765,99.9,Average,Yes
+337,Tarun,Yadav,Tarun Yadav,tarun.yadav480@company.com,+91 7815211043,Sales,Sales Manager,full_time,Bangalore,2016-08-16,81400,32560,12210,9768,116402,97.9,Average,Yes
+338,Kunal,Malhotra,Kunal Malhotra,kunal.malhotra795@company.com,+91 7952292426,Finance,Auditor,full_time,Mumbai,2020-04-13,90000,36000,13500,10800,128700,98.4,Below Average,Yes
+339,Rahul,Chopra,Rahul Chopra,rahul.chopra935@company.com,+91 9209654888,Marketing,Digital Marketer,part_time,Kolkata,2015-08-05,91900,36760,13785,11028,131417,79.6,Below Average,Yes
+340,Ayaan,Rao,Ayaan Rao,ayaan.rao750@company.com,+91 7151744488,Sales,Sales Executive,full_time,Hyderabad,2020-01-03,64300,25720,9645,7716,91949,91.2,Good,Yes
+341,Suresh,Naidu,Suresh Naidu,suresh.naidu612@company.com,+91 9512242542,Operations,Supply Chain Analyst,full_time,Gurugram,2021-07-11,90200,36080,13530,10824,128986,79.0,Good,Yes
+342,Ritvik,Menon,Ritvik Menon,ritvik.menon985@company.com,+91 9920372899,Operations,Operations Analyst,full_time,Gurugram,2020-04-12,108200,43280,16230,12984,154726,79.7,Excellent,Yes
+343,Sachin,Bhatt,Sachin Bhatt,sachin.bhatt85@company.com,+91 7006847131,Human Resources,HR Executive,contract,Ahmedabad,2023-01-03,47500,19000,7125,5700,67925,82.5,Good,Yes
+344,Anika,Chopra,Anika Chopra,anika.chopra699@company.com,+91 7628503239,Operations,Process Engineer,part_time,Bangalore,2022-06-25,65500,26200,9825,7860,93665,99.1,Below Average,Yes
+345,Kavya,Pillai,Kavya Pillai,kavya.pillai44@company.com,+91 9049910394,Marketing,SEO Analyst,full_time,Noida,2018-12-26,120500,48200,18075,14460,172315,95.6,Average,Yes
+346,Saurabh,Saxena,Saurabh Saxena,saurabh.saxena573@company.com,+91 8422107888,Finance,Senior Accountant,part_time,Hyderabad,2024-12-14,81000,32400,12150,9720,115830,97.1,Excellent,Yes
+347,Aarav,Naidu,Aarav Naidu,aarav.naidu621@company.com,+91 9066218149,IT Support,IT Manager,full_time,Delhi,2021-08-11,85800,34320,12870,10296,122694,89.5,Average,Yes
+348,Neha,Soni,Neha Soni,neha.soni774@company.com,+91 9239057056,Operations,Operations Manager,contract,Pune,2018-01-23,50100,20040,7515,6012,71643,97.4,Average,Yes
+349,Simran,Naidu,Simran Naidu,simran.naidu183@company.com,+91 8389054194,Engineering,Software Engineer,contract,Pune,2024-07-04,72800,29120,10920,8736,104104,81.9,Good,Yes
+350,Nisha,Nair,Nisha Nair,nisha.nair75@company.com,+91 7797601129,IT Support,Help Desk Analyst,contract,Chennai,2022-06-23,66800,26720,10020,8016,95524,86.9,Excellent,Yes
+351,Manish,Nair,Manish Nair,manish.nair705@company.com,+91 7929635058,Engineering,DevOps Engineer,full_time,Bangalore,2021-12-23,126900,50760,19035,15228,181467,85.3,Average,Yes
+352,Suresh,Singh,Suresh Singh,suresh.singh456@company.com,+91 8843505125,Human Resources,Recruiter,part_time,Chennai,2023-05-10,119700,47880,17955,14364,171171,74.1,Average,Yes
+353,Rajesh,Joshi,Rajesh Joshi,rajesh.joshi979@company.com,+91 9454821532,IT Support,Help Desk Analyst,full_time,Pune,2024-03-14,48100,19240,7215,5772,68783,77.7,Below Average,Yes
+354,Ishaan,Gupta,Ishaan Gupta,ishaan.gupta872@company.com,+91 8800422888,Finance,Financial Analyst,full_time,Ahmedabad,2019-04-19,86200,34480,12930,10344,123266,98.6,Excellent,Yes
+355,Pooja,Nair,Pooja Nair,pooja.nair912@company.com,+91 9959473052,Engineering,Tech Lead,full_time,Chennai,2017-10-29,80400,32160,12060,9648,114972,74.1,Below Average,Yes
+356,Arun,Kumar,Arun Kumar,arun.kumar549@company.com,+91 8124399671,Sales,Account Manager,part_time,Mumbai,2023-04-25,111300,44520,16695,13356,159159,81.0,Good,Yes
+357,Mahesh,Garg,Mahesh Garg,mahesh.garg575@company.com,+91 8965181982,Human Resources,Training Specialist,full_time,Noida,2020-04-05,58000,23200,8700,6960,82940,75.4,Below Average,Yes
+358,Vivaan,Shukla,Vivaan Shukla,vivaan.shukla304@company.com,+91 8697512923,IT Support,IT Support Engineer,full_time,Noida,2021-09-15,88100,35240,13215,10572,125983,72.8,Good,Yes
+359,Priya,Chaudhary,Priya Chaudhary,priya.chaudhary899@company.com,+91 7984931259,Finance,Finance Manager,full_time,Mumbai,2024-02-22,111300,44520,16695,13356,159159,87.7,Average,Yes
+360,Aditya,Jain,Aditya Jain,aditya.jain294@company.com,+91 7897969776,Marketing,SEO Analyst,full_time,Bangalore,2019-02-19,117600,47040,17640,14112,168168,84.5,Average,Yes
+361,Kavya,Mehta,Kavya Mehta,kavya.mehta865@company.com,+91 8544764572,Engineering,Tech Lead,contract,Gurugram,2024-06-09,172600,69040,25890,20712,246818,97.7,Good,Yes
+362,Simran,Mehta,Simran Mehta,simran.mehta609@company.com,+91 9716366277,Finance,Senior Accountant,full_time,Chennai,2024-06-26,86100,34440,12915,10332,123123,95.2,Below Average,Yes
+363,Pooja,Goyal,Pooja Goyal,pooja.goyal145@company.com,+91 8944030083,Sales,Business Development,contract,Chennai,2019-09-10,94200,37680,14130,11304,134706,80.8,Average,Yes
+364,Shaurya,Goyal,Shaurya Goyal,shaurya.goyal578@company.com,+91 8100005954,Engineering,Tech Lead,part_time,Kolkata,2023-12-05,91900,36760,13785,11028,131417,75.8,Below Average,Yes
+365,Gaurav,Das,Gaurav Das,gaurav.das523@company.com,+91 8603265398,Engineering,DevOps Engineer,full_time,Bangalore,2022-02-23,88100,35240,13215,10572,125983,99.9,Below Average,Yes
+366,Saurabh,Saxena,Saurabh Saxena,saurabh.saxena652@company.com,+91 8568459643,IT Support,IT Support Engineer,part_time,Hyderabad,2022-11-12,66000,26400,9900,7920,94380,97.8,Below Average,Yes
+367,Meera,Bansal,Meera Bansal,meera.bansal853@company.com,+91 9570633154,Sales,Account Manager,full_time,Ahmedabad,2019-08-24,85600,34240,12840,10272,122408,96.9,Excellent,Yes
+368,Advait,Bhatt,Advait Bhatt,advait.bhatt73@company.com,+91 9966458787,Finance,Senior Accountant,contract,Delhi,2022-04-21,111500,44600,16725,13380,159445,83.2,Below Average,Yes
+369,Ramesh,Mehta,Ramesh Mehta,ramesh.mehta109@company.com,+91 8034884458,IT Support,IT Support Engineer,part_time,Delhi,2017-01-26,101700,40680,15255,12204,145431,94.5,Average,Yes
+370,Ishaan,Mittal,Ishaan Mittal,ishaan.mittal201@company.com,+91 7627822029,Sales,Sales Executive,contract,Chennai,2015-07-27,74500,29800,11175,8940,106535,85.6,Below Average,Yes
+371,Darsh,Agarwal,Darsh Agarwal,darsh.agarwal548@company.com,+91 8937442183,Sales,Sales Executive,full_time,Delhi,2018-12-23,57800,23120,8670,6936,82654,87.6,Good,Yes
+372,Anjali,Kumar,Anjali Kumar,anjali.kumar994@company.com,+91 8067169913,Sales,Sales Executive,full_time,Kolkata,2022-06-01,75800,30320,11370,9096,108394,93.5,Average,Yes
+373,Advik,Das,Advik Das,advik.das376@company.com,+91 8464807070,Engineering,Software Engineer,full_time,Gurugram,2023-09-19,138700,55480,20805,16644,198341,73.2,Good,Yes
+374,Priya,Singh,Priya Singh,priya.singh58@company.com,+91 9094145539,Finance,Finance Manager,full_time,Pune,2017-02-11,112000,44800,16800,13440,160160,87.7,Good,Yes
+375,Sneha,Saxena,Sneha Saxena,sneha.saxena418@company.com,+91 7460765195,Sales,Account Manager,contract,Bangalore,2019-11-21,102400,40960,15360,12288,146432,75.3,Good,Yes
+376,Varun,Dixit,Varun Dixit,varun.dixit537@company.com,+91 8231031610,Operations,Logistics Coordinator,full_time,Chennai,2024-12-07,47400,18960,7110,5688,67782,100.0,Good,Yes
+377,Kunal,Khanna,Kunal Khanna,kunal.khanna117@company.com,+91 7640881769,Sales,Account Manager,full_time,Delhi,2018-12-31,99300,39720,14895,11916,141999,99.2,Below Average,No
+378,Anika,Bansal,Anika Bansal,anika.bansal627@company.com,+91 9466193927,IT Support,System Admin,full_time,Pune,2024-12-03,96300,38520,14445,11556,137709,91.9,Good,Yes
+379,Suresh,Mishra,Suresh Mishra,suresh.mishra217@company.com,+91 8708615077,Marketing,Digital Marketer,full_time,Noida,2019-10-30,123900,49560,18585,14868,177177,77.7,Good,Yes
+380,Rohan,Verma,Rohan Verma,rohan.verma722@company.com,+91 8320245160,Sales,Sales Executive,full_time,Hyderabad,2018-10-01,43500,17400,6525,5220,62205,94.7,Excellent,Yes
+381,Vikram,Patel,Vikram Patel,vikram.patel501@company.com,+91 9347622401,Operations,Process Engineer,full_time,Gurugram,2020-03-16,86600,34640,12990,10392,123838,82.0,Excellent,Yes
+382,Sai,Chauhan,Sai Chauhan,sai.chauhan742@company.com,+91 8234629710,Legal,Compliance Officer,full_time,Noida,2023-08-09,51300,20520,7695,6156,73359,91.5,Excellent,Yes
+383,Advik,Soni,Advik Soni,advik.soni604@company.com,+91 8672526807,Human Resources,HR Analyst,part_time,Gurugram,2020-11-05,79100,31640,11865,9492,113113,95.6,Good,Yes
+384,Sneha,Goyal,Sneha Goyal,sneha.goyal303@company.com,+91 8958936743,Marketing,Brand Manager,full_time,Bangalore,2022-06-03,121700,48680,18255,14604,174031,82.8,Below Average,Yes
+385,Atharv,Kumar,Atharv Kumar,atharv.kumar86@company.com,+91 8678030125,Legal,Paralegal,full_time,Hyderabad,2023-02-09,78900,31560,11835,9468,112827,77.3,Below Average,Yes
+386,Neha,Bhatt,Neha Bhatt,neha.bhatt326@company.com,+91 7232077102,Human Resources,HR Analyst,full_time,Chennai,2018-04-06,68200,27280,10230,8184,97526,83.4,Average,Yes
+387,Kavya,Mittal,Kavya Mittal,kavya.mittal826@company.com,+91 9376262931,Sales,Sales Executive,part_time,Hyderabad,2015-11-22,75600,30240,11340,9072,108108,90.4,Good,Yes
+388,Sachin,Mehta,Sachin Mehta,sachin.mehta487@company.com,+91 7748207830,Sales,Sales Executive,part_time,Bangalore,2023-03-30,53100,21240,7965,6372,75933,84.5,Good,Yes
+389,Karan,Sharma,Karan Sharma,karan.sharma375@company.com,+91 9024862212,IT Support,Network Admin,full_time,Chennai,2023-07-11,57900,23160,8685,6948,82797,91.9,Average,Yes
+390,Anjali,Nair,Anjali Nair,anjali.nair903@company.com,+91 8234232666,Engineering,Tech Lead,part_time,Hyderabad,2015-03-08,56700,22680,8505,6804,81081,92.2,Good,Yes
+391,Aarush,Prasad,Aarush Prasad,aarush.prasad54@company.com,+91 8596712197,Engineering,Tech Lead,full_time,Bangalore,2024-11-01,122400,48960,18360,14688,175032,99.8,Excellent,Yes
+392,Karan,Tiwari,Karan Tiwari,karan.tiwari558@company.com,+91 7758756312,Legal,Compliance Officer,full_time,Gurugram,2017-10-31,64000,25600,9600,7680,91520,90.7,Average,Yes
+393,Sai,Agarwal,Sai Agarwal,sai.agarwal728@company.com,+91 8857546777,Finance,Accountant,full_time,Noida,2020-05-09,64700,25880,9705,7764,92521,73.0,Below Average,Yes
+394,Aditya,Khanna,Aditya Khanna,aditya.khanna815@company.com,+91 9436586646,Sales,Sales Analyst,full_time,Delhi,2017-08-19,112300,44920,16845,13476,160589,87.5,Below Average,Yes
+395,Sai,Bansal,Sai Bansal,sai.bansal16@company.com,+91 9076003431,Sales,Sales Analyst,full_time,Ahmedabad,2015-04-15,62300,24920,9345,7476,89089,99.8,Below Average,Yes
+396,Atharv,Sharma,Atharv Sharma,atharv.sharma303@company.com,+91 9788503317,Human Resources,HR Executive,full_time,Ahmedabad,2020-09-25,92400,36960,13860,11088,132132,90.0,Below Average,Yes
+397,Anjali,Joshi,Anjali Joshi,anjali.joshi66@company.com,+91 8337916538,Marketing,Digital Marketer,full_time,Hyderabad,2018-08-02,85000,34000,12750,10200,121550,91.5,Average,Yes
+398,Priya,Joshi,Priya Joshi,priya.joshi784@company.com,+91 9662093185,Finance,Senior Accountant,part_time,Ahmedabad,2023-01-23,95700,38280,14355,11484,136851,85.5,Good,Yes
+399,Diya,Kapoor,Diya Kapoor,diya.kapoor832@company.com,+91 7380578807,IT Support,Help Desk Analyst,part_time,Delhi,2015-06-10,79300,31720,11895,9516,113399,94.0,Average,Yes
+400,Ishaan,Agarwal,Ishaan Agarwal,ishaan.agarwal415@company.com,+91 7358570832,Finance,Accountant,full_time,Mumbai,2023-03-19,93700,37480,14055,11244,133991,75.4,Average,Yes
+401,Amit,Saxena,Amit Saxena,amit.saxena448@company.com,+91 8409570006,Engineering,DevOps Engineer,part_time,Bangalore,2019-04-09,87500,35000,13125,10500,125125,74.1,Below Average,Yes
+402,Ramesh,Patel,Ramesh Patel,ramesh.patel953@company.com,+91 7775913197,Sales,Sales Manager,part_time,Bangalore,2023-11-27,47200,18880,7080,5664,67496,79.1,Average,Yes
+403,Mahesh,Nair,Mahesh Nair,mahesh.nair397@company.com,+91 8492826956,Legal,Paralegal,full_time,Noida,2016-08-19,138300,55320,20745,16596,197769,77.3,Average,Yes
+404,Tanvi,Tiwari,Tanvi Tiwari,tanvi.tiwari466@company.com,+91 7619912535,IT Support,IT Support Engineer,full_time,Kolkata,2021-08-23,106000,42400,15900,12720,151580,95.4,Good,Yes
+405,Saanvi,Reddy,Saanvi Reddy,saanvi.reddy514@company.com,+91 9467682125,Legal,Legal Advisor,full_time,Pune,2015-08-20,112800,45120,16920,13536,161304,75.2,Excellent,Yes
+406,Amit,Roy,Amit Roy,amit.roy295@company.com,+91 8981157907,Operations,Operations Analyst,full_time,Chennai,2015-03-26,135600,54240,20340,16272,193908,76.6,Excellent,Yes
+407,Atharv,Nair,Atharv Nair,atharv.nair284@company.com,+91 8987855495,Legal,Legal Analyst,full_time,Gurugram,2021-03-08,86800,34720,13020,10416,124124,86.2,Good,Yes
+408,Suresh,Kumar,Suresh Kumar,suresh.kumar354@company.com,+91 8326469356,Sales,Sales Executive,contract,Mumbai,2021-04-12,67300,26920,10095,8076,96239,76.6,Average,No
+409,Meera,Bose,Meera Bose,meera.bose568@company.com,+91 7080492992,Finance,Senior Accountant,full_time,Hyderabad,2019-09-17,104300,41720,15645,12516,149149,83.5,Excellent,Yes
+410,Saurabh,Pandey,Saurabh Pandey,saurabh.pandey827@company.com,+91 7871364050,Engineering,Senior Engineer,full_time,Hyderabad,2015-05-01,169100,67640,25365,20292,241813,78.1,Average,Yes
+411,Simran,Mittal,Simran Mittal,simran.mittal458@company.com,+91 8412600414,Sales,Sales Manager,full_time,Hyderabad,2017-04-11,36400,14560,5460,4368,52052,83.5,Good,Yes
+412,Darsh,Mishra,Darsh Mishra,darsh.mishra460@company.com,+91 9139287853,Finance,Finance Manager,full_time,Delhi,2020-04-03,142500,57000,21375,17100,203775,96.9,Excellent,Yes
+413,Ritvik,Bose,Ritvik Bose,ritvik.bose624@company.com,+91 7379592405,Finance,Senior Accountant,full_time,Ahmedabad,2020-08-06,86300,34520,12945,10356,123409,98.3,Below Average,Yes
+414,Ananya,Saxena,Ananya Saxena,ananya.saxena494@company.com,+91 9501027451,Operations,Supply Chain Analyst,full_time,Chennai,2015-06-08,82600,33040,12390,9912,118118,99.3,Good,Yes
+415,Reyansh,Verma,Reyansh Verma,reyansh.verma175@company.com,+91 9991085952,Engineering,DevOps Engineer,full_time,Mumbai,2021-08-22,107000,42800,16050,12840,153010,74.0,Below Average,Yes
+416,Meera,Agarwal,Meera Agarwal,meera.agarwal861@company.com,+91 9208186197,Human Resources,HR Executive,contract,Ahmedabad,2016-08-12,60600,24240,9090,7272,86658,73.4,Excellent,Yes
+417,Rahul,Mishra,Rahul Mishra,rahul.mishra608@company.com,+91 8409012859,Marketing,Digital Marketer,full_time,Delhi,2024-05-16,124100,49640,18615,14892,177463,76.4,Good,Yes
+418,Karan,Saxena,Karan Saxena,karan.saxena670@company.com,+91 8425616150,Operations,Operations Analyst,contract,Gurugram,2024-06-15,128200,51280,19230,15384,183326,78.5,Excellent,Yes
+419,Kavya,Chopra,Kavya Chopra,kavya.chopra621@company.com,+91 7276485014,Engineering,Tech Lead,full_time,Kolkata,2020-11-07,159600,63840,23940,19152,228228,90.4,Excellent,No
+420,Anika,Awasthi,Anika Awasthi,anika.awasthi936@company.com,+91 8458850649,Legal,Legal Advisor,contract,Pune,2022-06-22,94000,37600,14100,11280,134420,99.6,Average,Yes
+421,Diya,Das,Diya Das,diya.das76@company.com,+91 7898049212,Marketing,Brand Manager,contract,Bangalore,2015-01-27,42700,17080,6405,5124,61061,99.1,Excellent,Yes
+422,Atharv,Dubey,Atharv Dubey,atharv.dubey330@company.com,+91 7352727271,Finance,Auditor,full_time,Bangalore,2017-03-24,87200,34880,13080,10464,124696,90.5,Excellent,Yes
+423,Dhruv,Kapoor,Dhruv Kapoor,dhruv.kapoor612@company.com,+91 8950220980,Engineering,QA Engineer,full_time,Chennai,2015-10-22,96400,38560,14460,11568,137852,72.2,Excellent,Yes
+424,Advik,Shukla,Advik Shukla,advik.shukla533@company.com,+91 9663329581,Finance,Senior Accountant,part_time,Bangalore,2017-08-25,104000,41600,15600,12480,148720,90.2,Excellent,Yes
+425,Saanvi,Verma,Saanvi Verma,saanvi.verma570@company.com,+91 8332632802,Legal,Compliance Officer,full_time,Bangalore,2018-01-28,78600,31440,11790,9432,112398,95.6,Excellent,Yes
+426,Deepak,Reddy,Deepak Reddy,deepak.reddy583@company.com,+91 8535080375,Legal,Paralegal,contract,Gurugram,2020-05-26,122200,48880,18330,14664,174746,92.7,Average,Yes
+427,Karan,Chaudhary,Karan Chaudhary,karan.chaudhary948@company.com,+91 9841503076,Sales,Sales Analyst,full_time,Hyderabad,2017-05-05,97100,38840,14565,11652,138853,75.9,Average,Yes
+428,Vivaan,Mishra,Vivaan Mishra,vivaan.mishra531@company.com,+91 8143169452,Engineering,Tech Lead,contract,Gurugram,2021-04-04,97900,39160,14685,11748,139997,73.5,Average,Yes
+429,Mahesh,Bajpai,Mahesh Bajpai,mahesh.bajpai44@company.com,+91 8846615705,Finance,Accountant,full_time,Hyderabad,2024-07-29,91700,36680,13755,11004,131131,76.2,Below Average,Yes
+430,Shreya,Malhotra,Shreya Malhotra,shreya.malhotra839@company.com,+91 9606645842,Operations,Operations Manager,full_time,Delhi,2023-08-30,53600,21440,8040,6432,76648,80.3,Below Average,Yes
+431,Vihaan,Iyer,Vihaan Iyer,vihaan.iyer276@company.com,+91 7847617575,Sales,Account Manager,contract,Pune,2016-02-21,109600,43840,16440,13152,156728,76.7,Average,Yes
+432,Advait,Shah,Advait Shah,advait.shah623@company.com,+91 8036485456,Sales,Sales Executive,full_time,Bangalore,2015-03-07,32100,12840,4815,3852,45903,82.1,Below Average,Yes
+433,Tarun,Bajpai,Tarun Bajpai,tarun.bajpai856@company.com,+91 9415965733,Human Resources,Recruiter,full_time,Pune,2022-08-13,54300,21720,8145,6516,77649,92.2,Below Average,Yes
+434,Deepak,Bhatt,Deepak Bhatt,deepak.bhatt132@company.com,+91 7022435541,Operations,Operations Manager,full_time,Pune,2017-09-02,125000,50000,18750,15000,178750,76.5,Average,Yes
+435,Priya,Rao,Priya Rao,priya.rao596@company.com,+91 9443180480,Engineering,Senior Engineer,full_time,Gurugram,2022-09-23,90800,36320,13620,10896,129844,86.3,Good,Yes
+436,Neha,Reddy,Neha Reddy,neha.reddy918@company.com,+91 7478889649,Sales,Sales Executive,full_time,Kolkata,2020-08-16,53500,21400,8025,6420,76505,84.9,Good,Yes
+437,Aditya,Prasad,Aditya Prasad,aditya.prasad263@company.com,+91 9212722470,Finance,Financial Analyst,part_time,Gurugram,2023-03-26,84300,33720,12645,10116,120549,80.7,Average,Yes
+438,Sai,Agarwal,Sai Agarwal,sai.agarwal339@company.com,+91 8159427768,Sales,Sales Analyst,full_time,Bangalore,2022-03-14,31400,12560,4710,3768,44902,84.3,Excellent,Yes
+439,Pooja,Kapoor,Pooja Kapoor,pooja.kapoor543@company.com,+91 8343812404,Sales,Business Development,contract,Hyderabad,2018-02-26,115900,46360,17385,13908,165737,73.9,Excellent,Yes
+440,Tarun,Bose,Tarun Bose,tarun.bose233@company.com,+91 8364457494,IT Support,IT Manager,full_time,Hyderabad,2018-02-21,53500,21400,8025,6420,76505,73.6,Average,Yes
+441,Dhruv,Das,Dhruv Das,dhruv.das915@company.com,+91 9276516142,Legal,Contract Manager,part_time,Kolkata,2016-03-17,50300,20120,7545,6036,71929,74.4,Below Average,Yes
+442,Tarun,Srivastava,Tarun Srivastava,tarun.srivastava812@company.com,+91 8192623779,Sales,Account Manager,part_time,Ahmedabad,2017-12-06,110200,44080,16530,13224,157586,74.4,Excellent,Yes
+443,Reyansh,Srivastava,Reyansh Srivastava,reyansh.srivastava841@company.com,+91 9155530704,Human Resources,Recruiter,contract,Delhi,2024-12-14,69200,27680,10380,8304,98956,88.1,Excellent,Yes
+444,Ananya,Saxena,Ananya Saxena,ananya.saxena445@company.com,+91 8706035105,Human Resources,HR Analyst,contract,Chennai,2024-04-21,100800,40320,15120,12096,144144,83.1,Below Average,Yes
+445,Kunal,Menon,Kunal Menon,kunal.menon171@company.com,+91 7790699246,Human Resources,HR Analyst,part_time,Pune,2019-02-11,81800,32720,12270,9816,116974,83.2,Below Average,Yes
+446,Arun,Reddy,Arun Reddy,arun.reddy984@company.com,+91 7139488487,Legal,Legal Advisor,part_time,Hyderabad,2024-04-29,74500,29800,11175,8940,106535,91.1,Excellent,Yes
+447,Manish,Jain,Manish Jain,manish.jain889@company.com,+91 8973510780,Marketing,Brand Manager,full_time,Pune,2021-10-01,84100,33640,12615,10092,120263,77.6,Excellent,Yes
+448,Anika,Awasthi,Anika Awasthi,anika.awasthi752@company.com,+91 8926893451,IT Support,IT Manager,contract,Gurugram,2020-11-02,36400,14560,5460,4368,52052,88.5,Average,Yes
+449,Meera,Dixit,Meera Dixit,meera.dixit477@company.com,+91 7086944733,Legal,Legal Analyst,full_time,Kolkata,2024-03-09,76400,30560,11460,9168,109252,80.2,Below Average,Yes
+450,Divya,Bajpai,Divya Bajpai,divya.bajpai659@company.com,+91 9444627113,Finance,Senior Accountant,full_time,Gurugram,2022-11-10,94800,37920,14220,11376,135564,82.7,Below Average,Yes
+451,Karan,Goyal,Karan Goyal,karan.goyal680@company.com,+91 9572331921,IT Support,IT Support Engineer,full_time,Bangalore,2018-10-27,39100,15640,5865,4692,55913,77.6,Excellent,Yes
+452,Vikram,Dixit,Vikram Dixit,vikram.dixit910@company.com,+91 8852856631,Human Resources,HR Executive,contract,Ahmedabad,2019-10-02,56300,22520,8445,6756,80509,78.4,Excellent,Yes
+453,Priya,Mehta,Priya Mehta,priya.mehta12@company.com,+91 7121603441,Operations,Supply Chain Analyst,full_time,Mumbai,2021-09-30,93000,37200,13950,11160,132990,89.0,Good,Yes
+454,Aadhya,Tripathi,Aadhya Tripathi,aadhya.tripathi28@company.com,+91 9332897496,Engineering,QA Engineer,full_time,Hyderabad,2017-12-14,84900,33960,12735,10188,121407,89.2,Average,No
+455,Nikhil,Shukla,Nikhil Shukla,nikhil.shukla908@company.com,+91 7863911580,Finance,Accountant,full_time,Delhi,2022-12-22,100600,40240,15090,12072,143858,80.4,Excellent,Yes
+456,Kabir,Verma,Kabir Verma,kabir.verma4@company.com,+91 7383725068,Operations,Logistics Coordinator,full_time,Bangalore,2020-05-15,112300,44920,16845,13476,160589,85.0,Excellent,Yes
+457,Shreya,Rao,Shreya Rao,shreya.rao364@company.com,+91 7337399607,IT Support,Network Admin,full_time,Delhi,2022-01-09,64000,25600,9600,7680,91520,86.9,Excellent,Yes
+458,Nisha,Awasthi,Nisha Awasthi,nisha.awasthi647@company.com,+91 8927565364,Sales,Business Development,full_time,Gurugram,2019-08-04,52300,20920,7845,6276,74789,86.3,Average,Yes
+459,Saanvi,Menon,Saanvi Menon,saanvi.menon404@company.com,+91 7358101461,IT Support,IT Support Engineer,full_time,Ahmedabad,2018-11-23,61600,24640,9240,7392,88088,84.2,Average,Yes
+460,Manish,Malhotra,Manish Malhotra,manish.malhotra40@company.com,+91 9528130020,Sales,Sales Analyst,full_time,Delhi,2019-05-31,70200,28080,10530,8424,100386,86.9,Below Average,Yes
+461,Deepak,Pandey,Deepak Pandey,deepak.pandey977@company.com,+91 9829567238,Marketing,Marketing Executive,full_time,Hyderabad,2023-06-10,116600,46640,17490,13992,166738,99.1,Below Average,Yes
+462,Aarush,Jain,Aarush Jain,aarush.jain577@company.com,+91 8433287263,Marketing,Marketing Executive,contract,Hyderabad,2023-05-10,101800,40720,15270,12216,145574,94.3,Excellent,Yes
+463,Ramesh,Singh,Ramesh Singh,ramesh.singh848@company.com,+91 8218931847,Sales,Sales Analyst,full_time,Noida,2024-04-03,77100,30840,11565,9252,110253,98.2,Below Average,No
+464,Krishna,Kumar,Krishna Kumar,krishna.kumar521@company.com,+91 8849024247,Marketing,SEO Analyst,full_time,Ahmedabad,2018-11-03,79200,31680,11880,9504,113256,91.1,Good,Yes
+465,Pranav,Dixit,Pranav Dixit,pranav.dixit469@company.com,+91 9112030396,Engineering,Tech Lead,full_time,Chennai,2015-04-02,176900,70760,26535,21228,252967,99.9,Below Average,Yes
+466,Gaurav,Khanna,Gaurav Khanna,gaurav.khanna115@company.com,+91 9327114137,Marketing,Content Writer,full_time,Kolkata,2022-11-30,40200,16080,6030,4824,57486,74.5,Below Average,Yes
+467,Aadhya,Goyal,Aadhya Goyal,aadhya.goyal170@company.com,+91 8206397783,Marketing,Content Writer,part_time,Bangalore,2021-04-06,79900,31960,11985,9588,114257,87.8,Average,Yes
+468,Advait,Gupta,Advait Gupta,advait.gupta722@company.com,+91 7470519417,Human Resources,HR Analyst,full_time,Delhi,2020-08-03,97500,39000,14625,11700,139425,88.6,Good,Yes
+469,Kabir,Agarwal,Kabir Agarwal,kabir.agarwal813@company.com,+91 7870866664,Finance,Finance Manager,full_time,Bangalore,2024-10-16,101900,40760,15285,12228,145717,85.4,Below Average,No
+470,Kabir,Soni,Kabir Soni,kabir.soni110@company.com,+91 7469889132,Operations,Supply Chain Analyst,contract,Pune,2022-10-30,134700,53880,20205,16164,192621,72.0,Excellent,Yes
+471,Raj,Iyer,Raj Iyer,raj.iyer37@company.com,+91 8371536656,Sales,Sales Analyst,full_time,Bangalore,2017-11-24,44500,17800,6675,5340,63635,81.0,Average,Yes
+472,Priya,Naidu,Priya Naidu,priya.naidu58@company.com,+91 8872193255,Sales,Business Development,full_time,Bangalore,2016-01-14,41000,16400,6150,4920,58630,81.5,Average,Yes
+473,Arun,Verma,Arun Verma,arun.verma298@company.com,+91 8862428675,Finance,Financial Analyst,full_time,Bangalore,2020-06-07,92200,36880,13830,11064,131846,73.0,Average,Yes
+474,Aadhya,Dixit,Aadhya Dixit,aadhya.dixit69@company.com,+91 9625959405,IT Support,System Admin,full_time,Kolkata,2022-05-24,69100,27640,10365,8292,98813,89.2,Below Average,No
+475,Rajesh,Verma,Rajesh Verma,rajesh.verma804@company.com,+91 7659725349,Engineering,Senior Engineer,part_time,Chennai,2017-12-01,86600,34640,12990,10392,123838,96.7,Average,Yes
+476,Suresh,Yadav,Suresh Yadav,suresh.yadav691@company.com,+91 8349891059,Finance,Accountant,part_time,Noida,2023-07-03,122100,48840,18315,14652,174603,86.0,Good,Yes
+477,Krishna,Joshi,Krishna Joshi,krishna.joshi263@company.com,+91 7973755457,Sales,Business Development,contract,Delhi,2019-03-17,73600,29440,11040,8832,105248,86.2,Average,Yes
+478,Pankaj,Kumar,Pankaj Kumar,pankaj.kumar249@company.com,+91 8333147478,Human Resources,HR Executive,part_time,Bangalore,2017-03-31,116400,46560,17460,13968,166452,98.1,Good,Yes
+479,Kabir,Dubey,Kabir Dubey,kabir.dubey355@company.com,+91 7479792431,Engineering,Software Engineer,contract,Mumbai,2018-02-26,126600,50640,18990,15192,181038,73.9,Below Average,Yes
+480,Gaurav,Chaudhary,Gaurav Chaudhary,gaurav.chaudhary457@company.com,+91 9596671791,Human Resources,Training Specialist,part_time,Noida,2023-09-01,58000,23200,8700,6960,82940,78.9,Average,Yes
+481,Aarush,Chaudhary,Aarush Chaudhary,aarush.chaudhary353@company.com,+91 9681632147,Finance,Accountant,full_time,Mumbai,2023-03-24,114300,45720,17145,13716,163449,94.8,Excellent,Yes
+482,Rajesh,Garg,Rajesh Garg,rajesh.garg976@company.com,+91 7306407351,Marketing,Brand Manager,full_time,Noida,2021-07-11,100800,40320,15120,12096,144144,74.8,Average,Yes
+483,Aarav,Das,Aarav Das,aarav.das572@company.com,+91 7720457686,Legal,Paralegal,full_time,Mumbai,2017-01-29,63700,25480,9555,7644,91091,76.1,Below Average,No
+484,Nikhil,Menon,Nikhil Menon,nikhil.menon827@company.com,+91 8281313794,Finance,Financial Analyst,contract,Mumbai,2021-02-27,113100,45240,16965,13572,161733,85.8,Average,Yes
+485,Atharv,Pandey,Atharv Pandey,atharv.pandey47@company.com,+91 7923002238,Legal,Paralegal,full_time,Kolkata,2015-05-17,76800,30720,11520,9216,109824,74.3,Below Average,Yes
+486,Rahul,Nair,Rahul Nair,rahul.nair888@company.com,+91 8820890004,Operations,Supply Chain Analyst,full_time,Ahmedabad,2020-09-28,106600,42640,15990,12792,152438,96.5,Below Average,Yes
+487,Rajesh,Agarwal,Rajesh Agarwal,rajesh.agarwal486@company.com,+91 7843970300,Marketing,Content Writer,full_time,Ahmedabad,2015-02-06,92500,37000,13875,11100,132275,85.1,Excellent,Yes
+488,Karan,Goyal,Karan Goyal,karan.goyal937@company.com,+91 8862782105,Operations,Logistics Coordinator,full_time,Delhi,2022-10-19,53400,21360,8010,6408,76362,74.9,Excellent,Yes
+489,Nikhil,Reddy,Nikhil Reddy,nikhil.reddy409@company.com,+91 7800279873,Marketing,Content Writer,full_time,Mumbai,2015-04-16,61700,24680,9255,7404,88231,72.9,Average,Yes
+490,Sachin,Malhotra,Sachin Malhotra,sachin.malhotra212@company.com,+91 8944340394,Finance,Auditor,full_time,Delhi,2022-04-18,138500,55400,20775,16620,198055,77.8,Excellent,Yes
+491,Anika,Roy,Anika Roy,anika.roy523@company.com,+91 7237979183,Sales,Business Development,contract,Chennai,2015-07-30,66500,26600,9975,7980,95095,91.1,Good,Yes
+492,Mahesh,Mehta,Mahesh Mehta,mahesh.mehta753@company.com,+91 8686102042,IT Support,Network Admin,part_time,Pune,2017-04-05,90300,36120,13545,10836,129129,81.5,Excellent,Yes
+493,Meera,Mittal,Meera Mittal,meera.mittal123@company.com,+91 9624146652,Marketing,Marketing Executive,full_time,Ahmedabad,2021-09-19,42600,17040,6390,5112,60918,88.9,Average,Yes
+494,Aarav,Verma,Aarav Verma,aarav.verma988@company.com,+91 9295891292,Marketing,Brand Manager,full_time,Hyderabad,2021-02-11,106500,42600,15975,12780,152295,78.5,Good,Yes
+495,Nikhil,Verma,Nikhil Verma,nikhil.verma154@company.com,+91 9302491797,Legal,Contract Manager,part_time,Pune,2020-01-09,143000,57200,21450,17160,204490,73.0,Below Average,Yes
+496,Swati,Gupta,Swati Gupta,swati.gupta167@company.com,+91 9425819286,Operations,Supply Chain Analyst,full_time,Mumbai,2019-08-09,112200,44880,16830,13464,160446,74.4,Average,Yes
+497,Saanvi,Yadav,Saanvi Yadav,saanvi.yadav14@company.com,+91 8743582976,Legal,Paralegal,full_time,Delhi,2020-01-31,60400,24160,9060,7248,86372,84.1,Excellent,Yes
+498,Meera,Mittal,Meera Mittal,meera.mittal179@company.com,+91 8519705416,IT Support,Help Desk Analyst,contract,Mumbai,2016-08-10,41300,16520,6195,4956,59059,87.3,Good,Yes
+499,Suresh,Tiwari,Suresh Tiwari,suresh.tiwari611@company.com,+91 9610067297,Legal,Compliance Officer,contract,Bangalore,2022-06-24,120800,48320,18120,14496,172744,72.3,Good,Yes
+500,Dhruv,Goyal,Dhruv Goyal,dhruv.goyal634@company.com,+91 9637502783,IT Support,System Admin,full_time,Delhi,2018-02-14,81900,32760,12285,9828,117117,85.7,Average,Yes
+501,Ramesh,Garg,Ramesh Garg,ramesh.garg119@company.com,+91 9290255284,IT Support,Help Desk Analyst,full_time,Bangalore,2023-06-17,90700,36280,13605,10884,129701,93.2,Below Average,Yes
+502,Pranav,Nair,Pranav Nair,pranav.nair515@company.com,+91 9827582314,Finance,Finance Manager,contract,Noida,2019-08-12,133300,53320,19995,15996,190619,80.9,Excellent,Yes
+503,Kunal,Agarwal,Kunal Agarwal,kunal.agarwal706@company.com,+91 7685509221,IT Support,IT Manager,full_time,Hyderabad,2023-04-29,61100,24440,9165,7332,87373,88.2,Below Average,Yes
+504,Meera,Jain,Meera Jain,meera.jain680@company.com,+91 7484711861,Legal,Contract Manager,full_time,Ahmedabad,2019-01-05,102500,41000,15375,12300,146575,94.9,Good,Yes
+505,Riya,Tripathi,Riya Tripathi,riya.tripathi277@company.com,+91 7549741152,IT Support,System Admin,part_time,Delhi,2015-01-05,100700,40280,15105,12084,144001,90.1,Below Average,Yes
+506,Shaurya,Mishra,Shaurya Mishra,shaurya.mishra773@company.com,+91 8107607302,Finance,Financial Analyst,contract,Pune,2019-01-22,47300,18920,7095,5676,67639,83.1,Good,Yes
+507,Neha,Bhatt,Neha Bhatt,neha.bhatt643@company.com,+91 7320903452,Operations,Process Engineer,full_time,Hyderabad,2017-04-25,139600,55840,20940,16752,199628,84.7,Good,Yes
+508,Gaurav,Nair,Gaurav Nair,gaurav.nair354@company.com,+91 8220398465,Finance,Auditor,contract,Mumbai,2024-02-29,51900,20760,7785,6228,74217,79.0,Good,Yes
+509,Aadhya,Nair,Aadhya Nair,aadhya.nair731@company.com,+91 8045950896,IT Support,System Admin,full_time,Hyderabad,2016-09-11,95800,38320,14370,11496,136994,93.0,Excellent,Yes
+510,Reyansh,Pillai,Reyansh Pillai,reyansh.pillai402@company.com,+91 7768381147,Marketing,Digital Marketer,full_time,Hyderabad,2020-02-08,127500,51000,19125,15300,182325,98.9,Excellent,Yes
+511,Shreya,Sharma,Shreya Sharma,shreya.sharma804@company.com,+91 9149533040,Human Resources,Training Specialist,part_time,Hyderabad,2022-05-04,46700,18680,7005,5604,66781,98.4,Excellent,Yes
+512,Karan,Bhatt,Karan Bhatt,karan.bhatt608@company.com,+91 8023243478,IT Support,Help Desk Analyst,contract,Chennai,2020-06-05,48600,19440,7290,5832,69498,79.1,Excellent,Yes
+513,Ramesh,Chauhan,Ramesh Chauhan,ramesh.chauhan225@company.com,+91 7675317132,Marketing,Digital Marketer,contract,Pune,2015-12-11,35800,14320,5370,4296,51194,76.1,Excellent,Yes
+514,Reyansh,Menon,Reyansh Menon,reyansh.menon218@company.com,+91 8354033713,Finance,Senior Accountant,full_time,Delhi,2020-07-21,73100,29240,10965,8772,104533,86.5,Average,Yes
+515,Gaurav,Rao,Gaurav Rao,gaurav.rao314@company.com,+91 8393079722,Marketing,Digital Marketer,full_time,Ahmedabad,2023-08-03,125800,50320,18870,15096,179894,91.3,Below Average,Yes
+516,Neha,Mishra,Neha Mishra,neha.mishra154@company.com,+91 9346768232,Marketing,Brand Manager,contract,Kolkata,2019-05-18,70400,28160,10560,8448,100672,72.6,Average,Yes
+517,Diya,Chopra,Diya Chopra,diya.chopra536@company.com,+91 7163648666,Sales,Sales Executive,full_time,Mumbai,2017-09-05,72300,28920,10845,8676,103389,91.4,Excellent,Yes
+518,Anika,Menon,Anika Menon,anika.menon319@company.com,+91 9663712230,Marketing,Brand Manager,full_time,Kolkata,2016-01-17,55400,22160,8310,6648,79222,99.1,Excellent,Yes
+519,Tanvi,Dubey,Tanvi Dubey,tanvi.dubey193@company.com,+91 7074789008,Engineering,DevOps Engineer,part_time,Kolkata,2018-04-21,163900,65560,24585,19668,234377,74.5,Average,Yes
+520,Ananya,Mehta,Ananya Mehta,ananya.mehta559@company.com,+91 9456787963,IT Support,System Admin,full_time,Mumbai,2020-12-28,52000,20800,7800,6240,74360,80.9,Excellent,Yes
+521,Arjun,Chopra,Arjun Chopra,arjun.chopra554@company.com,+91 9912914071,Finance,Senior Accountant,full_time,Mumbai,2020-09-15,79100,31640,11865,9492,113113,77.1,Below Average,Yes
+522,Krishna,Verma,Krishna Verma,krishna.verma457@company.com,+91 9555643905,IT Support,Network Admin,full_time,Hyderabad,2016-02-29,68400,27360,10260,8208,97812,97.3,Below Average,Yes
+523,Reyansh,Kapoor,Reyansh Kapoor,reyansh.kapoor992@company.com,+91 8826261179,Legal,Legal Advisor,full_time,Hyderabad,2019-06-19,66300,26520,9945,7956,94809,86.0,Average,Yes
+524,Darsh,Tiwari,Darsh Tiwari,darsh.tiwari758@company.com,+91 7937494179,Human Resources,Recruiter,contract,Kolkata,2022-12-10,119300,47720,17895,14316,170599,87.7,Good,Yes
+525,Shaurya,Chaudhary,Shaurya Chaudhary,shaurya.chaudhary681@company.com,+91 7987742653,Engineering,Senior Engineer,full_time,Ahmedabad,2015-11-04,150900,60360,22635,18108,215787,86.4,Excellent,Yes
+526,Nisha,Soni,Nisha Soni,nisha.soni324@company.com,+91 7980032421,Finance,Financial Analyst,full_time,Chennai,2016-09-13,106900,42760,16035,12828,152867,85.4,Average,Yes
+527,Amit,Prasad,Amit Prasad,amit.prasad359@company.com,+91 8309537686,Human Resources,HR Manager,full_time,Kolkata,2018-05-19,43600,17440,6540,5232,62348,97.1,Good,No
+528,Krishna,Khanna,Krishna Khanna,krishna.khanna125@company.com,+91 9233949552,IT Support,IT Manager,full_time,Hyderabad,2021-03-22,48300,19320,7245,5796,69069,96.0,Average,Yes
+529,Darsh,Chopra,Darsh Chopra,darsh.chopra786@company.com,+91 7957780817,Human Resources,HR Manager,full_time,Pune,2018-07-27,62800,25120,9420,7536,89804,87.9,Excellent,Yes
+530,Varun,Reddy,Varun Reddy,varun.reddy604@company.com,+91 9865148657,Marketing,Digital Marketer,full_time,Delhi,2018-08-03,128400,51360,19260,15408,183612,79.0,Average,Yes
+531,Meera,Chopra,Meera Chopra,meera.chopra796@company.com,+91 7301084665,IT Support,Network Admin,contract,Noida,2022-04-15,38200,15280,5730,4584,54626,93.6,Below Average,Yes
+532,Mahesh,Bhatt,Mahesh Bhatt,mahesh.bhatt203@company.com,+91 9508243250,Marketing,Marketing Executive,full_time,Noida,2018-05-05,125600,50240,18840,15072,179608,83.9,Excellent,Yes
+533,Vikram,Patel,Vikram Patel,vikram.patel793@company.com,+91 7882191398,Human Resources,Recruiter,full_time,Bangalore,2015-03-09,92300,36920,13845,11076,131989,88.9,Excellent,Yes
+534,Simran,Mishra,Simran Mishra,simran.mishra93@company.com,+91 8169155401,Finance,Accountant,contract,Delhi,2024-02-27,53700,21480,8055,6444,76791,76.1,Excellent,Yes
+535,Saanvi,Awasthi,Saanvi Awasthi,saanvi.awasthi307@company.com,+91 8297532348,Finance,Accountant,full_time,Bangalore,2016-07-20,111700,44680,16755,13404,159731,93.4,Below Average,Yes
+536,Darsh,Kumar,Darsh Kumar,darsh.kumar604@company.com,+91 7327571322,Legal,Contract Manager,full_time,Gurugram,2022-11-17,118500,47400,17775,14220,169455,75.0,Below Average,No
+537,Advik,Chaudhary,Advik Chaudhary,advik.chaudhary422@company.com,+91 8154350161,Marketing,Content Writer,full_time,Pune,2016-08-30,79500,31800,11925,9540,113685,92.9,Below Average,Yes
+538,Anjali,Srivastava,Anjali Srivastava,anjali.srivastava153@company.com,+91 7721496094,Marketing,Digital Marketer,full_time,Gurugram,2016-10-27,119400,47760,17910,14328,170742,93.3,Below Average,Yes
+539,Neha,Chopra,Neha Chopra,neha.chopra683@company.com,+91 9534985558,Operations,Operations Manager,contract,Hyderabad,2022-02-17,47000,18800,7050,5640,67210,76.4,Below Average,Yes
+540,Nisha,Kumar,Nisha Kumar,nisha.kumar417@company.com,+91 7252702303,Marketing,Marketing Executive,full_time,Chennai,2016-09-18,101900,40760,15285,12228,145717,74.4,Good,Yes
+541,Varun,Bhatt,Varun Bhatt,varun.bhatt466@company.com,+91 7687969449,Sales,Sales Manager,part_time,Delhi,2018-04-27,115800,46320,17370,13896,165594,86.8,Below Average,Yes
+542,Ishaan,Dixit,Ishaan Dixit,ishaan.dixit694@company.com,+91 9358048097,Sales,Business Development,contract,Kolkata,2019-02-11,77100,30840,11565,9252,110253,72.8,Excellent,Yes
+543,Aadhya,Prasad,Aadhya Prasad,aadhya.prasad137@company.com,+91 9843856012,Marketing,Brand Manager,full_time,Mumbai,2020-01-26,42500,17000,6375,5100,60775,87.1,Below Average,Yes
+544,Advait,Goyal,Advait Goyal,advait.goyal345@company.com,+91 8852024554,IT Support,IT Support Engineer,full_time,Hyderabad,2015-05-10,102500,41000,15375,12300,146575,84.3,Below Average,Yes
+545,Dhruv,Tripathi,Dhruv Tripathi,dhruv.tripathi923@company.com,+91 9731659587,Finance,Financial Analyst,contract,Ahmedabad,2018-10-25,55600,22240,8340,6672,79508,98.8,Below Average,Yes
+546,Tarun,Sharma,Tarun Sharma,tarun.sharma594@company.com,+91 8498372256,Finance,Accountant,full_time,Kolkata,2016-07-11,45300,18120,6795,5436,64779,92.6,Good,Yes
+547,Advait,Srivastava,Advait Srivastava,advait.srivastava818@company.com,+91 7212356306,Marketing,Marketing Executive,full_time,Mumbai,2023-01-28,45600,18240,6840,5472,65208,98.4,Below Average,Yes
+548,Vihaan,Agarwal,Vihaan Agarwal,vihaan.agarwal180@company.com,+91 8384636369,Legal,Compliance Officer,full_time,Ahmedabad,2023-07-12,142400,56960,21360,17088,203632,73.4,Average,Yes
+549,Atharv,Kumar,Atharv Kumar,atharv.kumar152@company.com,+91 8587610666,IT Support,System Admin,full_time,Ahmedabad,2017-11-22,81600,32640,12240,9792,116688,95.5,Average,No
+550,Pankaj,Bhatt,Pankaj Bhatt,pankaj.bhatt787@company.com,+91 7816303145,Operations,Operations Manager,full_time,Delhi,2021-07-24,113600,45440,17040,13632,162448,98.6,Below Average,Yes
+551,Priya,Soni,Priya Soni,priya.soni37@company.com,+91 7468482531,IT Support,IT Manager,part_time,Noida,2015-10-24,60600,24240,9090,7272,86658,78.1,Excellent,Yes
+552,Aarav,Pandey,Aarav Pandey,aarav.pandey443@company.com,+91 9921539040,Finance,Accountant,full_time,Ahmedabad,2023-09-12,76500,30600,11475,9180,109395,93.7,Excellent,Yes
+553,Shreya,Tripathi,Shreya Tripathi,shreya.tripathi216@company.com,+91 9894177425,Finance,Senior Accountant,full_time,Pune,2017-05-14,134300,53720,20145,16116,192049,86.4,Good,No
+554,Tanvi,Dixit,Tanvi Dixit,tanvi.dixit268@company.com,+91 7273813775,Sales,Sales Analyst,full_time,Kolkata,2015-09-08,117700,47080,17655,14124,168311,90.4,Below Average,Yes
+555,Arun,Shukla,Arun Shukla,arun.shukla908@company.com,+91 7103158005,Operations,Logistics Coordinator,full_time,Noida,2021-12-21,134500,53800,20175,16140,192335,72.4,Below Average,Yes
+556,Ramesh,Gupta,Ramesh Gupta,ramesh.gupta113@company.com,+91 9832071812,Finance,Auditor,part_time,Hyderabad,2016-06-13,120700,48280,18105,14484,172601,73.7,Average,Yes
+557,Shreya,Awasthi,Shreya Awasthi,shreya.awasthi152@company.com,+91 8755883986,Human Resources,HR Executive,full_time,Ahmedabad,2018-11-18,47800,19120,7170,5736,68354,93.3,Good,No
+558,Rohan,Soni,Rohan Soni,rohan.soni856@company.com,+91 8162774467,Human Resources,Recruiter,full_time,Noida,2015-05-18,81000,32400,12150,9720,115830,81.0,Good,Yes
+559,Amit,Shukla,Amit Shukla,amit.shukla36@company.com,+91 9862971081,Human Resources,Training Specialist,part_time,Ahmedabad,2017-07-12,70700,28280,10605,8484,101101,81.0,Average,Yes
+560,Amit,Srivastava,Amit Srivastava,amit.srivastava357@company.com,+91 7013977894,Finance,Senior Accountant,full_time,Noida,2022-10-17,63300,25320,9495,7596,90519,72.4,Excellent,Yes
+561,Pari,Bhatt,Pari Bhatt,pari.bhatt593@company.com,+91 8978813207,Legal,Legal Analyst,full_time,Hyderabad,2021-04-19,58500,23400,8775,7020,83655,89.8,Good,Yes
+562,Diya,Mehta,Diya Mehta,diya.mehta799@company.com,+91 7681409612,Operations,Supply Chain Analyst,part_time,Kolkata,2023-01-02,68700,27480,10305,8244,98241,72.7,Excellent,No
+563,Manish,Kumar,Manish Kumar,manish.kumar79@company.com,+91 8143332619,IT Support,System Admin,full_time,Delhi,2018-07-10,46700,18680,7005,5604,66781,93.3,Good,Yes
+564,Pari,Pandey,Pari Pandey,pari.pandey251@company.com,+91 7458614278,Operations,Supply Chain Analyst,part_time,Ahmedabad,2020-07-09,66000,26400,9900,7920,94380,92.5,Average,Yes
+565,Kavya,Verma,Kavya Verma,kavya.verma534@company.com,+91 7295914552,IT Support,Help Desk Analyst,full_time,Chennai,2016-12-19,44100,17640,6615,5292,63063,91.4,Average,Yes
+566,Shreya,Pandey,Shreya Pandey,shreya.pandey529@company.com,+91 7779193335,Finance,Accountant,part_time,Ahmedabad,2024-11-26,119500,47800,17925,14340,170885,83.1,Average,Yes
+567,Pooja,Khanna,Pooja Khanna,pooja.khanna895@company.com,+91 9714834078,Legal,Contract Manager,full_time,Noida,2020-03-07,82500,33000,12375,9900,117975,72.5,Good,Yes
+568,Vihaan,Jain,Vihaan Jain,vihaan.jain13@company.com,+91 9541105306,Operations,Operations Analyst,part_time,Mumbai,2024-11-21,54100,21640,8115,6492,77363,97.4,Excellent,Yes
+569,Saanvi,Bansal,Saanvi Bansal,saanvi.bansal881@company.com,+91 8222207846,Human Resources,HR Analyst,full_time,Mumbai,2018-02-13,95100,38040,14265,11412,135993,78.2,Excellent,Yes
+570,Kavya,Roy,Kavya Roy,kavya.roy200@company.com,+91 9232329096,Legal,Compliance Officer,part_time,Pune,2015-03-26,93200,37280,13980,11184,133276,79.0,Good,Yes
+571,Rohan,Saxena,Rohan Saxena,rohan.saxena167@company.com,+91 7613779088,Operations,Supply Chain Analyst,full_time,Kolkata,2018-03-13,120300,48120,18045,14436,172029,74.5,Below Average,Yes
+572,Anjali,Agarwal,Anjali Agarwal,anjali.agarwal881@company.com,+91 8550436504,Finance,Finance Manager,full_time,Pune,2017-08-05,86100,34440,12915,10332,123123,93.0,Good,Yes
+573,Deepak,Chopra,Deepak Chopra,deepak.chopra758@company.com,+91 8212049631,Operations,Operations Manager,full_time,Hyderabad,2016-09-12,45700,18280,6855,5484,65351,75.9,Below Average,Yes
+574,Ramesh,Shah,Ramesh Shah,ramesh.shah869@company.com,+91 7535828846,Sales,Business Development,full_time,Hyderabad,2021-04-17,97400,38960,14610,11688,139282,95.0,Excellent,Yes
+575,Ayaan,Verma,Ayaan Verma,ayaan.verma962@company.com,+91 9976489253,Engineering,DevOps Engineer,contract,Hyderabad,2019-05-14,128100,51240,19215,15372,183183,92.8,Excellent,Yes
+576,Advik,Srivastava,Advik Srivastava,advik.srivastava649@company.com,+91 7561797612,Marketing,Marketing Executive,full_time,Noida,2015-07-18,85600,34240,12840,10272,122408,93.1,Excellent,No
+577,Anjali,Bajpai,Anjali Bajpai,anjali.bajpai335@company.com,+91 8771495800,Engineering,Tech Lead,full_time,Noida,2016-10-02,175500,70200,26325,21060,250965,88.0,Below Average,Yes
+578,Ritvik,Goyal,Ritvik Goyal,ritvik.goyal515@company.com,+91 9248048962,Sales,Sales Analyst,contract,Gurugram,2024-08-27,79300,31720,11895,9516,113399,81.1,Excellent,Yes
+579,Aarav,Chopra,Aarav Chopra,aarav.chopra578@company.com,+91 8950240731,IT Support,Network Admin,full_time,Bangalore,2015-06-30,84100,33640,12615,10092,120263,96.9,Good,Yes
+580,Ayaan,Bansal,Ayaan Bansal,ayaan.bansal809@company.com,+91 9747870425,Marketing,Brand Manager,full_time,Chennai,2024-05-01,58400,23360,8760,7008,83512,90.5,Good,Yes
+581,Ayaan,Srivastava,Ayaan Srivastava,ayaan.srivastava453@company.com,+91 9642786052,Human Resources,HR Manager,part_time,Kolkata,2020-12-23,54100,21640,8115,6492,77363,87.9,Excellent,Yes
+582,Aadhya,Srivastava,Aadhya Srivastava,aadhya.srivastava722@company.com,+91 8042023627,Engineering,QA Engineer,full_time,Pune,2015-06-09,71500,28600,10725,8580,102245,90.1,Average,Yes
+583,Aadhya,Khanna,Aadhya Khanna,aadhya.khanna994@company.com,+91 7815167081,Engineering,QA Engineer,full_time,Chennai,2023-03-06,75300,30120,11295,9036,107679,94.9,Excellent,Yes
+584,Rohan,Khanna,Rohan Khanna,rohan.khanna921@company.com,+91 7893123955,IT Support,Help Desk Analyst,full_time,Mumbai,2019-08-12,92100,36840,13815,11052,131703,74.8,Below Average,Yes
+585,Shreya,Jain,Shreya Jain,shreya.jain790@company.com,+91 8449360528,Finance,Financial Analyst,full_time,Gurugram,2024-03-24,42200,16880,6330,5064,60346,94.7,Below Average,Yes
+586,Ishaan,Rao,Ishaan Rao,ishaan.rao824@company.com,+91 7327066111,Legal,Legal Analyst,full_time,Bangalore,2017-10-12,131800,52720,19770,15816,188474,82.8,Excellent,Yes
+587,Darsh,Tiwari,Darsh Tiwari,darsh.tiwari123@company.com,+91 9625044132,Operations,Logistics Coordinator,part_time,Noida,2020-12-10,65700,26280,9855,7884,93951,74.8,Excellent,Yes
+588,Pooja,Patel,Pooja Patel,pooja.patel236@company.com,+91 7571584770,Sales,Account Manager,contract,Pune,2015-07-11,80600,32240,12090,9672,115258,78.9,Average,Yes
+589,Kavya,Dixit,Kavya Dixit,kavya.dixit546@company.com,+91 9212044723,Legal,Compliance Officer,contract,Mumbai,2015-08-07,127000,50800,19050,15240,181610,88.7,Average,Yes
+590,Aarush,Pillai,Aarush Pillai,aarush.pillai87@company.com,+91 8231038853,Operations,Logistics Coordinator,full_time,Hyderabad,2017-04-29,74500,29800,11175,8940,106535,94.6,Average,Yes
+591,Aarav,Saxena,Aarav Saxena,aarav.saxena228@company.com,+91 9915825855,Engineering,Senior Engineer,contract,Kolkata,2017-01-14,69800,27920,10470,8376,99814,94.9,Average,Yes
+592,Nisha,Iyer,Nisha Iyer,nisha.iyer19@company.com,+91 7836832296,Operations,Operations Manager,full_time,Noida,2024-01-26,110500,44200,16575,13260,158015,73.9,Below Average,Yes
+593,Raj,Yadav,Raj Yadav,raj.yadav294@company.com,+91 7623508335,Engineering,DevOps Engineer,full_time,Hyderabad,2021-01-25,55800,22320,8370,6696,79794,86.1,Average,Yes
+594,Advait,Chopra,Advait Chopra,advait.chopra532@company.com,+91 9810492021,IT Support,Help Desk Analyst,full_time,Bangalore,2023-06-03,92600,37040,13890,11112,132418,79.2,Average,Yes
+595,Nikhil,Garg,Nikhil Garg,nikhil.garg770@company.com,+91 7579670086,Finance,Senior Accountant,part_time,Bangalore,2024-12-17,149400,59760,22410,17928,213642,89.1,Below Average,Yes
+596,Rohan,Pandey,Rohan Pandey,rohan.pandey249@company.com,+91 9671218318,Finance,Senior Accountant,full_time,Pune,2022-06-23,82800,33120,12420,9936,118404,81.1,Excellent,No
+597,Tanvi,Joshi,Tanvi Joshi,tanvi.joshi818@company.com,+91 9645175272,IT Support,IT Support Engineer,full_time,Kolkata,2019-07-17,65900,26360,9885,7908,94237,86.0,Below Average,Yes
+598,Karan,Malhotra,Karan Malhotra,karan.malhotra64@company.com,+91 9994749337,IT Support,Help Desk Analyst,full_time,Mumbai,2019-11-24,100000,40000,15000,12000,143000,87.4,Good,Yes
+599,Arjun,Bansal,Arjun Bansal,arjun.bansal507@company.com,+91 9946377616,Sales,Business Development,part_time,Ahmedabad,2020-03-18,71700,28680,10755,8604,102531,94.9,Good,Yes
+600,Krishna,Verma,Krishna Verma,krishna.verma321@company.com,+91 8772641649,Operations,Process Engineer,full_time,Ahmedabad,2024-03-09,108600,43440,16290,13032,155298,72.1,Average,Yes
+601,Karan,Pandey,Karan Pandey,karan.pandey34@company.com,+91 8736113977,IT Support,Network Admin,contract,Delhi,2024-10-31,81200,32480,12180,9744,116116,77.1,Good,Yes
+602,Rohan,Kapoor,Rohan Kapoor,rohan.kapoor105@company.com,+91 8035915884,Engineering,DevOps Engineer,part_time,Kolkata,2018-07-13,151200,60480,22680,18144,216216,83.9,Good,Yes
+603,Pankaj,Kumar,Pankaj Kumar,pankaj.kumar606@company.com,+91 8556907155,Operations,Operations Manager,full_time,Bangalore,2019-02-27,58900,23560,8835,7068,84227,91.8,Good,Yes
+604,Anika,Yadav,Anika Yadav,anika.yadav486@company.com,+91 8837221828,Finance,Accountant,part_time,Chennai,2015-01-19,49200,19680,7380,5904,70356,97.7,Excellent,Yes
+605,Rajesh,Verma,Rajesh Verma,rajesh.verma486@company.com,+91 8178949253,Engineering,Senior Engineer,contract,Ahmedabad,2015-09-27,172700,69080,25905,20724,246961,99.4,Excellent,Yes
+606,Swati,Bose,Swati Bose,swati.bose934@company.com,+91 9902776891,Sales,Sales Executive,full_time,Gurugram,2015-07-18,91600,36640,13740,10992,130988,90.4,Average,Yes
+607,Amit,Naidu,Amit Naidu,amit.naidu259@company.com,+91 8061448509,Engineering,Tech Lead,full_time,Bangalore,2015-10-21,136200,54480,20430,16344,194766,76.4,Below Average,Yes
+608,Kunal,Mishra,Kunal Mishra,kunal.mishra221@company.com,+91 7406165857,Marketing,Content Writer,full_time,Noida,2022-11-23,106900,42760,16035,12828,152867,94.7,Below Average,Yes
+609,Vivaan,Chopra,Vivaan Chopra,vivaan.chopra900@company.com,+91 8746311434,Marketing,Digital Marketer,full_time,Delhi,2023-12-16,88600,35440,13290,10632,126698,76.5,Average,Yes
+610,Arun,Garg,Arun Garg,arun.garg259@company.com,+91 9020816779,Human Resources,HR Manager,full_time,Ahmedabad,2018-05-05,106600,42640,15990,12792,152438,76.5,Good,Yes
+611,Priya,Mishra,Priya Mishra,priya.mishra801@company.com,+91 7049075043,Engineering,Senior Engineer,full_time,Pune,2023-12-02,169800,67920,25470,20376,242814,79.4,Below Average,No
+612,Simran,Jain,Simran Jain,simran.jain820@company.com,+91 9173396053,Legal,Paralegal,full_time,Gurugram,2019-04-16,96900,38760,14535,11628,138567,95.2,Below Average,Yes
+613,Pooja,Dixit,Pooja Dixit,pooja.dixit76@company.com,+91 7189747185,IT Support,IT Manager,contract,Bangalore,2024-10-12,76500,30600,11475,9180,109395,77.4,Below Average,Yes
+614,Diya,Bansal,Diya Bansal,diya.bansal653@company.com,+91 9611521746,Operations,Process Engineer,full_time,Mumbai,2018-10-06,99600,39840,14940,11952,142428,76.9,Good,Yes
+615,Aadhya,Das,Aadhya Das,aadhya.das882@company.com,+91 9375952813,Finance,Auditor,full_time,Bangalore,2019-07-15,126400,50560,18960,15168,180752,80.4,Excellent,Yes
+616,Rajesh,Bhatt,Rajesh Bhatt,rajesh.bhatt927@company.com,+91 8005212869,Engineering,Software Engineer,part_time,Ahmedabad,2019-03-16,149800,59920,22470,17976,214214,84.0,Below Average,No
+617,Arjun,Bhatt,Arjun Bhatt,arjun.bhatt218@company.com,+91 9196747224,Legal,Paralegal,part_time,Noida,2020-06-14,118600,47440,17790,14232,169598,93.4,Average,Yes
+618,Arjun,Singh,Arjun Singh,arjun.singh987@company.com,+91 7796974186,Sales,Sales Executive,full_time,Ahmedabad,2023-02-01,97000,38800,14550,11640,138710,99.8,Excellent,Yes
+619,Nisha,Singh,Nisha Singh,nisha.singh276@company.com,+91 8847206284,Human Resources,HR Executive,contract,Gurugram,2020-12-20,104900,41960,15735,12588,150007,94.8,Below Average,Yes
+620,Aadhya,Roy,Aadhya Roy,aadhya.roy790@company.com,+91 8884908366,Legal,Legal Analyst,part_time,Ahmedabad,2023-11-07,52900,21160,7935,6348,75647,88.5,Below Average,No
+621,Nisha,Khanna,Nisha Khanna,nisha.khanna347@company.com,+91 7917853399,Legal,Paralegal,part_time,Mumbai,2016-07-04,68700,27480,10305,8244,98241,99.3,Good,Yes
+622,Karan,Jain,Karan Jain,karan.jain326@company.com,+91 7780682764,IT Support,Network Admin,full_time,Ahmedabad,2022-10-18,79700,31880,11955,9564,113971,81.9,Excellent,Yes
+623,Suresh,Kapoor,Suresh Kapoor,suresh.kapoor45@company.com,+91 8907523272,Marketing,Marketing Executive,part_time,Pune,2015-01-23,62500,25000,9375,7500,89375,80.3,Good,Yes
+624,Vikram,Mishra,Vikram Mishra,vikram.mishra892@company.com,+91 7602845944,Marketing,Brand Manager,full_time,Mumbai,2015-10-04,94000,37600,14100,11280,134420,91.0,Excellent,Yes
+625,Nisha,Singh,Nisha Singh,nisha.singh843@company.com,+91 8840854851,Finance,Accountant,full_time,Mumbai,2017-08-18,71200,28480,10680,8544,101816,91.9,Good,Yes
+626,Anjali,Dixit,Anjali Dixit,anjali.dixit839@company.com,+91 9863163798,Engineering,Software Engineer,part_time,Mumbai,2018-06-07,141600,56640,21240,16992,202488,91.2,Good,Yes
+627,Kavya,Kapoor,Kavya Kapoor,kavya.kapoor788@company.com,+91 9459266034,Sales,Sales Executive,full_time,Pune,2020-10-17,112200,44880,16830,13464,160446,85.9,Excellent,Yes
+628,Aarush,Sharma,Aarush Sharma,aarush.sharma941@company.com,+91 9394332661,Sales,Account Manager,part_time,Ahmedabad,2017-09-27,72900,29160,10935,8748,104247,74.4,Average,Yes
+629,Nisha,Kapoor,Nisha Kapoor,nisha.kapoor381@company.com,+91 9737422362,Marketing,Digital Marketer,full_time,Delhi,2018-12-29,50900,20360,7635,6108,72787,99.8,Good,Yes
+630,Saurabh,Bansal,Saurabh Bansal,saurabh.bansal33@company.com,+91 8736958143,IT Support,System Admin,full_time,Ahmedabad,2018-04-05,49000,19600,7350,5880,70070,83.5,Excellent,Yes
+631,Varun,Bajpai,Varun Bajpai,varun.bajpai186@company.com,+91 9558234624,Legal,Compliance Officer,full_time,Bangalore,2016-04-14,106800,42720,16020,12816,152724,92.9,Excellent,Yes
+632,Saanvi,Chopra,Saanvi Chopra,saanvi.chopra60@company.com,+91 7158778226,IT Support,IT Manager,part_time,Delhi,2015-02-03,75300,30120,11295,9036,107679,77.7,Average,Yes
+633,Vihaan,Chopra,Vihaan Chopra,vihaan.chopra126@company.com,+91 9758138386,Operations,Logistics Coordinator,full_time,Hyderabad,2015-02-18,97900,39160,14685,11748,139997,92.4,Excellent,Yes
+634,Rohan,Das,Rohan Das,rohan.das289@company.com,+91 7294738167,Operations,Logistics Coordinator,contract,Mumbai,2018-12-02,129200,51680,19380,15504,184756,79.5,Excellent,Yes
+635,Sai,Dubey,Sai Dubey,sai.dubey14@company.com,+91 8853362557,Engineering,Software Engineer,full_time,Gurugram,2015-08-16,165200,66080,24780,19824,236236,98.1,Good,Yes
+636,Vikram,Mittal,Vikram Mittal,vikram.mittal550@company.com,+91 8382845916,IT Support,Help Desk Analyst,contract,Ahmedabad,2019-10-02,53300,21320,7995,6396,76219,72.8,Excellent,Yes
+637,Rohan,Iyer,Rohan Iyer,rohan.iyer212@company.com,+91 9468128689,Marketing,Marketing Executive,contract,Noida,2019-07-12,103800,41520,15570,12456,148434,96.8,Average,Yes
+638,Suresh,Joshi,Suresh Joshi,suresh.joshi370@company.com,+91 7327390606,IT Support,IT Support Engineer,full_time,Delhi,2019-04-01,46200,18480,6930,5544,66066,97.4,Below Average,Yes
+639,Meera,Garg,Meera Garg,meera.garg896@company.com,+91 7930848876,Operations,Operations Manager,full_time,Mumbai,2016-12-27,101300,40520,15195,12156,144859,92.5,Excellent,Yes
+640,Ishaan,Singh,Ishaan Singh,ishaan.singh330@company.com,+91 8978640198,Finance,Financial Analyst,full_time,Bangalore,2016-09-27,91500,36600,13725,10980,130845,80.4,Excellent,Yes
+641,Sachin,Bansal,Sachin Bansal,sachin.bansal833@company.com,+91 9121098355,Finance,Accountant,contract,Kolkata,2017-01-02,144800,57920,21720,17376,207064,76.1,Excellent,Yes
+642,Rohan,Khanna,Rohan Khanna,rohan.khanna536@company.com,+91 8298953167,Operations,Logistics Coordinator,contract,Ahmedabad,2020-11-14,38900,15560,5835,4668,55627,76.0,Average,Yes
+643,Deepak,Mehta,Deepak Mehta,deepak.mehta845@company.com,+91 7471904649,Marketing,Brand Manager,full_time,Delhi,2016-03-17,96800,38720,14520,11616,138424,91.6,Below Average,Yes
+644,Ishaan,Kumar,Ishaan Kumar,ishaan.kumar560@company.com,+91 9169990315,Finance,Auditor,contract,Kolkata,2020-09-27,50200,20080,7530,6024,71786,99.5,Good,Yes
+645,Aarush,Patel,Aarush Patel,aarush.patel246@company.com,+91 9030583382,Legal,Legal Advisor,full_time,Chennai,2016-08-30,84600,33840,12690,10152,120978,72.2,Excellent,Yes
+646,Aarush,Tripathi,Aarush Tripathi,aarush.tripathi710@company.com,+91 8847854448,Marketing,SEO Analyst,part_time,Chennai,2023-09-22,72300,28920,10845,8676,103389,88.9,Good,Yes
+647,Kavya,Das,Kavya Das,kavya.das458@company.com,+91 9283563822,Marketing,Brand Manager,part_time,Mumbai,2016-06-07,93000,37200,13950,11160,132990,91.9,Average,Yes
+648,Deepak,Bajpai,Deepak Bajpai,deepak.bajpai581@company.com,+91 8571645235,IT Support,IT Manager,full_time,Kolkata,2019-08-21,48100,19240,7215,5772,68783,92.1,Average,Yes
+649,Arun,Das,Arun Das,arun.das871@company.com,+91 8729375955,Finance,Accountant,full_time,Ahmedabad,2019-05-06,53800,21520,8070,6456,76934,89.1,Below Average,Yes
+650,Manish,Joshi,Manish Joshi,manish.joshi164@company.com,+91 7361589994,Legal,Legal Analyst,full_time,Kolkata,2015-03-22,149800,59920,22470,17976,214214,93.7,Excellent,Yes
+651,Tanvi,Tiwari,Tanvi Tiwari,tanvi.tiwari70@company.com,+91 9201054521,Human Resources,Recruiter,contract,Chennai,2021-04-17,49300,19720,7395,5916,70499,75.2,Average,Yes
+652,Aditya,Jain,Aditya Jain,aditya.jain761@company.com,+91 9499201615,Human Resources,Training Specialist,full_time,Kolkata,2018-07-17,102900,41160,15435,12348,147147,89.3,Excellent,Yes
+653,Aarush,Naidu,Aarush Naidu,aarush.naidu423@company.com,+91 7711990813,Sales,Business Development,full_time,Bangalore,2017-06-23,91600,36640,13740,10992,130988,78.2,Good,Yes
+654,Anika,Goyal,Anika Goyal,anika.goyal690@company.com,+91 7635134948,Finance,Accountant,contract,Ahmedabad,2024-07-28,60500,24200,9075,7260,86515,96.9,Good,Yes
+655,Divya,Naidu,Divya Naidu,divya.naidu6@company.com,+91 7247995660,Finance,Financial Analyst,part_time,Noida,2022-01-19,100200,40080,15030,12024,143286,82.9,Average,Yes
+656,Advik,Kapoor,Advik Kapoor,advik.kapoor159@company.com,+91 9686771877,Human Resources,Training Specialist,full_time,Pune,2018-03-28,91800,36720,13770,11016,131274,89.8,Average,Yes
+657,Meera,Dubey,Meera Dubey,meera.dubey262@company.com,+91 9495421826,Legal,Contract Manager,full_time,Bangalore,2020-04-20,127400,50960,19110,15288,182182,77.7,Below Average,Yes
+658,Vivaan,Khanna,Vivaan Khanna,vivaan.khanna30@company.com,+91 9129298636,Marketing,SEO Analyst,part_time,Noida,2017-10-25,57900,23160,8685,6948,82797,88.0,Average,Yes
+659,Pooja,Kapoor,Pooja Kapoor,pooja.kapoor940@company.com,+91 7694672584,Operations,Logistics Coordinator,full_time,Kolkata,2018-07-06,73300,29320,10995,8796,104819,95.2,Good,Yes
+660,Ramesh,Shah,Ramesh Shah,ramesh.shah582@company.com,+91 8772396113,Operations,Operations Analyst,part_time,Pune,2022-12-15,73300,29320,10995,8796,104819,76.1,Average,Yes
+661,Shaurya,Nair,Shaurya Nair,shaurya.nair924@company.com,+91 8635851031,IT Support,Network Admin,full_time,Noida,2021-06-16,102700,41080,15405,12324,146861,87.8,Good,Yes
+662,Anika,Gupta,Anika Gupta,anika.gupta582@company.com,+91 7043186919,Finance,Finance Manager,full_time,Delhi,2017-12-31,74200,29680,11130,8904,106106,91.9,Good,Yes
+663,Rahul,Yadav,Rahul Yadav,rahul.yadav38@company.com,+91 7121286825,Legal,Contract Manager,full_time,Ahmedabad,2024-11-12,80400,32160,12060,9648,114972,86.6,Excellent,Yes
+664,Vivaan,Mehta,Vivaan Mehta,vivaan.mehta481@company.com,+91 7963846318,Operations,Process Engineer,part_time,Chennai,2019-08-13,104900,41960,15735,12588,150007,80.5,Average,Yes
+665,Nisha,Saxena,Nisha Saxena,nisha.saxena748@company.com,+91 8110507180,Human Resources,HR Analyst,full_time,Bangalore,2015-10-07,61000,24400,9150,7320,87230,89.1,Excellent,Yes
+666,Vivaan,Dixit,Vivaan Dixit,vivaan.dixit912@company.com,+91 8203989176,Marketing,Content Writer,contract,Ahmedabad,2024-02-20,89900,35960,13485,10788,128557,77.2,Excellent,Yes
+667,Saurabh,Tripathi,Saurabh Tripathi,saurabh.tripathi648@company.com,+91 9944153011,Finance,Senior Accountant,part_time,Mumbai,2018-08-01,122100,48840,18315,14652,174603,79.7,Good,Yes
+668,Kabir,Mishra,Kabir Mishra,kabir.mishra720@company.com,+91 8146061326,Operations,Operations Manager,part_time,Pune,2016-06-21,55700,22280,8355,6684,79651,90.8,Average,Yes
+669,Aarush,Bose,Aarush Bose,aarush.bose496@company.com,+91 8871883276,Legal,Compliance Officer,contract,Delhi,2024-11-20,86000,34400,12900,10320,122980,76.1,Excellent,Yes
+670,Aadhya,Reddy,Aadhya Reddy,aadhya.reddy303@company.com,+91 9726893457,Marketing,Digital Marketer,full_time,Pune,2019-04-28,83900,33560,12585,10068,119977,87.5,Excellent,Yes
+671,Kavya,Sharma,Kavya Sharma,kavya.sharma907@company.com,+91 9470047700,Operations,Supply Chain Analyst,full_time,Gurugram,2018-11-15,71600,28640,10740,8592,102388,87.8,Good,Yes
+672,Kavya,Reddy,Kavya Reddy,kavya.reddy796@company.com,+91 7175972266,Engineering,QA Engineer,full_time,Pune,2021-09-04,136400,54560,20460,16368,195052,99.5,Below Average,No
+673,Aarush,Yadav,Aarush Yadav,aarush.yadav933@company.com,+91 8552870516,Legal,Legal Analyst,full_time,Mumbai,2022-12-28,94400,37760,14160,11328,134992,94.7,Excellent,Yes
+674,Saanvi,Joshi,Saanvi Joshi,saanvi.joshi973@company.com,+91 9223401859,Engineering,Software Engineer,full_time,Kolkata,2016-11-30,76600,30640,11490,9192,109538,92.4,Average,Yes
+675,Pari,Verma,Pari Verma,pari.verma797@company.com,+91 8104607796,IT Support,IT Support Engineer,part_time,Chennai,2021-03-02,90600,36240,13590,10872,129558,89.9,Average,Yes
+676,Saanvi,Das,Saanvi Das,saanvi.das102@company.com,+91 7567324466,Operations,Process Engineer,part_time,Delhi,2022-04-13,102800,41120,15420,12336,147004,95.4,Below Average,Yes
+677,Rohan,Mishra,Rohan Mishra,rohan.mishra576@company.com,+91 7205457533,Operations,Process Engineer,contract,Pune,2022-05-06,124200,49680,18630,14904,177606,96.5,Excellent,Yes
+678,Darsh,Shah,Darsh Shah,darsh.shah848@company.com,+91 7647881548,Sales,Account Manager,full_time,Hyderabad,2018-03-12,96500,38600,14475,11580,137995,91.3,Below Average,Yes
+679,Ramesh,Soni,Ramesh Soni,ramesh.soni594@company.com,+91 9123100429,Finance,Senior Accountant,contract,Mumbai,2020-04-06,85100,34040,12765,10212,121693,93.7,Excellent,Yes
+680,Dhruv,Rao,Dhruv Rao,dhruv.rao163@company.com,+91 8994800088,Human Resources,Training Specialist,part_time,Kolkata,2020-03-31,70400,28160,10560,8448,100672,97.3,Good,Yes
+681,Suresh,Tiwari,Suresh Tiwari,suresh.tiwari363@company.com,+91 9340046329,Sales,Sales Manager,full_time,Kolkata,2020-06-02,98600,39440,14790,11832,140998,86.1,Average,Yes
+682,Diya,Dixit,Diya Dixit,diya.dixit125@company.com,+91 8806170706,IT Support,Help Desk Analyst,full_time,Noida,2015-07-03,65700,26280,9855,7884,93951,92.7,Excellent,Yes
+683,Rajesh,Patel,Rajesh Patel,rajesh.patel963@company.com,+91 8092140851,IT Support,Help Desk Analyst,part_time,Delhi,2020-11-05,36900,14760,5535,4428,52767,93.4,Average,Yes
+684,Rajesh,Dixit,Rajesh Dixit,rajesh.dixit135@company.com,+91 7211233801,Legal,Paralegal,part_time,Chennai,2024-09-02,140300,56120,21045,16836,200629,78.6,Excellent,Yes
+685,Diya,Bansal,Diya Bansal,diya.bansal114@company.com,+91 7806107779,Marketing,Marketing Executive,contract,Hyderabad,2018-09-22,111600,44640,16740,13392,159588,83.1,Below Average,Yes
+686,Nisha,Chopra,Nisha Chopra,nisha.chopra774@company.com,+91 7829582071,Engineering,Software Engineer,full_time,Kolkata,2016-11-27,146200,58480,21930,17544,209066,86.2,Excellent,Yes
+687,Tarun,Khanna,Tarun Khanna,tarun.khanna987@company.com,+91 7684558125,Legal,Legal Advisor,full_time,Ahmedabad,2021-08-06,61600,24640,9240,7392,88088,82.6,Average,Yes
+688,Priya,Roy,Priya Roy,priya.roy666@company.com,+91 9018146131,Marketing,SEO Analyst,part_time,Gurugram,2021-12-04,97600,39040,14640,11712,139568,92.5,Excellent,Yes
+689,Aditya,Joshi,Aditya Joshi,aditya.joshi12@company.com,+91 8258061483,IT Support,IT Manager,full_time,Bangalore,2018-06-03,44700,17880,6705,5364,63921,74.4,Below Average,Yes
+690,Aadhya,Dixit,Aadhya Dixit,aadhya.dixit67@company.com,+91 8788283448,Legal,Paralegal,full_time,Pune,2017-06-15,72000,28800,10800,8640,102960,80.6,Excellent,Yes
+691,Reyansh,Patel,Reyansh Patel,reyansh.patel902@company.com,+91 8659337662,IT Support,IT Support Engineer,contract,Mumbai,2024-09-01,62500,25000,9375,7500,89375,85.5,Good,Yes
+692,Aditya,Malhotra,Aditya Malhotra,aditya.malhotra211@company.com,+91 7556630886,Human Resources,Recruiter,part_time,Ahmedabad,2022-08-12,112000,44800,16800,13440,160160,77.2,Average,Yes
+693,Swati,Awasthi,Swati Awasthi,swati.awasthi532@company.com,+91 7479622418,Engineering,Tech Lead,full_time,Pune,2016-12-07,76800,30720,11520,9216,109824,77.0,Average,Yes
+694,Nisha,Shah,Nisha Shah,nisha.shah841@company.com,+91 9839097687,IT Support,IT Support Engineer,contract,Ahmedabad,2022-05-17,86600,34640,12990,10392,123838,92.9,Good,Yes
+695,Varun,Naidu,Varun Naidu,varun.naidu68@company.com,+91 8023557581,Engineering,QA Engineer,full_time,Bangalore,2024-04-26,159800,63920,23970,19176,228514,86.3,Average,Yes
+696,Rajesh,Garg,Rajesh Garg,rajesh.garg972@company.com,+91 7765374994,IT Support,Help Desk Analyst,full_time,Bangalore,2016-03-30,47200,18880,7080,5664,67496,80.6,Good,No
+697,Dhruv,Soni,Dhruv Soni,dhruv.soni455@company.com,+91 8410362770,Operations,Operations Manager,full_time,Bangalore,2015-07-06,67000,26800,10050,8040,95810,80.4,Good,Yes
+698,Simran,Das,Simran Das,simran.das716@company.com,+91 8164111478,Operations,Logistics Coordinator,full_time,Pune,2015-05-17,95100,38040,14265,11412,135993,97.5,Excellent,Yes
+699,Ayaan,Dixit,Ayaan Dixit,ayaan.dixit100@company.com,+91 7779012731,Engineering,Software Engineer,full_time,Noida,2019-11-21,109700,43880,16455,13164,156871,81.8,Below Average,Yes
+700,Ishaan,Joshi,Ishaan Joshi,ishaan.joshi963@company.com,+91 9626155303,Finance,Accountant,full_time,Gurugram,2020-09-19,85700,34280,12855,10284,122551,78.4,Average,Yes
+701,Saurabh,Iyer,Saurabh Iyer,saurabh.iyer2@company.com,+91 9448620112,Operations,Operations Manager,full_time,Noida,2021-04-07,119300,47720,17895,14316,170599,82.1,Below Average,Yes
+702,Advait,Khanna,Advait Khanna,advait.khanna96@company.com,+91 9120232395,Finance,Finance Manager,full_time,Noida,2020-02-18,47200,18880,7080,5664,67496,99.0,Good,Yes
+703,Ananya,Mishra,Ananya Mishra,ananya.mishra411@company.com,+91 8006056957,IT Support,System Admin,full_time,Hyderabad,2018-10-07,76200,30480,11430,9144,108966,74.4,Average,Yes
+704,Krishna,Rao,Krishna Rao,krishna.rao71@company.com,+91 8563082032,Human Resources,Training Specialist,full_time,Gurugram,2021-04-01,43000,17200,6450,5160,61490,76.9,Below Average,Yes
+705,Nikhil,Bose,Nikhil Bose,nikhil.bose627@company.com,+91 9297495083,Human Resources,HR Manager,part_time,Mumbai,2023-05-30,97600,39040,14640,11712,139568,78.4,Average,Yes
+706,Pankaj,Pillai,Pankaj Pillai,pankaj.pillai267@company.com,+91 9502658403,Legal,Legal Analyst,full_time,Ahmedabad,2018-03-31,129800,51920,19470,15576,185614,81.6,Excellent,Yes
+707,Kavya,Chauhan,Kavya Chauhan,kavya.chauhan233@company.com,+91 9783137416,Legal,Paralegal,part_time,Noida,2019-06-04,56600,22640,8490,6792,80938,84.1,Excellent,Yes
+708,Vivaan,Chaudhary,Vivaan Chaudhary,vivaan.chaudhary61@company.com,+91 9599009097,Finance,Financial Analyst,full_time,Hyderabad,2023-06-22,116800,46720,17520,14016,167024,77.8,Average,Yes
+709,Tanvi,Shukla,Tanvi Shukla,tanvi.shukla194@company.com,+91 8942835942,Finance,Auditor,full_time,Ahmedabad,2022-11-27,81000,32400,12150,9720,115830,93.7,Average,Yes
+710,Karan,Bose,Karan Bose,karan.bose200@company.com,+91 8003610853,Marketing,Digital Marketer,part_time,Delhi,2021-11-14,120000,48000,18000,14400,171600,74.1,Excellent,Yes
+711,Kavya,Bajpai,Kavya Bajpai,kavya.bajpai420@company.com,+91 9082516722,IT Support,Help Desk Analyst,full_time,Mumbai,2017-06-20,83500,33400,12525,10020,119405,83.8,Excellent,Yes
+712,Aarav,Shah,Aarav Shah,aarav.shah936@company.com,+91 7764537781,Human Resources,HR Manager,contract,Ahmedabad,2015-07-27,64900,25960,9735,7788,92807,81.4,Excellent,Yes
+713,Simran,Roy,Simran Roy,simran.roy546@company.com,+91 9730082870,Engineering,Software Engineer,part_time,Delhi,2020-04-22,179100,71640,26865,21492,256113,77.5,Good,Yes
+714,Sai,Pillai,Sai Pillai,sai.pillai634@company.com,+91 8253436402,Legal,Legal Advisor,full_time,Bangalore,2021-09-23,96000,38400,14400,11520,137280,78.4,Below Average,Yes
+715,Priya,Tripathi,Priya Tripathi,priya.tripathi561@company.com,+91 9013107210,Engineering,Senior Engineer,part_time,Noida,2024-07-10,105500,42200,15825,12660,150865,82.3,Good,Yes
+716,Advait,Sharma,Advait Sharma,advait.sharma378@company.com,+91 8869383402,Marketing,Content Writer,part_time,Hyderabad,2017-02-14,78100,31240,11715,9372,111683,79.2,Good,No
+717,Raj,Garg,Raj Garg,raj.garg62@company.com,+91 8332049208,Marketing,Digital Marketer,full_time,Ahmedabad,2015-05-02,61100,24440,9165,7332,87373,84.6,Excellent,Yes
+718,Advait,Srivastava,Advait Srivastava,advait.srivastava415@company.com,+91 8568947057,Marketing,Marketing Executive,full_time,Bangalore,2024-04-06,108800,43520,16320,13056,155584,94.8,Average,Yes
+719,Advait,Jain,Advait Jain,advait.jain628@company.com,+91 9441176731,Human Resources,HR Manager,full_time,Hyderabad,2021-05-13,43200,17280,6480,5184,61776,81.9,Good,Yes
+720,Kabir,Yadav,Kabir Yadav,kabir.yadav606@company.com,+91 9554097649,Human Resources,Training Specialist,part_time,Hyderabad,2023-06-03,58500,23400,8775,7020,83655,93.1,Below Average,Yes
+721,Ritvik,Menon,Ritvik Menon,ritvik.menon130@company.com,+91 9882172463,Sales,Business Development,full_time,Mumbai,2015-06-01,30400,12160,4560,3648,43472,73.6,Good,Yes
+722,Karan,Mishra,Karan Mishra,karan.mishra872@company.com,+91 8152494632,IT Support,IT Support Engineer,contract,Delhi,2015-08-08,100800,40320,15120,12096,144144,91.6,Below Average,Yes
+723,Neha,Das,Neha Das,neha.das610@company.com,+91 9686586241,Human Resources,Recruiter,part_time,Noida,2017-08-13,97600,39040,14640,11712,139568,95.5,Excellent,Yes
+724,Sai,Khanna,Sai Khanna,sai.khanna533@company.com,+91 8144172444,Operations,Process Engineer,full_time,Kolkata,2021-04-26,72900,29160,10935,8748,104247,96.8,Average,Yes
+725,Aarav,Patel,Aarav Patel,aarav.patel547@company.com,+91 7437582008,Marketing,Brand Manager,part_time,Kolkata,2021-01-12,96100,38440,14415,11532,137423,76.4,Excellent,Yes
+726,Rahul,Khanna,Rahul Khanna,rahul.khanna144@company.com,+91 7664587155,Human Resources,HR Manager,full_time,Chennai,2019-12-19,63000,25200,9450,7560,90090,73.4,Excellent,Yes
+727,Ramesh,Tripathi,Ramesh Tripathi,ramesh.tripathi979@company.com,+91 8239601086,Finance,Financial Analyst,full_time,Delhi,2023-07-30,73200,29280,10980,8784,104676,87.8,Below Average,Yes
+728,Gaurav,Verma,Gaurav Verma,gaurav.verma406@company.com,+91 7229903114,Operations,Operations Analyst,full_time,Mumbai,2015-04-19,118200,47280,17730,14184,169026,93.1,Average,Yes
+729,Shaurya,Agarwal,Shaurya Agarwal,shaurya.agarwal953@company.com,+91 8744835405,Human Resources,HR Analyst,full_time,Mumbai,2024-05-04,104100,41640,15615,12492,148863,78.1,Good,Yes
+730,Ayaan,Prasad,Ayaan Prasad,ayaan.prasad670@company.com,+91 7228366635,Finance,Finance Manager,part_time,Pune,2019-08-17,141400,56560,21210,16968,202202,88.7,Good,Yes
+731,Anjali,Pillai,Anjali Pillai,anjali.pillai535@company.com,+91 9306141871,Marketing,Brand Manager,part_time,Delhi,2024-04-13,108600,43440,16290,13032,155298,86.9,Excellent,Yes
+732,Nikhil,Saxena,Nikhil Saxena,nikhil.saxena17@company.com,+91 7375723871,Operations,Operations Analyst,part_time,Kolkata,2023-07-22,76700,30680,11505,9204,109681,96.1,Good,No
+733,Reyansh,Yadav,Reyansh Yadav,reyansh.yadav250@company.com,+91 7850184561,Marketing,Brand Manager,full_time,Bangalore,2023-04-14,99600,39840,14940,11952,142428,88.5,Excellent,Yes
+734,Rahul,Shukla,Rahul Shukla,rahul.shukla97@company.com,+91 9198653381,Operations,Process Engineer,full_time,Chennai,2023-04-07,104100,41640,15615,12492,148863,88.9,Excellent,Yes
+735,Kavya,Nair,Kavya Nair,kavya.nair915@company.com,+91 7386752331,Human Resources,HR Executive,full_time,Bangalore,2021-03-28,94300,37720,14145,11316,134849,75.1,Average,Yes
+736,Divya,Awasthi,Divya Awasthi,divya.awasthi913@company.com,+91 7091664946,Marketing,Brand Manager,contract,Noida,2024-05-17,84000,33600,12600,10080,120120,72.1,Below Average,Yes
+737,Krishna,Chauhan,Krishna Chauhan,krishna.chauhan957@company.com,+91 7553093469,Finance,Finance Manager,full_time,Pune,2017-11-20,55400,22160,8310,6648,79222,97.6,Average,Yes
+738,Aadhya,Khanna,Aadhya Khanna,aadhya.khanna988@company.com,+91 8774265661,Marketing,SEO Analyst,part_time,Delhi,2017-05-14,73700,29480,11055,8844,105391,98.7,Excellent,Yes
+739,Rahul,Pandey,Rahul Pandey,rahul.pandey404@company.com,+91 9993478698,Marketing,Content Writer,full_time,Chennai,2019-12-16,36100,14440,5415,4332,51623,95.7,Good,Yes
+740,Vihaan,Dixit,Vihaan Dixit,vihaan.dixit865@company.com,+91 7752837944,Operations,Process Engineer,part_time,Bangalore,2024-04-18,61100,24440,9165,7332,87373,86.0,Average,Yes
+741,Karan,Tiwari,Karan Tiwari,karan.tiwari858@company.com,+91 9555255139,Marketing,Marketing Executive,part_time,Hyderabad,2024-05-28,41300,16520,6195,4956,59059,93.3,Average,Yes
+742,Saanvi,Prasad,Saanvi Prasad,saanvi.prasad330@company.com,+91 7600442618,Human Resources,HR Manager,full_time,Gurugram,2016-06-04,66900,26760,10035,8028,95667,86.8,Good,Yes
+743,Sachin,Malhotra,Sachin Malhotra,sachin.malhotra347@company.com,+91 7052434288,Finance,Finance Manager,full_time,Mumbai,2018-06-12,132500,53000,19875,15900,189475,78.4,Good,Yes
+744,Sai,Khanna,Sai Khanna,sai.khanna112@company.com,+91 8083067906,IT Support,System Admin,part_time,Kolkata,2024-07-31,67500,27000,10125,8100,96525,92.2,Below Average,Yes
+745,Advik,Kumar,Advik Kumar,advik.kumar678@company.com,+91 9530461866,Engineering,DevOps Engineer,full_time,Kolkata,2018-12-13,76900,30760,11535,9228,109967,98.3,Excellent,Yes
+746,Advik,Tiwari,Advik Tiwari,advik.tiwari582@company.com,+91 9052664162,Sales,Account Manager,full_time,Delhi,2023-03-13,100000,40000,15000,12000,143000,73.1,Good,Yes
+747,Ayaan,Menon,Ayaan Menon,ayaan.menon755@company.com,+91 8499081580,Legal,Legal Analyst,full_time,Pune,2019-02-08,96800,38720,14520,11616,138424,95.1,Excellent,Yes
+748,Mahesh,Nair,Mahesh Nair,mahesh.nair990@company.com,+91 7111782257,Human Resources,HR Manager,full_time,Pune,2024-11-04,46600,18640,6990,5592,66638,80.5,Below Average,Yes
+749,Reyansh,Jain,Reyansh Jain,reyansh.jain448@company.com,+91 8418880883,Legal,Contract Manager,full_time,Kolkata,2024-07-28,152800,61120,22920,18336,218504,85.1,Good,Yes
+750,Tarun,Joshi,Tarun Joshi,tarun.joshi543@company.com,+91 7854758698,Marketing,Content Writer,full_time,Pune,2023-03-30,111600,44640,16740,13392,159588,79.8,Below Average,Yes
+751,Kabir,Pandey,Kabir Pandey,kabir.pandey775@company.com,+91 9795419855,Sales,Sales Executive,full_time,Bangalore,2017-05-10,104000,41600,15600,12480,148720,73.8,Average,Yes
+752,Anjali,Prasad,Anjali Prasad,anjali.prasad639@company.com,+91 7336507409,Finance,Auditor,part_time,Noida,2017-11-27,42300,16920,6345,5076,60489,83.8,Good,Yes
+753,Varun,Malhotra,Varun Malhotra,varun.malhotra951@company.com,+91 8354680204,Legal,Legal Analyst,full_time,Hyderabad,2024-10-04,87600,35040,13140,10512,125268,79.5,Excellent,Yes
+754,Aadhya,Roy,Aadhya Roy,aadhya.roy985@company.com,+91 9382550447,IT Support,IT Manager,part_time,Kolkata,2022-07-28,38600,15440,5790,4632,55198,86.1,Good,Yes
+755,Advait,Bose,Advait Bose,advait.bose485@company.com,+91 8585880853,Human Resources,HR Manager,part_time,Mumbai,2021-11-24,58300,23320,8745,6996,83369,89.2,Excellent,Yes
+756,Kabir,Roy,Kabir Roy,kabir.roy250@company.com,+91 8229537706,Human Resources,Recruiter,full_time,Kolkata,2018-11-21,96300,38520,14445,11556,137709,79.0,Excellent,Yes
+757,Rahul,Mehta,Rahul Mehta,rahul.mehta405@company.com,+91 9005886292,IT Support,IT Manager,full_time,Delhi,2021-02-13,59900,23960,8985,7188,85657,91.0,Excellent,Yes
+758,Vikram,Joshi,Vikram Joshi,vikram.joshi1@company.com,+91 9929664747,Marketing,Marketing Executive,full_time,Noida,2018-10-05,81000,32400,12150,9720,115830,73.5,Below Average,Yes
+759,Anjali,Pillai,Anjali Pillai,anjali.pillai364@company.com,+91 9595459282,Legal,Contract Manager,contract,Noida,2022-08-05,153900,61560,23085,18468,220077,87.7,Average,Yes
+760,Pankaj,Yadav,Pankaj Yadav,pankaj.yadav77@company.com,+91 7423320967,Human Resources,HR Analyst,full_time,Ahmedabad,2016-01-05,117200,46880,17580,14064,167596,76.6,Below Average,Yes
+761,Tarun,Mishra,Tarun Mishra,tarun.mishra56@company.com,+91 8663478113,Human Resources,Training Specialist,full_time,Kolkata,2019-12-04,94800,37920,14220,11376,135564,95.3,Average,Yes
+762,Deepak,Prasad,Deepak Prasad,deepak.prasad896@company.com,+91 8408324043,Finance,Senior Accountant,contract,Bangalore,2023-12-08,47100,18840,7065,5652,67353,92.3,Good,Yes
+763,Neha,Patel,Neha Patel,neha.patel192@company.com,+91 8793466978,Sales,Sales Analyst,part_time,Gurugram,2015-07-28,92900,37160,13935,11148,132847,89.0,Average,Yes
+764,Raj,Mishra,Raj Mishra,raj.mishra564@company.com,+91 8030089663,Human Resources,HR Executive,full_time,Kolkata,2021-08-23,116900,46760,17535,14028,167167,96.7,Below Average,Yes
+765,Rajesh,Kumar,Rajesh Kumar,rajesh.kumar775@company.com,+91 8374476501,Finance,Finance Manager,part_time,Bangalore,2021-01-29,54900,21960,8235,6588,78507,81.0,Excellent,Yes
+766,Rohan,Roy,Rohan Roy,rohan.roy290@company.com,+91 7074775324,Marketing,Digital Marketer,full_time,Pune,2015-12-28,87400,34960,13110,10488,124982,82.1,Excellent,Yes
+767,Varun,Malhotra,Varun Malhotra,varun.malhotra883@company.com,+91 7014998446,Marketing,Content Writer,full_time,Kolkata,2016-09-05,105000,42000,15750,12600,150150,91.7,Average,Yes
+768,Ananya,Joshi,Ananya Joshi,ananya.joshi494@company.com,+91 7533698872,Marketing,Content Writer,part_time,Delhi,2024-09-15,60400,24160,9060,7248,86372,94.6,Below Average,Yes
+769,Rajesh,Dubey,Rajesh Dubey,rajesh.dubey37@company.com,+91 7303059588,Operations,Supply Chain Analyst,part_time,Delhi,2018-09-08,117700,47080,17655,14124,168311,94.0,Good,Yes
+770,Sachin,Bajpai,Sachin Bajpai,sachin.bajpai88@company.com,+91 9445806813,Human Resources,HR Manager,part_time,Delhi,2018-02-21,109000,43600,16350,13080,155870,74.2,Good,Yes
+771,Saanvi,Khanna,Saanvi Khanna,saanvi.khanna957@company.com,+91 7690623772,Human Resources,HR Analyst,full_time,Pune,2023-09-10,62800,25120,9420,7536,89804,82.5,Average,Yes
+772,Varun,Bansal,Varun Bansal,varun.bansal627@company.com,+91 8288189879,Engineering,QA Engineer,full_time,Hyderabad,2023-07-21,166000,66400,24900,19920,237380,82.0,Excellent,Yes
+773,Divya,Iyer,Divya Iyer,divya.iyer482@company.com,+91 7190481609,Legal,Paralegal,full_time,Hyderabad,2022-11-21,143000,57200,21450,17160,204490,75.3,Good,Yes
+774,Gaurav,Awasthi,Gaurav Awasthi,gaurav.awasthi860@company.com,+91 7466131280,Sales,Sales Executive,part_time,Gurugram,2021-02-19,60700,24280,9105,7284,86801,98.9,Below Average,Yes
+775,Ritvik,Kapoor,Ritvik Kapoor,ritvik.kapoor656@company.com,+91 9549955056,Operations,Operations Analyst,full_time,Chennai,2015-12-30,76200,30480,11430,9144,108966,90.7,Average,Yes
+776,Vikram,Joshi,Vikram Joshi,vikram.joshi826@company.com,+91 8419613381,Marketing,Marketing Executive,full_time,Delhi,2024-11-30,51700,20680,7755,6204,73931,78.0,Below Average,Yes
+777,Ramesh,Joshi,Ramesh Joshi,ramesh.joshi464@company.com,+91 9529257074,Human Resources,HR Executive,full_time,Pune,2020-10-07,117100,46840,17565,14052,167453,73.7,Average,Yes
+778,Tanvi,Iyer,Tanvi Iyer,tanvi.iyer55@company.com,+91 7957795249,Legal,Contract Manager,full_time,Pune,2022-11-09,52600,21040,7890,6312,75218,98.0,Average,Yes
+779,Nikhil,Chaudhary,Nikhil Chaudhary,nikhil.chaudhary80@company.com,+91 7713122846,IT Support,Help Desk Analyst,full_time,Delhi,2016-01-20,68900,27560,10335,8268,98527,97.9,Average,Yes
+780,Raj,Tiwari,Raj Tiwari,raj.tiwari333@company.com,+91 8424286136,Legal,Compliance Officer,full_time,Mumbai,2019-01-20,67800,27120,10170,8136,96954,73.0,Below Average,Yes
+781,Sai,Pandey,Sai Pandey,sai.pandey982@company.com,+91 7128103790,Operations,Supply Chain Analyst,full_time,Kolkata,2022-03-14,91700,36680,13755,11004,131131,97.8,Below Average,No
+782,Raj,Jain,Raj Jain,raj.jain771@company.com,+91 9410835970,IT Support,Help Desk Analyst,full_time,Pune,2016-04-05,41300,16520,6195,4956,59059,95.0,Good,Yes
+783,Varun,Nair,Varun Nair,varun.nair688@company.com,+91 8285127270,Finance,Accountant,full_time,Ahmedabad,2017-09-16,50100,20040,7515,6012,71643,84.5,Excellent,Yes
+784,Sachin,Bajpai,Sachin Bajpai,sachin.bajpai370@company.com,+91 7091159493,Marketing,Digital Marketer,contract,Mumbai,2023-05-12,57600,23040,8640,6912,82368,96.6,Excellent,Yes
+785,Swati,Mehta,Swati Mehta,swati.mehta921@company.com,+91 7671157691,Human Resources,HR Analyst,contract,Mumbai,2016-02-26,55700,22280,8355,6684,79651,91.1,Average,Yes
+786,Atharv,Bose,Atharv Bose,atharv.bose505@company.com,+91 7326480420,Marketing,SEO Analyst,full_time,Noida,2021-06-13,104100,41640,15615,12492,148863,95.2,Good,Yes
+787,Saanvi,Malhotra,Saanvi Malhotra,saanvi.malhotra762@company.com,+91 9431884713,Operations,Process Engineer,full_time,Mumbai,2016-12-09,82100,32840,12315,9852,117403,73.7,Excellent,Yes
+788,Aarav,Yadav,Aarav Yadav,aarav.yadav516@company.com,+91 9450813918,Finance,Finance Manager,contract,Pune,2015-11-09,134800,53920,20220,16176,192764,86.6,Good,Yes
+789,Rohan,Khanna,Rohan Khanna,rohan.khanna854@company.com,+91 9561422577,Sales,Sales Executive,contract,Delhi,2016-04-14,118200,47280,17730,14184,169026,77.7,Good,Yes
+790,Divya,Joshi,Divya Joshi,divya.joshi999@company.com,+91 7196036941,Legal,Contract Manager,full_time,Noida,2021-07-04,60200,24080,9030,7224,86086,91.8,Good,No
+791,Pankaj,Khanna,Pankaj Khanna,pankaj.khanna954@company.com,+91 7279310962,Operations,Logistics Coordinator,full_time,Ahmedabad,2015-04-19,41200,16480,6180,4944,58916,96.8,Excellent,Yes
+792,Rajesh,Pillai,Rajesh Pillai,rajesh.pillai910@company.com,+91 7136517046,Engineering,Senior Engineer,full_time,Ahmedabad,2018-09-01,88200,35280,13230,10584,126126,77.8,Excellent,Yes
+793,Tanvi,Bansal,Tanvi Bansal,tanvi.bansal306@company.com,+91 9025898950,IT Support,IT Manager,full_time,Delhi,2016-02-12,100800,40320,15120,12096,144144,80.3,Excellent,Yes
+794,Saanvi,Kapoor,Saanvi Kapoor,saanvi.kapoor356@company.com,+91 9908440525,Operations,Operations Manager,full_time,Delhi,2020-02-27,61100,24440,9165,7332,87373,95.9,Below Average,Yes
+795,Karan,Mittal,Karan Mittal,karan.mittal963@company.com,+91 7600785814,Finance,Finance Manager,contract,Noida,2023-01-21,83000,33200,12450,9960,118690,77.6,Good,Yes
+796,Tanvi,Menon,Tanvi Menon,tanvi.menon963@company.com,+91 8561225295,Human Resources,HR Analyst,contract,Bangalore,2015-08-21,99800,39920,14970,11976,142714,95.7,Good,Yes
+797,Simran,Das,Simran Das,simran.das324@company.com,+91 7811212486,Human Resources,Training Specialist,contract,Bangalore,2024-02-14,117200,46880,17580,14064,167596,81.5,Excellent,Yes
+798,Saanvi,Jain,Saanvi Jain,saanvi.jain638@company.com,+91 8747956311,IT Support,Network Admin,full_time,Delhi,2023-09-08,41000,16400,6150,4920,58630,91.4,Good,Yes
+799,Kavya,Pillai,Kavya Pillai,kavya.pillai138@company.com,+91 9567393108,Legal,Contract Manager,full_time,Chennai,2016-02-16,148100,59240,22215,17772,211783,78.2,Excellent,Yes
+800,Divya,Tripathi,Divya Tripathi,divya.tripathi735@company.com,+91 9560737818,IT Support,Network Admin,full_time,Bangalore,2022-05-20,71600,28640,10740,8592,102388,76.9,Good,Yes
+801,Varun,Mittal,Varun Mittal,varun.mittal16@company.com,+91 8541021970,Operations,Process Engineer,full_time,Kolkata,2024-02-06,133300,53320,19995,15996,190619,82.2,Below Average,Yes
+802,Reyansh,Tiwari,Reyansh Tiwari,reyansh.tiwari346@company.com,+91 9565660086,Sales,Sales Executive,contract,Chennai,2024-06-03,115100,46040,17265,13812,164593,90.4,Average,Yes
+803,Arun,Jain,Arun Jain,arun.jain407@company.com,+91 9064996192,IT Support,System Admin,part_time,Bangalore,2022-11-28,106700,42680,16005,12804,152581,85.6,Excellent,Yes
+804,Amit,Srivastava,Amit Srivastava,amit.srivastava538@company.com,+91 7254770048,Legal,Contract Manager,full_time,Chennai,2020-10-25,57800,23120,8670,6936,82654,90.4,Excellent,Yes
+805,Arun,Tiwari,Arun Tiwari,arun.tiwari799@company.com,+91 9491030712,Operations,Process Engineer,full_time,Mumbai,2024-07-30,86000,34400,12900,10320,122980,99.4,Below Average,Yes
+806,Saanvi,Dubey,Saanvi Dubey,saanvi.dubey803@company.com,+91 8487781019,IT Support,IT Manager,full_time,Kolkata,2016-09-26,108200,43280,16230,12984,154726,76.0,Average,Yes
+807,Pari,Gupta,Pari Gupta,pari.gupta563@company.com,+91 7602055397,Sales,Sales Executive,full_time,Pune,2022-12-23,97600,39040,14640,11712,139568,93.8,Below Average,Yes
+808,Amit,Verma,Amit Verma,amit.verma241@company.com,+91 9471708249,Engineering,Software Engineer,part_time,Ahmedabad,2016-04-25,80000,32000,12000,9600,114400,97.8,Below Average,Yes
+809,Ishaan,Singh,Ishaan Singh,ishaan.singh183@company.com,+91 8784885878,Human Resources,Recruiter,contract,Hyderabad,2019-04-30,98600,39440,14790,11832,140998,85.3,Excellent,Yes
+810,Raj,Menon,Raj Menon,raj.menon240@company.com,+91 8795784021,Sales,Account Manager,contract,Mumbai,2023-01-17,44200,17680,6630,5304,63206,87.9,Below Average,Yes
+811,Diya,Garg,Diya Garg,diya.garg256@company.com,+91 9578862430,Finance,Auditor,contract,Hyderabad,2018-04-17,89300,35720,13395,10716,127699,78.7,Below Average,Yes
+812,Deepak,Mittal,Deepak Mittal,deepak.mittal778@company.com,+91 8393374681,Engineering,DevOps Engineer,part_time,Noida,2024-12-14,59300,23720,8895,7116,84799,80.8,Average,Yes
+813,Atharv,Nair,Atharv Nair,atharv.nair539@company.com,+91 9752186413,Legal,Legal Advisor,part_time,Gurugram,2015-02-27,70600,28240,10590,8472,100958,97.1,Good,Yes
+814,Vivaan,Kapoor,Vivaan Kapoor,vivaan.kapoor329@company.com,+91 9315412741,Operations,Supply Chain Analyst,full_time,Hyderabad,2019-12-06,81700,32680,12255,9804,116831,77.6,Good,Yes
+815,Arjun,Agarwal,Arjun Agarwal,arjun.agarwal139@company.com,+91 9956301917,Legal,Compliance Officer,part_time,Mumbai,2017-12-22,132000,52800,19800,15840,188760,83.0,Below Average,Yes
+816,Rajesh,Nair,Rajesh Nair,rajesh.nair595@company.com,+91 8495210476,IT Support,IT Manager,part_time,Mumbai,2019-05-13,102600,41040,15390,12312,146718,87.8,Below Average,Yes
+817,Saurabh,Dubey,Saurabh Dubey,saurabh.dubey466@company.com,+91 8715978435,IT Support,Network Admin,full_time,Noida,2023-09-12,100600,40240,15090,12072,143858,82.6,Good,Yes
+818,Vihaan,Nair,Vihaan Nair,vihaan.nair600@company.com,+91 7122392487,IT Support,Network Admin,full_time,Bangalore,2015-05-12,61600,24640,9240,7392,88088,80.8,Average,Yes
+819,Kabir,Pillai,Kabir Pillai,kabir.pillai933@company.com,+91 9410576256,Finance,Accountant,full_time,Bangalore,2019-04-12,147300,58920,22095,17676,210639,74.3,Below Average,Yes
+820,Diya,Chaudhary,Diya Chaudhary,diya.chaudhary402@company.com,+91 7663414750,Operations,Process Engineer,contract,Bangalore,2016-10-13,47400,18960,7110,5688,67782,72.2,Good,Yes
+821,Pooja,Gupta,Pooja Gupta,pooja.gupta58@company.com,+91 8472713793,Marketing,SEO Analyst,full_time,Bangalore,2017-07-29,107000,42800,16050,12840,153010,86.7,Average,Yes
+822,Rajesh,Shah,Rajesh Shah,rajesh.shah76@company.com,+91 8361241742,Human Resources,HR Analyst,full_time,Mumbai,2016-11-05,107900,43160,16185,12948,154297,75.2,Below Average,Yes
+823,Mahesh,Bansal,Mahesh Bansal,mahesh.bansal906@company.com,+91 8898308435,Finance,Auditor,full_time,Noida,2018-11-15,50700,20280,7605,6084,72501,90.4,Good,Yes
+824,Rohan,Garg,Rohan Garg,rohan.garg760@company.com,+91 7817653526,Sales,Business Development,full_time,Gurugram,2023-07-29,66100,26440,9915,7932,94523,92.8,Excellent,Yes
+825,Sneha,Bajpai,Sneha Bajpai,sneha.bajpai765@company.com,+91 8060564816,Engineering,Tech Lead,part_time,Chennai,2024-04-05,100300,40120,15045,12036,143429,85.1,Good,Yes
+826,Aditya,Garg,Aditya Garg,aditya.garg116@company.com,+91 7752250358,IT Support,Help Desk Analyst,part_time,Noida,2016-03-01,82400,32960,12360,9888,117832,73.0,Below Average,Yes
+827,Ananya,Pillai,Ananya Pillai,ananya.pillai362@company.com,+91 9012382029,Human Resources,HR Executive,full_time,Bangalore,2022-01-22,44000,17600,6600,5280,62920,82.8,Good,Yes
+828,Rajesh,Agarwal,Rajesh Agarwal,rajesh.agarwal74@company.com,+91 9517311069,Marketing,SEO Analyst,contract,Hyderabad,2020-07-31,111800,44720,16770,13416,159874,91.1,Excellent,Yes
+829,Kunal,Rao,Kunal Rao,kunal.rao191@company.com,+91 7909400449,Finance,Auditor,full_time,Ahmedabad,2020-08-14,88500,35400,13275,10620,126555,78.7,Excellent,Yes
+830,Ramesh,Singh,Ramesh Singh,ramesh.singh146@company.com,+91 7875214633,Operations,Process Engineer,full_time,Hyderabad,2017-08-19,48000,19200,7200,5760,68640,93.4,Good,Yes
+831,Anjali,Mittal,Anjali Mittal,anjali.mittal649@company.com,+91 7276167066,Marketing,SEO Analyst,part_time,Kolkata,2021-07-13,42700,17080,6405,5124,61061,81.2,Below Average,Yes
+832,Rohan,Agarwal,Rohan Agarwal,rohan.agarwal256@company.com,+91 7302487655,Human Resources,Training Specialist,full_time,Kolkata,2016-01-19,58000,23200,8700,6960,82940,72.7,Average,Yes
+833,Kunal,Saxena,Kunal Saxena,kunal.saxena753@company.com,+91 7040435842,Legal,Contract Manager,full_time,Hyderabad,2016-06-23,65800,26320,9870,7896,94094,77.3,Good,Yes
+834,Ishaan,Bajpai,Ishaan Bajpai,ishaan.bajpai573@company.com,+91 7141210002,Marketing,Marketing Executive,full_time,Chennai,2016-04-05,72400,28960,10860,8688,103532,84.4,Below Average,Yes
+835,Vihaan,Yadav,Vihaan Yadav,vihaan.yadav924@company.com,+91 9999846762,Engineering,Software Engineer,full_time,Hyderabad,2018-12-02,58200,23280,8730,6984,83226,97.7,Excellent,Yes
+836,Kabir,Malhotra,Kabir Malhotra,kabir.malhotra703@company.com,+91 8476275483,Legal,Legal Analyst,full_time,Noida,2021-02-28,92100,36840,13815,11052,131703,72.0,Below Average,Yes
+837,Advait,Tiwari,Advait Tiwari,advait.tiwari245@company.com,+91 8726768932,Human Resources,Recruiter,full_time,Hyderabad,2016-11-16,77900,31160,11685,9348,111397,75.6,Good,Yes
+838,Suresh,Das,Suresh Das,suresh.das411@company.com,+91 8885004846,Operations,Operations Manager,full_time,Gurugram,2016-11-12,139600,55840,20940,16752,199628,87.6,Excellent,Yes
+839,Sneha,Agarwal,Sneha Agarwal,sneha.agarwal852@company.com,+91 7904548291,Operations,Process Engineer,full_time,Mumbai,2024-04-08,65800,26320,9870,7896,94094,97.2,Good,Yes
+840,Meera,Dixit,Meera Dixit,meera.dixit94@company.com,+91 8402924165,Marketing,Content Writer,full_time,Mumbai,2022-02-19,59100,23640,8865,7092,84513,90.5,Average,Yes
+841,Vikram,Bansal,Vikram Bansal,vikram.bansal510@company.com,+91 9247790452,Human Resources,Recruiter,full_time,Kolkata,2023-04-20,74600,29840,11190,8952,106678,84.4,Good,Yes
+842,Manish,Chopra,Manish Chopra,manish.chopra229@company.com,+91 9900680366,Legal,Contract Manager,full_time,Delhi,2022-04-20,117600,47040,17640,14112,168168,79.5,Excellent,Yes
+843,Shaurya,Singh,Shaurya Singh,shaurya.singh504@company.com,+91 9604587119,Sales,Sales Analyst,part_time,Bangalore,2021-03-22,65400,26160,9810,7848,93522,85.7,Below Average,Yes
+844,Raj,Verma,Raj Verma,raj.verma408@company.com,+91 8535782630,Finance,Finance Manager,full_time,Hyderabad,2023-09-26,71200,28480,10680,8544,101816,93.3,Excellent,Yes
+845,Nikhil,Dubey,Nikhil Dubey,nikhil.dubey732@company.com,+91 9109431585,Sales,Account Manager,contract,Ahmedabad,2018-07-24,108800,43520,16320,13056,155584,84.1,Average,Yes
+846,Advait,Naidu,Advait Naidu,advait.naidu283@company.com,+91 7951976309,Operations,Logistics Coordinator,contract,Noida,2023-04-13,116600,46640,17490,13992,166738,94.8,Below Average,Yes
+847,Dhruv,Malhotra,Dhruv Malhotra,dhruv.malhotra447@company.com,+91 9942769346,Engineering,QA Engineer,full_time,Bangalore,2017-09-21,138800,55520,20820,16656,198484,77.4,Good,Yes
+848,Advik,Pillai,Advik Pillai,advik.pillai658@company.com,+91 8169860258,Operations,Logistics Coordinator,full_time,Bangalore,2023-11-13,56400,22560,8460,6768,80652,74.6,Below Average,Yes
+849,Atharv,Dixit,Atharv Dixit,atharv.dixit58@company.com,+91 7462649743,Marketing,Digital Marketer,full_time,Chennai,2024-07-24,120800,48320,18120,14496,172744,88.1,Below Average,Yes
+850,Neha,Garg,Neha Garg,neha.garg379@company.com,+91 7084049880,Legal,Paralegal,full_time,Pune,2023-10-21,148200,59280,22230,17784,211926,73.7,Good,Yes
+851,Deepak,Mittal,Deepak Mittal,deepak.mittal33@company.com,+91 8763583472,Marketing,SEO Analyst,contract,Gurugram,2021-09-08,119900,47960,17985,14388,171457,97.1,Good,Yes
+852,Reyansh,Agarwal,Reyansh Agarwal,reyansh.agarwal954@company.com,+91 8510194140,Marketing,Marketing Executive,full_time,Chennai,2015-02-05,35100,14040,5265,4212,50193,72.8,Excellent,Yes
+853,Divya,Verma,Divya Verma,divya.verma689@company.com,+91 9303067059,Human Resources,HR Manager,full_time,Chennai,2015-12-07,81200,32480,12180,9744,116116,93.2,Average,Yes
+854,Advait,Mehta,Advait Mehta,advait.mehta154@company.com,+91 8616445661,Sales,Business Development,part_time,Gurugram,2017-09-17,75800,30320,11370,9096,108394,80.8,Excellent,Yes
+855,Advait,Joshi,Advait Joshi,advait.joshi159@company.com,+91 8478160689,Marketing,SEO Analyst,part_time,Pune,2019-01-23,84000,33600,12600,10080,120120,98.6,Excellent,Yes
+856,Vivaan,Srivastava,Vivaan Srivastava,vivaan.srivastava435@company.com,+91 9938477723,Sales,Sales Manager,full_time,Delhi,2017-10-09,44900,17960,6735,5388,64207,79.7,Average,Yes
+857,Aditya,Tripathi,Aditya Tripathi,aditya.tripathi784@company.com,+91 8947715640,IT Support,IT Manager,full_time,Bangalore,2017-01-01,81700,32680,12255,9804,116831,98.3,Average,No
+858,Krishna,Singh,Krishna Singh,krishna.singh845@company.com,+91 7096829824,Finance,Senior Accountant,full_time,Ahmedabad,2020-09-30,43700,17480,6555,5244,62491,100.0,Good,Yes
+859,Aadhya,Jain,Aadhya Jain,aadhya.jain10@company.com,+91 7739591534,Sales,Sales Executive,contract,Delhi,2023-06-12,63200,25280,9480,7584,90376,85.9,Average,Yes
+860,Krishna,Soni,Krishna Soni,krishna.soni744@company.com,+91 7228458290,Sales,Sales Manager,full_time,Kolkata,2015-06-22,90000,36000,13500,10800,128700,96.5,Good,Yes
+861,Kunal,Singh,Kunal Singh,kunal.singh888@company.com,+91 9017994784,Human Resources,HR Analyst,part_time,Mumbai,2016-06-29,62600,25040,9390,7512,89518,76.7,Average,Yes
+862,Pankaj,Pandey,Pankaj Pandey,pankaj.pandey814@company.com,+91 9008234050,Marketing,Digital Marketer,full_time,Pune,2020-03-18,62100,24840,9315,7452,88803,97.6,Excellent,Yes
+863,Diya,Chopra,Diya Chopra,diya.chopra228@company.com,+91 8051380845,IT Support,System Admin,contract,Noida,2018-02-11,98200,39280,14730,11784,140426,95.4,Excellent,Yes
+864,Aditya,Dixit,Aditya Dixit,aditya.dixit649@company.com,+91 7167293010,Legal,Legal Analyst,part_time,Hyderabad,2022-07-01,147700,59080,22155,17724,211211,93.6,Good,Yes
+865,Tarun,Sharma,Tarun Sharma,tarun.sharma497@company.com,+91 9227739766,Legal,Legal Advisor,contract,Ahmedabad,2019-11-06,142200,56880,21330,17064,203346,74.9,Average,Yes
+866,Rajesh,Prasad,Rajesh Prasad,rajesh.prasad369@company.com,+91 8698655206,Human Resources,Training Specialist,contract,Gurugram,2015-07-02,47400,18960,7110,5688,67782,90.7,Below Average,Yes
+867,Krishna,Reddy,Krishna Reddy,krishna.reddy635@company.com,+91 9985564686,Human Resources,HR Manager,full_time,Chennai,2018-07-31,118300,47320,17745,14196,169169,90.4,Good,Yes
+868,Gaurav,Sharma,Gaurav Sharma,gaurav.sharma191@company.com,+91 9356288733,IT Support,Network Admin,full_time,Ahmedabad,2023-01-19,102500,41000,15375,12300,146575,89.4,Below Average,Yes
+869,Pranav,Mehta,Pranav Mehta,pranav.mehta808@company.com,+91 9927499016,IT Support,Network Admin,contract,Chennai,2020-06-22,55800,22320,8370,6696,79794,73.4,Good,Yes
+870,Ritvik,Chauhan,Ritvik Chauhan,ritvik.chauhan874@company.com,+91 9697020192,Marketing,Marketing Executive,part_time,Bangalore,2018-10-21,82200,32880,12330,9864,117546,94.8,Below Average,Yes
+871,Pooja,Chaudhary,Pooja Chaudhary,pooja.chaudhary505@company.com,+91 7928939233,Legal,Paralegal,contract,Bangalore,2023-05-27,70600,28240,10590,8472,100958,80.6,Average,Yes
+872,Ananya,Mehta,Ananya Mehta,ananya.mehta232@company.com,+91 9583119184,Marketing,Brand Manager,full_time,Delhi,2019-05-06,62200,24880,9330,7464,88946,81.9,Below Average,Yes
+873,Anjali,Shukla,Anjali Shukla,anjali.shukla270@company.com,+91 7872536652,Operations,Process Engineer,full_time,Chennai,2023-07-30,67600,27040,10140,8112,96668,92.0,Good,Yes
+874,Reyansh,Prasad,Reyansh Prasad,reyansh.prasad761@company.com,+91 7344135672,Sales,Sales Manager,full_time,Ahmedabad,2019-02-22,53600,21440,8040,6432,76648,94.6,Average,Yes
+875,Advik,Roy,Advik Roy,advik.roy243@company.com,+91 7242290201,Legal,Compliance Officer,part_time,Chennai,2021-04-05,125700,50280,18855,15084,179751,84.4,Excellent,Yes
+876,Pankaj,Mehta,Pankaj Mehta,pankaj.mehta167@company.com,+91 8671837558,Marketing,Content Writer,full_time,Hyderabad,2015-07-01,106900,42760,16035,12828,152867,90.4,Excellent,Yes
+877,Neha,Nair,Neha Nair,neha.nair984@company.com,+91 9392964566,Engineering,Software Engineer,full_time,Hyderabad,2015-02-21,148300,59320,22245,17796,212069,87.0,Good,Yes
+878,Tanvi,Tripathi,Tanvi Tripathi,tanvi.tripathi100@company.com,+91 7243102379,Legal,Compliance Officer,part_time,Gurugram,2021-04-19,59200,23680,8880,7104,84656,89.5,Good,Yes
+879,Anjali,Tiwari,Anjali Tiwari,anjali.tiwari447@company.com,+91 8233461211,Operations,Operations Analyst,part_time,Mumbai,2020-10-19,90400,36160,13560,10848,129272,73.7,Below Average,Yes
+880,Pooja,Sharma,Pooja Sharma,pooja.sharma639@company.com,+91 9458386188,Finance,Financial Analyst,contract,Ahmedabad,2024-12-27,76900,30760,11535,9228,109967,80.9,Average,Yes
+881,Nisha,Dixit,Nisha Dixit,nisha.dixit476@company.com,+91 7135506487,Engineering,Software Engineer,contract,Bangalore,2020-03-17,72800,29120,10920,8736,104104,75.5,Excellent,Yes
+882,Deepak,Mishra,Deepak Mishra,deepak.mishra446@company.com,+91 9085770116,Finance,Auditor,contract,Kolkata,2015-06-24,127100,50840,19065,15252,181753,75.8,Average,Yes
+883,Saurabh,Kapoor,Saurabh Kapoor,saurabh.kapoor976@company.com,+91 8666265574,Legal,Legal Advisor,full_time,Gurugram,2015-12-08,143100,57240,21465,17172,204633,95.5,Below Average,Yes
+884,Sai,Kumar,Sai Kumar,sai.kumar393@company.com,+91 7123409421,Human Resources,Training Specialist,part_time,Gurugram,2017-01-06,70500,28200,10575,8460,100815,95.9,Excellent,Yes
+885,Ramesh,Dixit,Ramesh Dixit,ramesh.dixit439@company.com,+91 9692286094,Legal,Legal Analyst,full_time,Delhi,2015-06-04,156000,62400,23400,18720,223080,82.0,Excellent,Yes
+886,Kabir,Chauhan,Kabir Chauhan,kabir.chauhan780@company.com,+91 9276191022,Sales,Sales Analyst,part_time,Delhi,2022-02-15,73600,29440,11040,8832,105248,92.4,Below Average,Yes
+887,Pranav,Naidu,Pranav Naidu,pranav.naidu97@company.com,+91 9351196053,Legal,Legal Analyst,part_time,Mumbai,2021-01-11,80400,32160,12060,9648,114972,96.1,Good,Yes
+888,Rajesh,Mittal,Rajesh Mittal,rajesh.mittal770@company.com,+91 8866502058,Human Resources,HR Manager,full_time,Gurugram,2019-12-20,116700,46680,17505,14004,166881,86.0,Good,Yes
+889,Manish,Dixit,Manish Dixit,manish.dixit123@company.com,+91 7584710264,Finance,Accountant,full_time,Gurugram,2024-09-01,56800,22720,8520,6816,81224,98.7,Excellent,Yes
+890,Diya,Tiwari,Diya Tiwari,diya.tiwari257@company.com,+91 9277138390,Legal,Paralegal,full_time,Hyderabad,2024-06-18,105900,42360,15885,12708,151437,76.0,Excellent,Yes
+891,Aadhya,Pillai,Aadhya Pillai,aadhya.pillai181@company.com,+91 7434279433,IT Support,System Admin,full_time,Ahmedabad,2020-06-18,50700,20280,7605,6084,72501,90.1,Average,Yes
+892,Rajesh,Mehta,Rajesh Mehta,rajesh.mehta439@company.com,+91 8395263472,Engineering,QA Engineer,part_time,Ahmedabad,2015-07-23,136800,54720,20520,16416,195624,85.8,Good,Yes
+893,Rahul,Rao,Rahul Rao,rahul.rao84@company.com,+91 7337034372,IT Support,IT Support Engineer,full_time,Ahmedabad,2024-09-10,91400,36560,13710,10968,130702,85.9,Average,Yes
+894,Saanvi,Garg,Saanvi Garg,saanvi.garg620@company.com,+91 7985677737,Marketing,SEO Analyst,full_time,Ahmedabad,2019-11-05,114600,45840,17190,13752,163878,86.8,Below Average,Yes
+895,Anika,Verma,Anika Verma,anika.verma763@company.com,+91 8219642605,Engineering,DevOps Engineer,full_time,Bangalore,2020-01-20,122100,48840,18315,14652,174603,95.0,Excellent,Yes
+896,Aarav,Roy,Aarav Roy,aarav.roy956@company.com,+91 7862161033,Marketing,SEO Analyst,full_time,Delhi,2021-05-26,87500,35000,13125,10500,125125,93.9,Average,Yes
+897,Varun,Chopra,Varun Chopra,varun.chopra290@company.com,+91 8744309921,Engineering,Senior Engineer,part_time,Kolkata,2017-05-11,46800,18720,7020,5616,66924,88.8,Good,Yes
+898,Reyansh,Malhotra,Reyansh Malhotra,reyansh.malhotra779@company.com,+91 7672738335,IT Support,IT Manager,contract,Mumbai,2022-02-18,101000,40400,15150,12120,144430,96.1,Below Average,Yes
+899,Neha,Dixit,Neha Dixit,neha.dixit738@company.com,+91 9218624549,Operations,Logistics Coordinator,part_time,Delhi,2015-04-25,66100,26440,9915,7932,94523,92.0,Good,Yes
+900,Suresh,Tiwari,Suresh Tiwari,suresh.tiwari73@company.com,+91 7280377818,Finance,Senior Accountant,part_time,Kolkata,2015-04-18,103000,41200,15450,12360,147290,75.4,Excellent,Yes
+901,Manish,Das,Manish Das,manish.das900@company.com,+91 7662909341,Finance,Finance Manager,full_time,Mumbai,2024-11-07,136800,54720,20520,16416,195624,79.4,Excellent,Yes
+902,Krishna,Roy,Krishna Roy,krishna.roy221@company.com,+91 7418452554,Human Resources,Recruiter,part_time,Delhi,2018-08-18,37900,15160,5685,4548,54197,93.7,Average,Yes
+903,Pankaj,Saxena,Pankaj Saxena,pankaj.saxena972@company.com,+91 7710049746,Marketing,Content Writer,full_time,Noida,2019-01-31,39900,15960,5985,4788,57057,86.2,Good,Yes
+904,Pooja,Sharma,Pooja Sharma,pooja.sharma88@company.com,+91 9255168941,Human Resources,HR Analyst,full_time,Pune,2024-04-22,101700,40680,15255,12204,145431,80.8,Excellent,Yes
+905,Divya,Joshi,Divya Joshi,divya.joshi313@company.com,+91 8580359554,IT Support,IT Manager,full_time,Ahmedabad,2021-12-31,66500,26600,9975,7980,95095,85.3,Below Average,Yes
+906,Pooja,Soni,Pooja Soni,pooja.soni554@company.com,+91 7989391602,Engineering,DevOps Engineer,full_time,Bangalore,2019-04-29,88800,35520,13320,10656,126984,82.4,Below Average,Yes
+907,Ishaan,Gupta,Ishaan Gupta,ishaan.gupta392@company.com,+91 8920588829,Legal,Paralegal,full_time,Noida,2017-01-01,118400,47360,17760,14208,169312,99.2,Average,Yes
+908,Pari,Naidu,Pari Naidu,pari.naidu365@company.com,+91 9272775508,IT Support,Help Desk Analyst,full_time,Mumbai,2015-02-11,39400,15760,5910,4728,56342,72.0,Excellent,Yes
+909,Neha,Malhotra,Neha Malhotra,neha.malhotra499@company.com,+91 7722035781,Human Resources,HR Executive,full_time,Delhi,2021-06-29,84600,33840,12690,10152,120978,89.0,Good,Yes
+910,Anjali,Chopra,Anjali Chopra,anjali.chopra772@company.com,+91 7214624250,Operations,Process Engineer,part_time,Pune,2017-06-21,75300,30120,11295,9036,107679,84.4,Below Average,Yes
+911,Mahesh,Yadav,Mahesh Yadav,mahesh.yadav12@company.com,+91 7958437742,Engineering,Senior Engineer,part_time,Gurugram,2019-08-23,138400,55360,20760,16608,197912,93.9,Excellent,Yes
+912,Divya,Soni,Divya Soni,divya.soni218@company.com,+91 9875606356,Marketing,Digital Marketer,full_time,Ahmedabad,2015-09-15,36700,14680,5505,4404,52481,98.7,Below Average,Yes
+913,Aarav,Awasthi,Aarav Awasthi,aarav.awasthi146@company.com,+91 9871271257,Human Resources,HR Executive,contract,Mumbai,2018-06-28,49400,19760,7410,5928,70642,89.9,Excellent,No
+914,Rahul,Mehta,Rahul Mehta,rahul.mehta464@company.com,+91 9925830371,Finance,Finance Manager,part_time,Mumbai,2020-02-11,71100,28440,10665,8532,101673,96.5,Good,Yes
+915,Varun,Naidu,Varun Naidu,varun.naidu225@company.com,+91 9483542984,Operations,Operations Analyst,full_time,Delhi,2017-05-05,60600,24240,9090,7272,86658,75.1,Excellent,Yes
+916,Aarav,Reddy,Aarav Reddy,aarav.reddy967@company.com,+91 9424692771,Marketing,Brand Manager,full_time,Noida,2021-07-23,48300,19320,7245,5796,69069,88.8,Below Average,Yes
+917,Mahesh,Soni,Mahesh Soni,mahesh.soni180@company.com,+91 8480635302,Finance,Auditor,full_time,Hyderabad,2016-04-18,111300,44520,16695,13356,159159,94.6,Average,Yes
+918,Ananya,Bajpai,Ananya Bajpai,ananya.bajpai912@company.com,+91 7474311731,Human Resources,HR Manager,full_time,Kolkata,2021-03-30,103200,41280,15480,12384,147576,80.5,Good,Yes
+919,Simran,Khanna,Simran Khanna,simran.khanna805@company.com,+91 8042457707,Engineering,Software Engineer,full_time,Delhi,2020-06-27,124900,49960,18735,14988,178607,98.2,Excellent,Yes
+920,Advik,Kumar,Advik Kumar,advik.kumar549@company.com,+91 8715251217,Marketing,Digital Marketer,full_time,Kolkata,2016-03-09,89000,35600,13350,10680,127270,80.8,Below Average,Yes
+921,Raj,Sharma,Raj Sharma,raj.sharma33@company.com,+91 7070728994,IT Support,Help Desk Analyst,full_time,Hyderabad,2015-04-06,42200,16880,6330,5064,60346,87.7,Average,Yes
+922,Dhruv,Yadav,Dhruv Yadav,dhruv.yadav32@company.com,+91 8679650095,Engineering,DevOps Engineer,part_time,Pune,2019-09-26,177600,71040,26640,21312,253968,93.2,Good,Yes
+923,Deepak,Shukla,Deepak Shukla,deepak.shukla679@company.com,+91 8801545257,Finance,Financial Analyst,full_time,Bangalore,2019-06-15,142200,56880,21330,17064,203346,77.3,Below Average,Yes
+924,Arun,Das,Arun Das,arun.das435@company.com,+91 9924378311,Human Resources,HR Analyst,part_time,Ahmedabad,2015-02-09,115500,46200,17325,13860,165165,77.1,Excellent,Yes
+925,Kavya,Bansal,Kavya Bansal,kavya.bansal382@company.com,+91 9087213165,IT Support,Help Desk Analyst,part_time,Mumbai,2024-02-10,42200,16880,6330,5064,60346,78.3,Below Average,Yes
+926,Saurabh,Mehta,Saurabh Mehta,saurabh.mehta64@company.com,+91 9423214968,Operations,Operations Analyst,part_time,Gurugram,2023-07-05,115600,46240,17340,13872,165308,73.7,Excellent,Yes
+927,Pari,Garg,Pari Garg,pari.garg410@company.com,+91 8928364392,Marketing,Content Writer,full_time,Kolkata,2019-05-06,62800,25120,9420,7536,89804,74.0,Average,Yes
+928,Krishna,Chopra,Krishna Chopra,krishna.chopra136@company.com,+91 8237516050,Human Resources,HR Manager,part_time,Kolkata,2021-10-24,109700,43880,16455,13164,156871,85.0,Average,Yes
+929,Raj,Rao,Raj Rao,raj.rao303@company.com,+91 7044207742,Sales,Account Manager,full_time,Pune,2021-06-29,97100,38840,14565,11652,138853,95.7,Average,Yes
+930,Vikram,Iyer,Vikram Iyer,vikram.iyer291@company.com,+91 7258885234,Sales,Account Manager,full_time,Ahmedabad,2023-06-20,72400,28960,10860,8688,103532,98.5,Below Average,Yes
+931,Pari,Patel,Pari Patel,pari.patel117@company.com,+91 7075682903,Marketing,Brand Manager,part_time,Bangalore,2017-06-03,69600,27840,10440,8352,99528,77.1,Below Average,No
+932,Darsh,Naidu,Darsh Naidu,darsh.naidu335@company.com,+91 8467056159,IT Support,IT Manager,full_time,Delhi,2021-04-23,45500,18200,6825,5460,65065,78.5,Below Average,No
+933,Aadhya,Soni,Aadhya Soni,aadhya.soni27@company.com,+91 8443099776,IT Support,Network Admin,full_time,Noida,2022-01-28,36700,14680,5505,4404,52481,84.9,Below Average,Yes
+934,Raj,Kumar,Raj Kumar,raj.kumar18@company.com,+91 8248680642,Human Resources,HR Analyst,full_time,Gurugram,2021-05-14,106000,42400,15900,12720,151580,91.6,Good,Yes
+935,Swati,Das,Swati Das,swati.das617@company.com,+91 8215450476,Human Resources,HR Analyst,full_time,Kolkata,2017-03-03,37500,15000,5625,4500,53625,92.1,Excellent,Yes
+936,Shreya,Rao,Shreya Rao,shreya.rao475@company.com,+91 8922961563,Sales,Sales Manager,part_time,Pune,2022-06-25,40800,16320,6120,4896,58344,79.3,Average,Yes
+937,Kabir,Singh,Kabir Singh,kabir.singh207@company.com,+91 7975707250,Finance,Auditor,contract,Chennai,2017-11-10,119800,47920,17970,14376,171314,86.4,Average,Yes
+938,Divya,Tripathi,Divya Tripathi,divya.tripathi148@company.com,+91 7215560527,IT Support,Network Admin,full_time,Bangalore,2015-11-05,76000,30400,11400,9120,108680,99.8,Below Average,Yes
+939,Manish,Shukla,Manish Shukla,manish.shukla199@company.com,+91 7060114619,Human Resources,Training Specialist,contract,Chennai,2020-01-11,93000,37200,13950,11160,132990,94.1,Average,Yes
+940,Anika,Bose,Anika Bose,anika.bose57@company.com,+91 9157870776,Human Resources,HR Executive,full_time,Gurugram,2022-10-24,38000,15200,5700,4560,54340,87.4,Good,Yes
+941,Kabir,Chaudhary,Kabir Chaudhary,kabir.chaudhary991@company.com,+91 8397783127,Sales,Account Manager,part_time,Ahmedabad,2024-04-04,93800,37520,14070,11256,134134,80.1,Good,Yes
+942,Rajesh,Srivastava,Rajesh Srivastava,rajesh.srivastava575@company.com,+91 7197077842,Finance,Finance Manager,contract,Delhi,2019-09-25,90300,36120,13545,10836,129129,73.3,Good,Yes
+943,Atharv,Kumar,Atharv Kumar,atharv.kumar500@company.com,+91 8915947510,Sales,Business Development,full_time,Bangalore,2018-07-05,76900,30760,11535,9228,109967,76.3,Below Average,Yes
+944,Anika,Tripathi,Anika Tripathi,anika.tripathi192@company.com,+91 8854091648,Legal,Compliance Officer,full_time,Delhi,2016-07-30,56600,22640,8490,6792,80938,94.7,Good,Yes
+945,Tarun,Menon,Tarun Menon,tarun.menon706@company.com,+91 7598679314,Human Resources,HR Manager,full_time,Mumbai,2023-05-18,106900,42760,16035,12828,152867,81.5,Excellent,Yes
+946,Diya,Tiwari,Diya Tiwari,diya.tiwari835@company.com,+91 7035137910,Marketing,Marketing Executive,full_time,Pune,2022-03-08,110400,44160,16560,13248,157872,98.0,Excellent,Yes
+947,Rohan,Nair,Rohan Nair,rohan.nair972@company.com,+91 7794650588,Engineering,Tech Lead,full_time,Hyderabad,2015-06-19,131400,52560,19710,15768,187902,87.4,Good,Yes
+948,Saurabh,Rao,Saurabh Rao,saurabh.rao331@company.com,+91 9727881438,Human Resources,HR Executive,full_time,Bangalore,2023-01-19,70400,28160,10560,8448,100672,95.9,Good,Yes
+949,Meera,Bose,Meera Bose,meera.bose836@company.com,+91 7743209499,Operations,Operations Analyst,full_time,Bangalore,2021-12-27,39700,15880,5955,4764,56771,88.7,Below Average,Yes
+950,Meera,Chopra,Meera Chopra,meera.chopra513@company.com,+91 9472206164,Marketing,Brand Manager,part_time,Chennai,2016-12-20,109900,43960,16485,13188,157157,92.8,Good,Yes
+951,Diya,Sharma,Diya Sharma,diya.sharma347@company.com,+91 8762025305,IT Support,Help Desk Analyst,contract,Bangalore,2022-10-27,73000,29200,10950,8760,104390,83.9,Below Average,Yes
+952,Vihaan,Sharma,Vihaan Sharma,vihaan.sharma165@company.com,+91 9784051673,IT Support,Network Admin,contract,Ahmedabad,2024-12-16,58700,23480,8805,7044,83941,83.1,Good,Yes
+953,Simran,Sharma,Simran Sharma,simran.sharma158@company.com,+91 9843868674,Marketing,Marketing Executive,contract,Bangalore,2021-07-04,43600,17440,6540,5232,62348,88.8,Good,Yes
+954,Varun,Bajpai,Varun Bajpai,varun.bajpai800@company.com,+91 9172523558,Sales,Sales Manager,full_time,Gurugram,2015-01-19,39500,15800,5925,4740,56485,77.8,Below Average,Yes
+955,Nikhil,Sharma,Nikhil Sharma,nikhil.sharma663@company.com,+91 8995848030,Sales,Sales Analyst,contract,Kolkata,2023-07-28,104400,41760,15660,12528,149292,88.3,Good,No
+956,Nisha,Mishra,Nisha Mishra,nisha.mishra840@company.com,+91 8189537670,IT Support,System Admin,contract,Hyderabad,2021-07-16,102800,41120,15420,12336,147004,98.7,Excellent,Yes
+957,Pankaj,Bose,Pankaj Bose,pankaj.bose635@company.com,+91 8995295807,Engineering,Software Engineer,contract,Delhi,2017-07-10,168300,67320,25245,20196,240669,94.1,Excellent,Yes
+958,Vikram,Kumar,Vikram Kumar,vikram.kumar267@company.com,+91 8239454099,Engineering,QA Engineer,full_time,Gurugram,2017-01-28,123900,49560,18585,14868,177177,90.4,Excellent,Yes
+959,Shreya,Malhotra,Shreya Malhotra,shreya.malhotra742@company.com,+91 8541093092,Sales,Sales Executive,full_time,Noida,2019-11-24,85500,34200,12825,10260,122265,88.3,Below Average,Yes
+960,Swati,Naidu,Swati Naidu,swati.naidu592@company.com,+91 7800298586,Human Resources,HR Manager,full_time,Kolkata,2015-10-24,40600,16240,6090,4872,58058,73.9,Good,Yes
+961,Pari,Goyal,Pari Goyal,pari.goyal852@company.com,+91 8079239393,Sales,Sales Analyst,full_time,Kolkata,2018-09-03,85000,34000,12750,10200,121550,96.2,Excellent,Yes
+962,Neha,Malhotra,Neha Malhotra,neha.malhotra564@company.com,+91 8860112033,Operations,Operations Analyst,contract,Kolkata,2024-10-24,50300,20120,7545,6036,71929,79.3,Excellent,Yes
+963,Gaurav,Khanna,Gaurav Khanna,gaurav.khanna78@company.com,+91 7409960525,Legal,Compliance Officer,full_time,Chennai,2018-10-14,137400,54960,20610,16488,196482,78.8,Excellent,Yes
+964,Vikram,Saxena,Vikram Saxena,vikram.saxena142@company.com,+91 7146457037,Legal,Legal Advisor,full_time,Noida,2018-12-21,81000,32400,12150,9720,115830,84.2,Good,No
+965,Aditya,Shah,Aditya Shah,aditya.shah124@company.com,+91 9469634347,IT Support,Help Desk Analyst,full_time,Chennai,2020-05-26,95700,38280,14355,11484,136851,82.3,Below Average,Yes
+966,Kunal,Agarwal,Kunal Agarwal,kunal.agarwal511@company.com,+91 9424098041,Marketing,Digital Marketer,full_time,Delhi,2015-08-20,80900,32360,12135,9708,115687,77.6,Average,Yes
+967,Ramesh,Bajpai,Ramesh Bajpai,ramesh.bajpai777@company.com,+91 8503106843,Sales,Sales Manager,full_time,Bangalore,2023-04-08,51000,20400,7650,6120,72930,80.0,Average,Yes
+968,Aarush,Iyer,Aarush Iyer,aarush.iyer424@company.com,+91 8661481120,Sales,Sales Executive,full_time,Bangalore,2023-07-29,37300,14920,5595,4476,53339,73.7,Excellent,Yes
+969,Vivaan,Soni,Vivaan Soni,vivaan.soni327@company.com,+91 8939813660,Engineering,Software Engineer,full_time,Delhi,2021-05-10,159100,63640,23865,19092,227513,76.8,Below Average,Yes
+970,Aditya,Rao,Aditya Rao,aditya.rao646@company.com,+91 8444826989,Human Resources,Recruiter,full_time,Bangalore,2024-05-28,62700,25080,9405,7524,89661,73.5,Good,Yes
+971,Priya,Dixit,Priya Dixit,priya.dixit446@company.com,+91 8117589520,Legal,Compliance Officer,full_time,Delhi,2020-11-23,118600,47440,17790,14232,169598,92.8,Excellent,Yes
+972,Varun,Chaudhary,Varun Chaudhary,varun.chaudhary138@company.com,+91 7326148154,Finance,Auditor,full_time,Hyderabad,2015-10-16,123100,49240,18465,14772,176033,89.6,Excellent,Yes
+973,Ritvik,Tripathi,Ritvik Tripathi,ritvik.tripathi545@company.com,+91 9771519381,Engineering,DevOps Engineer,full_time,Mumbai,2019-08-23,135300,54120,20295,16236,193479,94.3,Good,Yes
+974,Pari,Naidu,Pari Naidu,pari.naidu67@company.com,+91 9277571450,Finance,Accountant,full_time,Mumbai,2019-02-27,74300,29720,11145,8916,106249,94.0,Below Average,Yes
+975,Anika,Naidu,Anika Naidu,anika.naidu625@company.com,+91 9628188735,Marketing,Marketing Executive,contract,Hyderabad,2020-10-31,35400,14160,5310,4248,50622,91.6,Excellent,Yes
+976,Kabir,Nair,Kabir Nair,kabir.nair25@company.com,+91 9086394242,Human Resources,Training Specialist,full_time,Bangalore,2019-08-25,64700,25880,9705,7764,92521,91.9,Below Average,Yes
+977,Pooja,Joshi,Pooja Joshi,pooja.joshi967@company.com,+91 8472730310,Engineering,Senior Engineer,part_time,Bangalore,2019-12-01,106600,42640,15990,12792,152438,85.2,Below Average,Yes
+978,Dhruv,Bajpai,Dhruv Bajpai,dhruv.bajpai349@company.com,+91 9719629168,IT Support,Help Desk Analyst,full_time,Bangalore,2016-05-15,59600,23840,8940,7152,85228,84.2,Excellent,Yes
+979,Aarush,Prasad,Aarush Prasad,aarush.prasad939@company.com,+91 7238356716,IT Support,Help Desk Analyst,full_time,Noida,2023-05-09,95300,38120,14295,11436,136279,82.4,Excellent,Yes
+980,Rohan,Awasthi,Rohan Awasthi,rohan.awasthi626@company.com,+91 9919356036,Marketing,SEO Analyst,full_time,Pune,2016-07-14,54000,21600,8100,6480,77220,78.7,Excellent,Yes
+981,Saanvi,Goyal,Saanvi Goyal,saanvi.goyal547@company.com,+91 9891954443,Marketing,Brand Manager,full_time,Mumbai,2020-06-23,110100,44040,16515,13212,157443,96.9,Below Average,Yes
+982,Deepak,Kumar,Deepak Kumar,deepak.kumar994@company.com,+91 8542240271,Sales,Sales Analyst,full_time,Delhi,2016-07-30,99600,39840,14940,11952,142428,97.4,Good,Yes
+983,Aarav,Roy,Aarav Roy,aarav.roy268@company.com,+91 9136495119,Operations,Supply Chain Analyst,part_time,Ahmedabad,2019-07-22,119700,47880,17955,14364,171171,98.9,Below Average,Yes
+984,Pooja,Srivastava,Pooja Srivastava,pooja.srivastava562@company.com,+91 8323476013,IT Support,Network Admin,full_time,Kolkata,2018-11-16,62400,24960,9360,7488,89232,83.6,Below Average,Yes
+985,Pooja,Naidu,Pooja Naidu,pooja.naidu85@company.com,+91 9013507442,Operations,Supply Chain Analyst,full_time,Pune,2023-02-06,126300,50520,18945,15156,180609,96.5,Good,Yes
+986,Saanvi,Reddy,Saanvi Reddy,saanvi.reddy727@company.com,+91 7361254443,Marketing,Marketing Executive,full_time,Pune,2020-10-14,105600,42240,15840,12672,151008,86.8,Good,Yes
+987,Ananya,Rao,Ananya Rao,ananya.rao62@company.com,+91 7052392922,Finance,Auditor,part_time,Gurugram,2021-08-27,43900,17560,6585,5268,62777,89.0,Below Average,Yes
+988,Raj,Khanna,Raj Khanna,raj.khanna230@company.com,+91 8154694476,IT Support,IT Support Engineer,contract,Ahmedabad,2024-01-20,62700,25080,9405,7524,89661,79.6,Average,Yes
+989,Pranav,Awasthi,Pranav Awasthi,pranav.awasthi339@company.com,+91 7820882027,Sales,Sales Analyst,full_time,Noida,2024-07-07,36300,14520,5445,4356,51909,80.9,Below Average,Yes
+990,Reyansh,Singh,Reyansh Singh,reyansh.singh465@company.com,+91 8466514358,Human Resources,HR Manager,contract,Hyderabad,2017-09-15,44100,17640,6615,5292,63063,79.4,Average,Yes
+991,Tarun,Goyal,Tarun Goyal,tarun.goyal704@company.com,+91 8075256752,Marketing,Marketing Executive,full_time,Pune,2018-11-13,72900,29160,10935,8748,104247,87.0,Below Average,Yes
+992,Kavya,Iyer,Kavya Iyer,kavya.iyer799@company.com,+91 8389589259,Marketing,Brand Manager,full_time,Hyderabad,2016-08-28,78400,31360,11760,9408,112112,72.2,Excellent,Yes
+993,Reyansh,Tiwari,Reyansh Tiwari,reyansh.tiwari932@company.com,+91 7192372548,Human Resources,HR Manager,full_time,Chennai,2022-05-20,37400,14960,5610,4488,53482,88.3,Good,Yes
+994,Amit,Chopra,Amit Chopra,amit.chopra392@company.com,+91 8270413841,Finance,Accountant,full_time,Ahmedabad,2020-10-26,59900,23960,8985,7188,85657,99.4,Good,Yes
+995,Tarun,Chopra,Tarun Chopra,tarun.chopra289@company.com,+91 9343445340,Human Resources,Training Specialist,full_time,Delhi,2021-04-09,110600,44240,16590,13272,158158,89.1,Excellent,Yes
+996,Rajesh,Srivastava,Rajesh Srivastava,rajesh.srivastava98@company.com,+91 8175223404,Sales,Sales Manager,full_time,Gurugram,2022-12-16,74900,29960,11235,8988,107107,74.2,Good,Yes
+997,Vihaan,Iyer,Vihaan Iyer,vihaan.iyer361@company.com,+91 9650035073,Human Resources,Recruiter,full_time,Gurugram,2023-01-02,83000,33200,12450,9960,118690,96.0,Excellent,Yes
+998,Vivaan,Verma,Vivaan Verma,vivaan.verma794@company.com,+91 9003078251,Human Resources,HR Analyst,contract,Noida,2020-08-13,111500,44600,16725,13380,159445,84.0,Good,Yes
+999,Neha,Das,Neha Das,neha.das697@company.com,+91 8881473583,Sales,Sales Executive,contract,Ahmedabad,2017-11-01,110000,44000,16500,13200,157300,92.4,Average,Yes
+1000,Nisha,Bajpai,Nisha Bajpai,nisha.bajpai75@company.com,+91 8248044485,IT Support,IT Manager,full_time,Pune,2018-05-19,74600,29840,11190,8952,106678,89.2,Good,Yes
