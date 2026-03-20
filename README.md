@@ -1,2 +1,2 @@
 # employee-management-app
-A Python-MySQL application automating attendance tracking and HR data management.
+Python CLI app for employee attendance, HR data management automation with MySQL and RBAC
